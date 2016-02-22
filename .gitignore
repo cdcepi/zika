@@ -20,5 +20,5 @@ vignettes/*.pdf
 .Rproj.user
 
 # html files
-.html
+*.html
 
