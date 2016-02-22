@@ -1,12 +1,14 @@
-# Zika Data Repository
+# Links to additional data
 
-This data repository will be used to share publicly available data related to the ongoing Zika epidemic. It is being provided as a resource to the scientific community engaged in the public health response. The data provided here should be considered provisional and non-exhaustive.
+[Buzzfeed's](https://github.com/BuzzFeedNews/zika-data) Zika repository contains machine readable data from various sources.
 
-We are just getting going, please come back soon.
+[GenBank](http://www.ncbi.nlm.nih.gov/nuccore/KU365777.1) repository contains sequence data for Zika virus.
 
-## Users
-Original reports and data extracted from those reports are categorized by country. For each country, there is README file with basic information about currently available datasets, a data guide, and a place names database. Detailed information on formats can be found in the [data dictionary](data_dictionary.md).
+[PAHO](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11585&Itemid=41688&lang=en) Zika response page contains sitaution reports.
 
-## Contributors
-Please see the [data dictionary](data_dictionary.md) for information on standardization. More to come....
+[CDC](http://www.cdc.gov/zika/geo/active-countries.html) list of countries with active Zika transmission.
+
+[Flutrackers](https://flutrackers.com/forum/forum/emerging-diseases-other-health-threats-alphabetical-i-thru-z/zika-virus) forum for news aggregation and commentary.
+
+
 
