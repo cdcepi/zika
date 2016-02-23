@@ -1,0 +1,4 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+MX0001,weekly_zika_confirmed,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,Boletin Epidemiologico SINAVE,cases,NA
+MX0002,yearly_cumulative_female,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,Boletin Epidemiologico SINAVE,cases,NA
+MX0003,yearly_cumulative_male,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,Boletin Epidemiologico SINAVE,cases,NA
