@@ -1,4 +1,4 @@
 data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
-MX0001,weekly_zika_confirmed,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,DGE_Zika,cases,NA
-MX0002,yearly_cumulative_female,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,DGE_Zika,cases,NA
-MX0003,yearly_cumulative_male,Preliminary Information on Confirmed Cases,Informacion Preliminar de Casos Confirmados,DGE_Zika,cases,NA
+MX0001,weekly_zika_confirmed,Weekly Confirmed Zika Virus Cases,Enfermedad por Virus Zika - Confirmados - Semana,DGE_Zika,cases,NA
+MX0002,yearly_cumulative_female,Cumulative Confirmed Zika Virus Cases in Females,Enfermedad por Virus Zika - Confirmados - Acumulados - F,DGE_Zika,cases,NA
+MX0003,yearly_cumulative_male,Cumulative Confirmed Zika Virus Cases in Males,Enfermedad por Virus Zika - Confirmados - Acumulados - M,DGE_Zika,cases,NA
