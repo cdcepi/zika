@@ -19,6 +19,8 @@
 
 [University of Wisconsin-Madison](https://dholk.primate.wisc.edu/announcements/dho/public/Zika/public/ZIKV-001-public/thread.view?rowId=116) - sequence and alignment data
 
+[Uniprot](http://www.uniprot.org/uniprot/?query=Zika+virus+&sort=score) - 167 unreviewed proteins of zika virus
+
 ### Aggregate news and data
 [Models of Infectious Disease Agent Study](http://dujour.obc.io/#/?title=Zika%20Information&class-uri=http:%2F%2Fwww.pitt.edu%2Fobc%2FIDE_0000000014&recent-threshold=30) - various Zika-related reports
 
