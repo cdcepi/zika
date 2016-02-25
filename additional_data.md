@@ -13,15 +13,13 @@
 [Centers for Disease Control and Prevention](http://www.cdc.gov/zika/geo/united-states.html) - United States data
 
 ### Genetic
-[National Center for Biotechnology Information GenBank](http://www.ncbi.nlm.nih.gov/nuccore/KU365777.1) - sequence data
-
-[National Center for Biotechnology Information Nucleotide](http://www.ncbi.nlm.nih.gov/nuccore/226377833?report=fasta&to=10794) - complete genome
+[National Center for Biotechnology Information - GenBank](http://www.ncbi.nlm.nih.gov/nuccore/?term=zika) - sequence data
 
 [Virus Pathogen Resource](http://www.viprbrc.org/brc/home.spg?decorator=flavi_zika) - sequence data
 
 [University of Wisconsin-Madison](https://dholk.primate.wisc.edu/announcements/dho/public/Zika/public/ZIKV-001-public/thread.view?rowId=116) - sequence and alignment data
 
-[Uniprot](http://www.uniprot.org/uniprot/?query=Zika+virus+&sort=score) - 167 unreviewed proteins of zika virus
+[Uniprot](http://www.uniprot.org/uniprot/?query=Zika+virus+&sort=score) - unreviewed protein data
 
 ### Aggregate news and data
 [Models of Infectious Disease Agent Study](http://dujour.obc.io/#/?title=Zika%20Information&class-uri=http:%2F%2Fwww.pitt.edu%2Fobc%2FIDE_0000000014&recent-threshold=30) - various Zika-related reports
