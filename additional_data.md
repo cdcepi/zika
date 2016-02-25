@@ -15,6 +15,8 @@
 ### Genetic
 [National Center for Biotechnology Information GenBank](http://www.ncbi.nlm.nih.gov/nuccore/KU365777.1) - sequence data
 
+[National Center for Biotechnology Information Nucleotide](http://www.ncbi.nlm.nih.gov/nuccore/226377833?report=fasta&to=10794) - complete genome
+
 [Virus Pathogen Resource](http://www.viprbrc.org/brc/home.spg?decorator=flavi_zika) - sequence data
 
 [University of Wisconsin-Madison](https://dholk.primate.wisc.edu/announcements/dho/public/Zika/public/ZIKV-001-public/thread.view?rowId=116) - sequence and alignment data
