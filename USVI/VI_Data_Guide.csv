@@ -1,0 +1,21 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+VI0001,zika_reported,Reported,Reported,USVI_Zika,cases,NA
+VI0002,zika_lab_positive,Lab Positive,Lab Positive,USVI_Zika,cases,NA
+VI0003,zika_not,Lab Negative,Lab Negative,USVI_Zika,cases,NA
+VI0004,zika_pending,Lab Pending,Lab Pending,USVI_Zika,cases,NA
+VI0005,confirmed_age_under20,Confirmed by Age <20 years,Confirmed by Age <20 years,USVI_Zika,cases,NA
+VI0006,confirmed_age_20to39,Confirmed by Age 20-39 years,Confirmed by Age 20-39 years,USVI_Zika,cases,NA
+VI0007,confirmed_age_40to59,Confirmed by Age 40-59 years,Confirmed by Age 40-59 years,USVI_Zika,cases,NA
+VI0008,confirmed_age_over59,Confirmed by Age >= 60 years,Confirmed by Age >= 60 years,USVI_Zika,cases,NA
+VI0009,confirmed_age_unk,Confirmed by Age Unknown,Confirmed by Age Unknown,USVI_Zika,cases,NA
+VI0010,confirmed_male,Confirmed by Sex Female,Confirmed by Sex Female,USVI_Zika,cases,NA
+VI0011,confirmed_female,Confirmed by Sex Male,Confirmed by Sex Male,USVI_Zika,cases,NA
+VI0012,confirmed_fever,Confirmed by Symptom Fever > 38degC,Confirmed by Symptom Fever > 38degC,USVI_Zika,cases,NA
+VI0013,confirmed_acute_fever,Confirmed by Symptom Fever 2-7 days,Confirmed by Symptom Fever 2-7 days,USVI_Zika,cases,NA
+VI0014,confirmed_arthralgia,Confirmed by Symptom Arthralgia,Confirmed by Symptom Arthralgia,USVI_Zika,cases,NA
+VI0015,confirmed_arthritis,Confirmed by Symptom Arthritis,Confirmed by Symptom Arthritis,USVI_Zika,cases,NA
+VI0016,confirmed_rash,Confirmed by Symptom Rash,Confirmed by Symptom Rash,USVI_Zika,cases,NA
+VI0017,confirmed_conjunctivitis,Confirmed by Symptom Conjunctivitis,Confirmed by Symptom Conjunctivitis,USVI_Zika,cases,NA
+VI0018,confirmed_eyepain,Confirmed by Symptom Eye Pain,Confirmed by Symptom Eye Pain,USVI_Zika,cases,NA
+VI0019,confirmed_headache,Confirmed by Symptom Headache,Confirmed by Symptom Headache,USVI_Zika,cases,NA
+VI0020,confirmed_malaise,Confirmed by Symptom Malaise,Confirmed by Symptom Malaise,USVI_Zika,cases,NA
