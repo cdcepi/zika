@@ -5,6 +5,8 @@
 
 [Pan American Health Organization](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11585&Itemid=41688&lang=en) - situation reports
 
+[Pan American Health Organization](http://ais.paho.org/phip/viz/ed_zika_epicurve.asp) - epidemic curves dataset
+
 [World Health Organization](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/) - situation reports
 
 [European Centre for Disease Prevention and Control](http://ecdc.europa.eu/en/healthtopics/zika_virus_infection/zika-outbreak/Pages/zika-outbreak.aspx) - situation reports
