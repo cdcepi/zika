@@ -1,4 +1,4 @@
-location,location_type,country,state_province,district_country_municipality,city,alt_name1,alt_name2
+location,location_type,country,state_province,district_county_municipality,city,alt_name1,alt_name2
 Mexico-Aguascalientes,state,Mexico,Aguascalientes,NA,NA,Aguascalientes,NA
 Mexico-Baja_California,state,Mexico,Baja California,NA,NA,Baja California,NA
 Mexico-Baja_California_Sur,state,Mexico,Baja California Sur,NA,NA,Baja California Sur,NA
