@@ -2,7 +2,7 @@
 
 Brazil Data Guide\: [BR_Data_Guide.csv](BR_Data_Guide.csv)
 
-Brazil Place Names: [BR_Places.csv](BR_Place.csv)
+Brazil Place Names: [BR_Places.csv](BR_Places.csv)
 
 ## COES_Microcephaly: The Emergency Operations Center Microcephaly Epidemiological Report
 \(Centro de Operações de Emergências em Saúde Pública Sobre Microcefalias\)
