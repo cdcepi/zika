@@ -2,7 +2,7 @@
 
 Mexico Data Guide\: [MX_Data_Guide.csv](MX_Data_Guide.csv)
 
-Mexico Place Names: [MX_Places.csv](MX_Place.csv)
+Mexico Place Names: [MX_Places.csv](MX_Places.csv)
 
 ## DGE_Zika: Directorate-General for Epidemiology - Epidemiological Bulletin
 \(Dirección General de Epidemiología - Boletín Epidemiológico\)
