@@ -1,0 +1,15 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+SV0001,cumulative_suspected_age_under_1,Annual cumulative suspected cases of Zika for age group <1,Casos sospechosos de Zika por grupo de edad <1,Epidemiological_Bulletin,cases,NA
+SV0002,cumulative_suspected_age_1-4,Annual cumulative suspected cases of Zika for age group 1-4,Casos sospechosos de Zika por grupo de edad 1-4,Epidemiological_Bulletin,cases,NA
+SV0003,cumulative_suspected_age_5-9,Annual cumulative suspected cases of Zika for age group 5-9,Casos sospechosos de Zika por grupo de edad 5-9,Epidemiological_Bulletin,cases,NA
+SV0004,cumulative_suspected_age_10-19,Annual cumulative suspected cases of Zika for age group 10-19,Casos sospechosos de Zika por grupo de edad 10-19,Epidemiological_Bulletin,cases,NA
+SV0005,cumulative_suspected_age_20-29,Annual cumulative suspected cases of Zika for age group 20-29,Casos sospechosos de Zika por grupo de edad 20-29,Epidemiological_Bulletin,cases,NA
+SV0006,cumulative_suspected_age_30-39,Annual cumulative suspected cases of Zika for age group 30-39,Casos sospechosos de Zika por grupo de edad 30-39,Epidemiological_Bulletin,cases,NA
+SV0007,cumulative_suspected_age_40-49,Annual cumulative suspected cases of Zika for age group 40-49,Casos sospechosos de Zika por grupo de edad 40-49,Epidemiological_Bulletin,cases,NA
+SV0008,cumulative_suspected_age_50-59,Annual cumulative suspected cases of Zika for age group 50-59,Casos sospechosos de Zika por grupo de edad 50-59,Epidemiological_Bulletin,cases,NA
+SV0009,cumulative_suspected_age_60_plus,Annual cumulative suspected cases of Zika for age group 60+,Casos sospechosos de Zika por grupo de edad 60+,Epidemiological_Bulletin,cases,NA
+SV0010,cumulative_suspected_total,Annual cumulative suspected cases,Casos sospechosos,Epidemiological_Bulletin,cases,NA
+SV0011,cumulative_suspected_pregnant,Annual cumulative suspected cases in pregnant,Casos sospechosos en embarazadas,Epidemiological_Bulletin,cases,NA
+SV0012,cumulative_confirmed,Annual cumulative confirmed cases,Casos confirmados,Epidemiological_Bulletin,cases,NA
+SV0013,weekly_hospitalized,Weekly cumulative hospitalized,Hospitalizados,Epidemiological_Bulletin,cases,NA
+SV0014,cumulative_death,Annual cumulative deaths,Defunciones,Epidemiological_Bulletin,cases,NA
