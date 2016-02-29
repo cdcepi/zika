@@ -23,6 +23,8 @@
 
 [Uniprot](http://www.uniprot.org/uniprot/?query=Zika+virus+&sort=score) - unreviewed protein data
 
+[nextstrain](http://nextstrain.org/zika/) - virus phylogeny
+
 ### Aggregate news and data
 [Models of Infectious Disease Agent Study](http://dujour.obc.io/#/?title=Zika%20Information&class-uri=http:%2F%2Fwww.pitt.edu%2Fobc%2FIDE_0000000014&recent-threshold=30) - various Zika-related reports
 
