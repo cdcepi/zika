@@ -12,5 +12,6 @@ Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-m
     first report_date: 2016-02-13
     last report_date: ongoing
 
+## Brazil Health Ministry
 
-
+Parsed data and pdfs are from the [BuzzFeed repository](https://github.com/BuzzFeedNews/zika-data/)
