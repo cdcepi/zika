@@ -13,4 +13,5 @@ Please see the [data dictionary](data_dictionary.md) for information on standard
 ## Links to other data sources
 [Additional data](additional_data.md)
 
-
+## Citeable DOI
+[![DOI](https://zenodo.org/badge/20596/cdcepi/zika.svg)](https://zenodo.org/badge/latestdoi/20596/cdcepi/zika)
