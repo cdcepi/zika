@@ -1,1 +1,33 @@
-location,location_type,country,state_province,district_country_muncipality,city,alt_name1,alt_name2Mexico-Aguascalientes,state,Mexico,Aguascalientes,NA,NA,Aguascalientes,NAMexico-Baja_California,state,Mexico,Baja California,NA,NA,Baja California,NAMexico-Baja_California_Sur,state,Mexico,Baja California Sur,NA,NA,Baja California Sur,NAMexico-Campeche,state,Mexico,Campeche,NA,NA,Campeche,NAMexico-Chiapas,state,Mexico,Chiapas,NA,NA,Chiapas,NAMexico-Chihuahua,state,Mexico,Chihuahua,NA,NA,Chihuahua,NAMexico-Coahuila_de_Zaragoza,state,Mexico,Coahuila de Zaragoza,NA,NA,Coahuila,NAMexico-Colima,state,Mexico,Colima,NA,NA,Colima,NAMexico-Distrito_Federal,state,Mexico,Distrito Federal,NA,NA,Mexico city,NAMexico-Durango,state,Mexico,Durango,NA,NA,Durango,NAMexico-Guanajuato,state,Mexico,Guanajuato,NA,NA,Guanajuato,NAMexico-Guerrero,state,Mexico,Guerrero,NA,NA,Guerrero,NAMexico-Hidalgo,state,Mexico,Hidalgo,NA,NA,Hidalgo,NAMexico-Jalisco,state,Mexico,Jalisco,NA,NA,Jalisco,NAMexico-Mexico,state,Mexico,Mexico,NA,NA,Mexico,NAMexico-Michoacan_de_Ocampo,state,Mexico,Michoacan de Ocampo,NA,NA,Michoacan,NAMexico-Morelos,state,Mexico,Morelos,NA,NA,Morelos,NAMexico-Nayarit,state,Mexico,Nayarit,NA,NA,Nayarit,NAMexico-Nuevo_Leon,state,Mexico,Nuevo Leon,NA,NA,Nuevo Leon,NAMexico-Oaxaca,state,Mexico,Oaxaca,NA,NA,Oaxaca,NAMexico-Puebla,state,Mexico,Puebla,NA,NA,Puebla,NAMexico-Queretaro_de_Arteaga,state,Mexico,Queretaro de Arteaga,NA,NA,Queretaro,NAMexico-Quintana_Roo,state,Mexico,Quintana Roo,NA,NA,Quintana Roo,NAMexico-San_Luis_Potosi,state,Mexico,San Luis Potosi,NA,NA,San Luis Potosi,NAMexico-Sinaloa,state,Mexico,Sinaloa,NA,NA,Sinaloa,NAMexico-Sonora,state,Mexico,Sonora,NA,NA,Sonora,NAMexico-Tabasco,state,Mexico,Tabasco,NA,NA,Tabasco,NAMexico-Tamaulipas,state,Mexico,Tamaulipas,NA,NA,Tamaulipas,NAMexico-Tlaxcala,state,Mexico,Tlaxcala,NA,NA,Tlaxcala,NAMexico-Veracruz_de_Ignacio_de_la_Llave,state,Mexico,Veracruz de Ignacio de la Llave,NA,NA,Veracruz,NAMexico-Yucatan,state,Mexico,Yucatan,NA,NA,Yucatan,NAMexico-Zacatecas,state,Mexico,Zacatecas,NA,NA,Zacatecas,NA
+location,location_type,country,state_province,district_country_municipality,city,alt_name1,alt_name2
+Mexico-Aguascalientes,state,Mexico,Aguascalientes,NA,NA,Aguascalientes,NA
+Mexico-Baja_California,state,Mexico,Baja California,NA,NA,Baja California,NA
+Mexico-Baja_California_Sur,state,Mexico,Baja California Sur,NA,NA,Baja California Sur,NA
+Mexico-Campeche,state,Mexico,Campeche,NA,NA,Campeche,NA
+Mexico-Chiapas,state,Mexico,Chiapas,NA,NA,Chiapas,NA
+Mexico-Chihuahua,state,Mexico,Chihuahua,NA,NA,Chihuahua,NA
+Mexico-Coahuila_de_Zaragoza,state,Mexico,Coahuila de Zaragoza,NA,NA,Coahuila,NA
+Mexico-Colima,state,Mexico,Colima,NA,NA,Colima,NA
+Mexico-Distrito_Federal,state,Mexico,Distrito Federal,NA,NA,Mexico city,NA
+Mexico-Durango,state,Mexico,Durango,NA,NA,Durango,NA
+Mexico-Guanajuato,state,Mexico,Guanajuato,NA,NA,Guanajuato,NA
+Mexico-Guerrero,state,Mexico,Guerrero,NA,NA,Guerrero,NA
+Mexico-Hidalgo,state,Mexico,Hidalgo,NA,NA,Hidalgo,NA
+Mexico-Jalisco,state,Mexico,Jalisco,NA,NA,Jalisco,NA
+Mexico-Mexico,state,Mexico,Mexico,NA,NA,Mexico,NA
+Mexico-Michoacan_de_Ocampo,state,Mexico,Michoacan de Ocampo,NA,NA,Michoacan,NA
+Mexico-Morelos,state,Mexico,Morelos,NA,NA,Morelos,NA
+Mexico-Nayarit,state,Mexico,Nayarit,NA,NA,Nayarit,NA
+Mexico-Nuevo_Leon,state,Mexico,Nuevo Leon,NA,NA,Nuevo Leon,NA
+Mexico-Oaxaca,state,Mexico,Oaxaca,NA,NA,Oaxaca,NA
+Mexico-Puebla,state,Mexico,Puebla,NA,NA,Puebla,NA
+Mexico-Queretaro_de_Arteaga,state,Mexico,Queretaro de Arteaga,NA,NA,Queretaro,NA
+Mexico-Quintana_Roo,state,Mexico,Quintana Roo,NA,NA,Quintana Roo,NA
+Mexico-San_Luis_Potosi,state,Mexico,San Luis Potosi,NA,NA,San Luis Potosi,NA
+Mexico-Sinaloa,state,Mexico,Sinaloa,NA,NA,Sinaloa,NA
+Mexico-Sonora,state,Mexico,Sonora,NA,NA,Sonora,NA
+Mexico-Tabasco,state,Mexico,Tabasco,NA,NA,Tabasco,NA
+Mexico-Tamaulipas,state,Mexico,Tamaulipas,NA,NA,Tamaulipas,NA
+Mexico-Tlaxcala,state,Mexico,Tlaxcala,NA,NA,Tlaxcala,NA
+Mexico-Veracruz_de_Ignacio_de_la_Llave,state,Mexico,Veracruz de Ignacio de la Llave,NA,NA,Veracruz,NA
+Mexico-Yucatan,state,Mexico,Yucatan,NA,NA,Yucatan,NA
+Mexico-Zacatecas,state,Mexico,Zacatecas,NA,NA,Zacatecas,NA
