@@ -1,2 +1,5 @@
 "location","location_type","country","state_province","district_county_municipality","city"
 "United_States_Virgin_Islands","territory","United_States","United_States_Virgin_Islands",NA,NA
+"United_States_Virgin_Islands-Saint_Thomas","county","United_States","United_States_Virgin_Islands","Saint_Thomas",NA
+"United_States_Virgin_Islands-Saint_Croix","county","United_States","United_States_Virgin_Islands","Saint_Croix",NA
+"United_States_Virgin_Islands-Saint_John","county","United_States","United_States_Virgin_Islands","Saint_John",NA
