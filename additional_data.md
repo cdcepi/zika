@@ -25,6 +25,9 @@
 
 [nextstrain](http://nextstrain.org/zika/) - virus phylogeny
 
+### Experimental data
+[University of Wisconsin-Madison](https://dholk.primate.wisc.edu/project/dho/public/Zika/public/ZIKV-001-public/begin.view) - viral shedding in rhesus macaques
+
 ### Aggregate news and data
 [Models of Infectious Disease Agent Study](http://dujour.obc.io/#/?title=Zika%20Information&class-uri=http:%2F%2Fwww.pitt.edu%2Fobc%2FIDE_0000000014&recent-threshold=30) - various Zika-related reports
 
