@@ -3,7 +3,7 @@
 Dominican Republic Guide: [DO_Data_Guide.csv](DO_Data_Guide.csv)  
 Dominican Republic Place Names: [DO_Places.csv](DO_Places.csv)  
   
-### Epidemiological_Bulletins: Public Health Ministry - DIGEPI  
+### Epidemiological_Bulletin: Public Health Ministry - DIGEPI  
 (Ministerio de Salud Publica - DIGEPI)
 
 Source: <http://digepisalud.gob.do/documentos/?drawer=Boletines%20epidemiol%C3%B3gicos*Boletines%20semanales*2016>  
