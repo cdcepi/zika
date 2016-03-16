@@ -1,0 +1,15 @@
+"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
+"DO0001","total_zika_new_suspected","Total number of new suspected cases","Casos nuevos sospechosos","Epidemiological_Bulletin","cases",NA
+"DO0002","total_zika_new_confirmed_pcr","Total number of new confirmed cases by PCR","Casos nuevos confirmados por PCR","Epidemiological_Bulletin","cases",NA
+"DO0003","zika_new_confirmed_pcr_M","Confirmed new cases from Females","Casos nuevos confirmados en mujeres","Epidemiological_Bulletin","cases",NA
+"DO0004","zika_new_confirmed_pcr_F","Confirmed new cases from Males","Casos nuevos confirmados en varones","Epidemiological_Bulletin","cases",NA
+"DO0005","zika_new_confirmed_pcr_age_15-57","Confirmed new cases for ages 15-57","Casos nuevos confirmados entre edades de 15 a 57","Epidemiological_Bulletin","cases",NA
+"DO0006","zika_new_confirmed_pcr_age_11-53_F","Confirmed new cases for Females ages 11-53","Casos nuevos confirmados en mujeres edades 11 a 53","Epidemiological_Bulletin","cases",NA
+"DO0007","zika_new_confirmed_pcr_age_34-48_M","Confirmed new cases for Males ages 38-48","Casos nuevos confirmados en hombres edades 38 a 48","Epidemiological_Bulletin","cases",NA
+"DO0008","zika_new_confirmed_pcr_age_under-5","Confirmed new cases for ages under 5","Casos nuevos confirmados menores de 5","Epidemiological_Bulletin","cases",NA
+"DO0009","zika_suspected_pregnant","Suspected pregnant cases","Casos nuevos sospechosos embarazadas","Epidemiological_Bulletin","cases",NA
+"DO0010","zika_suspected_since_week1","Total suspected cases since week 1","Total de casos sospechosos desde primera semana","Epidemiological_Bulletin","cases",NA
+"DO0011","zika_confirmed_pcr_since_week1","Total confirmed cases since week 1","Total de casos confirmados desde primera semana","Epidemiological_Bulletin","cases",NA
+"DO0012","zika_suspected_pregnant_since_week1","Total suspected pregnant cases since week 1","Total de casos sospechosos embarazadas desde primera semana","Epidemiological_Bulletin","cases",NA
+"DO0013","distribution_zika_new_suspected","Breakdown of new suspected cases by place","Distribucion casos nuevos sospechosos","Epidemiological_Bulletin","cases",NA
+"DO0014","distribution_zika_new_confirmed_pcr","Breakdown of new confirmed cases by place","Distribucion casos nuevos confirmados","Epidemiological_Bulletin","cases",NA
