@@ -19,6 +19,6 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-03-08,United States Virgin Islands,territory,zika_not,VI0003,NA,NA,30,cases
 2016-03-08,United States Virgin Islands,territory,zika_pending,VI0004,NA,NA,65,cases
 2016-03-08,United States Virgin Islands,territory,zika_reported,VI0001,NA,NA,75,cases
-2016-02-23,United_States_Virgin_Islands-Saint_Thomas,county,zika_reported,VI0001,NA,NA,30,cases
-2016-02-23,United_States_Virgin_Islands-Saint_Croix,county,zika_reported,VI0001,NA,NA,43,cases
-2016-02-23,United_States_Virgin_Islands-Saint_John,county,zika_reported,VI0001,NA,NA,2,cases
+2016-03-08,United_States_Virgin_Islands-Saint_Thomas,county,zika_reported,VI0001,NA,NA,30,cases
+2016-03-08,United_States_Virgin_Islands-Saint_Croix,county,zika_reported,VI0001,NA,NA,43,cases
+2016-03-08,United_States_Virgin_Islands-Saint_John,county,zika_reported,VI0001,NA,NA,2,cases
