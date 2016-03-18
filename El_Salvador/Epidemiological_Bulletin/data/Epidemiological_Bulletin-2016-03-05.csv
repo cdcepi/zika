@@ -37,4 +37,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-03-05,El_Salvador-Morazan,department,cumulative_suspected_pregnant,SV0011,NA,NA,3,cases
 2016-03-05,El_Salvador-Usulutan,department,cumulative_suspected_pregnant,SV0011,NA,NA,6,cases
 2016-03-05,El_Salvador-Guatemala,department,cumulative_suspected_pregnant,SV0011,NA,NA,1,cases
-2016-03-05,El_Salvador,country,cumulative_suspected_pregnant,SV0011,NA,NA,5620,cases
+2016-03-05,El_Salvador,country,cumulative_suspected_pregnant,SV0011,NA,NA,178,cases
