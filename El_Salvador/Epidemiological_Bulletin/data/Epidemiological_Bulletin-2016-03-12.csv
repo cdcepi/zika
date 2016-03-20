@@ -1,0 +1,43 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2016-03-12,El_Salvador- Ahuachapa,Department,cumulative_suspected_total,SV0010,N/A,N/A,130,cases
+2016-03-12,El_Salvador- Cabanas,Department,cumulative_suspected_total,SV0010,N/A,N/A,269,cases
+2016-03-12,El_Salvador-Chalatenango,Department,cumulative_suspected_total,SV0010,N/A,N/A,426,cases
+2016-03-12,El_Salvador-Cuscatlan,Department,cumulative_suspected_total,SV0010,N/A,N/A,459,cases
+2016-03-12,El_Salvador-La_Libertad,Department,cumulative_suspected_total,SV0010,N/A,N/A,943,cases
+2016-03-12,El_Salvador-La_Paz,Department,cumulative_suspected_total,SV0010,N/A,N/A,119,cases
+2016-03-12,El_Salvador-La_Union,Department,cumulative_suspected_total,SV0010,N/A,N/A,33,cases
+2016-03-12,El_Salvador-Morazan,Department,cumulative_suspected_total,SV0010,N/A,N/A,101,cases
+2016-03-12,El_Salvador-San_Miguel,Department,cumulative_suspected_total,SV0010,N/A,N/A,118,cases
+2016-03-12,El_Salvador-San_Salvador,Department,cumulative_suspected_total,SV0010,N/A,N/A,2146,cases
+2016-03-12,El_Salvador-San_Vicente,Department,cumulative_suspected_total,SV0010,N/A,N/A,266,cases
+2016-03-12,El_Salvador-Santa_Ana,Department,cumulative_suspected_total,SV0010,N/A,N/A,503,cases
+2016-03-12,El_Salvador-Sonsonate,Department,cumulative_suspected_total,SV0010,N/A,N/A,60,cases
+2016-03-12,El_Salvador-Usulutan,Department,cumulative_suspected_total,SV0010,N/A,N/A,118,cases
+2016-03-12,El_Salvador-Guatemala,Department,cumulative_suspected_total,SV0010,N/A,N/A,2,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_total,SV0010,N/A,N/A,5693,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_under_1,SV0001,N/A,N/A,73,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_1-4,SV0002,N/A,N/A,53,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_5-9,SV0003,N/A,N/A,43,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_10-19,SV0004,N/A,N/A,39,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_20-29,SV0005,N/A,N/A,119,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_30-39,SV0006,N/A,N/A,163,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_40-49,SV0007,N/A,N/A,145,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_50-59,SV0008,N/A,N/A,109,cases
+2016-03-12,El Salvador,country,cumulative_suspected_age_60_plus,SV0009,N/A,N/A,36,cases
+2016-03-12,El_Salvador-Sonsonate,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,2,cases
+2016-03-12,El_Salvador-San_Miguel,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,7,cases
+2016-03-12,El_Salvador-Cabanas,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,20,cases
+2016-03-12,El_Salvador-Cuscatlan,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,14,cases
+2016-03-12,El_Salvador-San_Salvador,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,67,cases
+2016-03-12,El_Salvador-San_Vicente,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,16,cases
+2016-03-12,El_Salvador-Santa_Ana,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,10,cases
+2016-03-12,El_Salvador-Chalatenango,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,15,cases
+2016-03-12,El_Salvador-La_Libertad,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,18,cases
+2016-03-12,El_Salvador-La_Paz,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,1,cases
+2016-03-12,El_Salvador-Morazan,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,3,cases
+2016-03-12,El_Salvador-Usulutan,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,6,cases
+2016-03-12,El_Salvador-Guatemala,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,1,cases
+2016-03-12,El_Salvador-La_Union,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,1,cases
+2016-03-12,El_Salvador- Ahuachapan,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,2,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_pregnant,SV0011,N/A,N/A,183,cases
+2016-03-12,El_Salvador,country,weekly_hospitalized,SV0013,NA,NA,0,cases
