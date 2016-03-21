@@ -1,4 +1,4 @@
-## Haiti  
+# Haiti  
   
 Haiti Guide: [HA_Data_Guide.csv](HA_Data_Guide.csv)  
 Haiti Place Names: [HA_Places.csv](HA_Places.csv)  
