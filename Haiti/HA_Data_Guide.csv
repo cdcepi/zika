@@ -1,0 +1,7 @@
+"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
+"HA0001","total_zika_new_suspected","Total number of new suspected cases","Casos nuevos sospechosos","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
+"HA0002","total_zika_new_confirmed_pcr","Total number of new confirmed cases by PCR","Casos nuevos confirmados por PCR","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
+"HA0003","zika_new_confirmed_pcr_M","Confirmed new cases from Females","Casos nuevos confirmados en mujeres","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
+"HA0004","zika_new_confirmed_pcr_F","Confirmed new cases from Males","Casos nuevos confirmados en varones","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
+"HA0005","total_zika_new_suspected_cumulative","Total suspected cases from week 42 2015 to week 4 2016","Total de casos sospechosos desde semana 42 2015 hasta semana 4 2016","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
+"HA0006","total_zika_new_confirmed_pcr_cumulative","Total confirmed cases from week 42 2015 to week 4 2016","Total de casos confirmados desde semana 42 2015 hasta semana 4 2016","HA_Evolution-Epidimie_ZIKA_Haiti","cases",NA
