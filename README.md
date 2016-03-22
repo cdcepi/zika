@@ -5,7 +5,7 @@ This data repository will be used to share publicly available data related to th
 If you find the data useful, support data sharing by referencing both the original source and this repository (see DOI below).
 
 ## Users
-Original reports and data extracted from those reports are categorized by country. For each country, there is a README file (with basic information about currently available datasets), a data guide, and a place names database. Detailed information on formats can be found in the [data dictionary](data_dictionary.md).
+Original reports and data extracted from those reports are categorized by country. For each country, there is a README file (with basic information about currently available datasets), a data guide, and a place names database. Detailed information on formats can be found in the [data dictionary](data_dictionary.md). If you find a mistake please create an [issue](https://help.github.com/articles/creating-an-issue/) or (preferrably) fix it and submit a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 ## Contributors
 Please see the [data dictionary](data_dictionary.md) for information on standardization. We are working on getting more countries online. Pull requests will be accepted. 
