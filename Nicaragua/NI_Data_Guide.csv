@@ -1,6 +1,6 @@
 "data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
-"NI0001","total_zika_new_confirmed","Total number of confirmed cases","Casos nuevos confirmados","MINSA_ZIKA_Search","cases",NA
-"NI0002","total_zika_new_confirmed_pregnant","Total number of confirmed pregnant cases","Casos nuevos confirmados en embarazadas","MINSA_ZIKA_Search","cases",NA
-"NI0003","total_zika_new_confirmed_cumulative","Total confirmed cases to date","Casos nuevos confirmados hasta la fecha","MINSA_ZIKA_Search","cases",NA
-"NI0004","total_zika_new_confirmed_pregnant_cumulative","Total confirmed pregnant cases to date","Casos nuevos confirmados en embarazadas hasta la fecha","MINSA_ZIKA_Search","cases",NA
+"NI0001","total_zika_confirmed","Total number of confirmed cases","Casos confirmados","MINSA_ZIKA_Search","cases",NA
+"NI0002","total_zika_confirmed_pregnant","Total number of confirmed pregnant cases","Casos confirmados en embarazadas","MINSA_ZIKA_Search","cases",NA
+"NI0003","total_zika_confirmed_cumulative","Total confirmed cases to date","Casos confirmados hasta la fecha","MINSA_ZIKA_Search","cases",NA
+"NI0004","total_zika_confirmed_pregnant_cumulative","Total confirmed pregnant cases to date","Casos confirmados en embarazadas hasta la fecha","MINSA_ZIKA_Search","cases",NA
 "NI0005","total_zika_new_suspected","Total number of new suspected cases","Casos nuevos sospechosos","MINSA_ZIKA_Search","cases",NA
