@@ -1,0 +1,14 @@
+[MINSA_ZIKA_Search-2454](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2454-gobierno-sandinista-en-despliegue-de-amor-a-nicaragua-este-fin-de-semana)-2016-02-09  
+[MINSA_ZIKA_Search-2473](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2473-rosario-anuncia-nuevo-foro-para-evaluar-comportamiento-del-zika)-2016-02-11  
+[MINSA_ZIKA_Search-2472](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2472-companera-rosario-invita-a-las-familias-a-participar-en-lucha-antiepidemica-este-fin-de-semana)-2016-02-12  
+[MINSA_ZIKA_Search-2481](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2481-continua-de-forma-permanente-la-lucha-contra-el-mosquito-transmisor-del-dengue-el-chikungunyay-el-zika-con-la-participacion-de-la-poblacion-organizada)-2016-02-15  
+[MINSA_ZIKA_Search-2489](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2489-minsa-cuenta-con-equipos-especiales-para-posibles-afectados-por-complicaciones-del-virus)-2016-02-16  
+[MINSA_ZIKA_Search-2510](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2510-eliminar-los-criaderos-de-zancudos-para-prevenir-el-dengue-el-chikungunya-y-el-zika)-2016-02-22  
+[MINSA_ZIKA_Search-2518](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2518-ministerio-de-salud-reporta-cuarta-muerte-por-dengue)-2016-02-23  
+[MINSA_ZIKA_Search-2538](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2538-epidemiologos-del-minsa-reiteran-medidas-para-prevenir-dengue-chikungunya-y-zika)-2016-02-29  
+[MINSA_ZIKA_Search-2540](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2540-alerta-por-sospecha-de-hepatitis-en-jinotega)-2016-03-01  
+[MINSA_ZIKA_Search-2548](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2548-rosario-anuncia-programa-nacional-de-colecta-de-sangre-y-censo-de-nutricion-infantil)-2016-03-07  
+[MINSA_ZIKA_Search-2562](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2562-mujeresembarazada)-2016-03-11  
+[MINSA_ZIKA_Search-2566](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2566-nicaragua-reporta-11-embarazadas-con-zika)-2016-03-14  
+[MINSA_ZIKA_Search-2573](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2573-avanza-censo-de-nutricion-en-preescolares-y-escuelas-publicas-de-todo-el-pais)-2016-03-16  
+
