@@ -15,15 +15,15 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-03-12,El_Salvador-Usulutan,Department,cumulative_suspected_total,SV0010,N/A,N/A,118,cases
 2016-03-12,El_Salvador-Guatemala,Department,cumulative_suspected_total,SV0010,N/A,N/A,2,cases
 2016-03-12,El_Salvador,country,cumulative_suspected_total,SV0010,N/A,N/A,5693,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_under_1,SV0001,N/A,N/A,73,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_1-4,SV0002,N/A,N/A,53,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_5-9,SV0003,N/A,N/A,43,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_10-19,SV0004,N/A,N/A,39,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_20-29,SV0005,N/A,N/A,119,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_30-39,SV0006,N/A,N/A,163,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_40-49,SV0007,N/A,N/A,145,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_50-59,SV0008,N/A,N/A,109,cases
-2016-03-12,El Salvador,country,cumulative_suspected_age_60_plus,SV0009,N/A,N/A,36,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_under_1,SV0001,N/A,N/A,73,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_1-4,SV0002,N/A,N/A,53,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_5-9,SV0003,N/A,N/A,43,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_10-19,SV0004,N/A,N/A,39,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_20-29,SV0005,N/A,N/A,119,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_30-39,SV0006,N/A,N/A,163,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_40-49,SV0007,N/A,N/A,145,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_50-59,SV0008,N/A,N/A,109,cases
+2016-03-12,El_Salvador,country,cumulative_suspected_age_60_plus,SV0009,N/A,N/A,36,cases
 2016-03-12,El_Salvador-Sonsonate,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,2,cases
 2016-03-12,El_Salvador-San_Miguel,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,7,cases
 2016-03-12,El_Salvador-Cabanas,department,cumulative_suspected_pregnant,SV0011,N/A,N/A,20,cases
