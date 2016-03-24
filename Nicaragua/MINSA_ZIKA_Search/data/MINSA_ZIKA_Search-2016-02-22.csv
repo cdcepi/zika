@@ -1,4 +1,4 @@
 "report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
 2016-02-22,"Nicaragua","country","total_zika_new_suspected","NI0005",NA,NA,63,"cases"
-2016-02-22,"Nicaragua","country","total_zika_new_confirmed","NI0001",NA,NA,12,"cases"
-2016-02-22,"Nicaragua","country","total_zika_new_confirmed_cumulative","NI0003",NA,NA,77,"cases"
+2016-02-22,"Nicaragua","country","total_zika_confirmed","NI0001",NA,NA,12,"cases"
+2016-02-22,"Nicaragua","country","total_zika_confirmed_cumulative","NI0003",NA,NA,77,"cases"
