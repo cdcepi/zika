@@ -2,7 +2,7 @@
 
 Florida Data Guide\: [US-FL_Data_Guide.csv](US-FL_Data_Guide.csv)
 
-Florida Place Names: [US-FL_Places.csv](US-FL_Place.csv)
+Florida Place Names: [US-FL_Places.csv](US-FL_Places.csv)
 
 ## FDH_Arbovirus: Florida Department of Health Weekly Arbovirus Surveillance Reports
 
