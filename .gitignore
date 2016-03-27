@@ -23,3 +23,5 @@ vignettes/*.pdf
 # html files
 *.html
 
+.DS_Store
+
