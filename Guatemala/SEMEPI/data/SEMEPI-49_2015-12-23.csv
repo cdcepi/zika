@@ -1,0 +1,10 @@
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
+2015-12-23,"Guatemala","country","total_zika_suspected_cumulative","GT0007",NA,NA,21,NA
+2015-12-23,"Guatemala-Zacapa","municipality","total_zika_suspected_cumulative","GT0007",NA,NA,7,NA
+2015-12-23,"Guatemala-Chiquimula","municipality","total_zika_suspected_cumulative","GT0007",NA,NA,6,NA
+2015-12-23,"Guatemala-Suchitepequez","municipality","total_zika_suspected_cumulative","GT0007",NA,NA,5,NA
+2015-12-23,"Guatemala-Nor_Oriente","municipality","total_zika_suspected_cumulative","GT0007",NA,NA,2,NA
+2015-12-23,"Guatemala-Jutiapa","municipality","total_zika_suspected_cumulative","GT0007",NA,NA,1,NA
+2015-12-23,"Guatemala","country","total_zika_confirmed_cumulative","GT0008",NA,NA,29,NA
+2015-12-23,"Guatemala-Zacapa","municipality","total_zika_confirmed_cumulative","GT0008",NA,NA,22,NA
+2015-12-23,"Guatemala-Escuintla","municipality","total_zika_confirmed_cumulative","GT0008",NA,NA,7,NA
