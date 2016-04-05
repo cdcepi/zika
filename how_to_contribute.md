@@ -44,6 +44,7 @@
   
 ### Contributing to the Zika Project from Git  
   New information can be added to your *local repo* and then uploaded to *your* github fork as follows:  
+  **Please, update and sync your local clone to the upstream before pushing any changes (see below).**   
   
 1. Open Git Bash
 2. Change current working directory to local repo.
