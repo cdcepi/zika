@@ -10,6 +10,9 @@ Original reports and data extracted from those reports are categorized by countr
 ## Contributors
 Please see the [data dictionary](data_dictionary.md) for information on standardization. We are working on getting more countries online. Pull requests will be accepted. 
 
+## How to contribute
+Follow the [how to contribute](how_to_contribute.md) guide to contribute to the CDC zika repo from your fork or local git clone. 
+
 ## Links to other data sources
 [Additional data](additional_data.md)
 
