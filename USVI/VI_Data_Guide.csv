@@ -19,3 +19,4 @@ VI0017,confirmed_conjunctivitis,Confirmed by Symptom Conjunctivitis,Confirmed by
 VI0018,confirmed_eyepain,Confirmed by Symptom Eye Pain,Confirmed by Symptom Eye Pain,USVI_Zika,cases,NA
 VI0019,confirmed_headache,Confirmed by Symptom Headache,Confirmed by Symptom Headache,USVI_Zika,cases,NA
 VI0020,confirmed_malaise,Confirmed by Symptom Malaise,Confirmed by Symptom Malaise,USVI_Zika,cases,NA
+VI0021,zika_no_specimen,No Specimen,No Specimen,USVI_Zika,cases,NA
