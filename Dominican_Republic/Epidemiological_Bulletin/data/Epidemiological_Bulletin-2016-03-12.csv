@@ -1,6 +1,6 @@
 "report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
 2016-03-12,"Dominican_Republic","country","total_zika_new_suspected","DO0001",NA,NA,122,"cases"
-2016-03-12,"Dominican_Republic","country","zika_new_suspected_pregnant","DO0008",NA,NA,9,"cases"
+2016-03-12,"Dominican_Republic","country","zika_suspected_pregnant","DO0008",NA,NA,9,"cases"
 2016-03-12,"Dominican_Republic-Santo_Domingo","province","total_zika_new_suspected","DO0001",NA,NA,65,"cases"
 2016-03-12,"Dominican_Republic-Distrito_Nacional","province","total_zika_new_suspected","DO0001",NA,NA,36,"cases"
 2016-03-12,"Dominican_Republic-Azua","province","total_zika_new_suspected","DO0001",NA,NA,3,"cases"
