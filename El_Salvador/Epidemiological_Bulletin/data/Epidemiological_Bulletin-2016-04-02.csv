@@ -40,5 +40,5 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-04-02,El_Salvador-La_Union,department,cumulative_suspected_pregnant,SV0011,NA,NA,1,cases
 2016-04-02,El_Salvador-Ahuachapan,department,cumulative_suspected_pregnant,SV0011,NA,NA,2,cases
 2016-04-02,El_Salvador,country,cumulative_suspected_pregnant,SV0011,NA,NA,194,cases
-2016-04-02,El_Salvador,country,weekly_hospitalized,SV0013,NA,NA,,cases
+2016-04-02,El_Salvador,country,weekly_hospitalized,SV0013,NA,NA,NA,cases
 2016-04-02,El_Salvador,country,cumulative_confirmed,SV0012,NA,NA,43,cases
