@@ -8,4 +8,6 @@
 "DO0007","zika_suspected_pregnant_since_week1","Total suspected pregnant cases since week 1","Total de casos sospechosos embarazadas desde primera semana","Epidemiological_Bulletin","cases",NA
 "DO0008","zika_suspected_pregnant","Suspected cases from pregnant women","Casos sospechosos en embarazadas","Epidemiological_Bulletin","cases",NA
 "DO0009","EFE_reported","Reported Febrile Rash Illness (EFE) as zika predictor","Casos reportados de Enfermedad Febril Eruptiva (EFE) como predictor de zika","Epidemiological_Bulletin","cases",NA
-"DO0010","SGB_reported","Reported Guillain-Barre Syndrome (SGB) as zika predictor","Casos reportados de Sindrome Guillain-Barre (SGB) como predictor de zika","Epidemiological_Bulletin","cases",NA
+"DO0010","GBS_reported","Reported Guillain-Barre Syndrome (GBS) as zika predictor","Casos reportados de Sindrome Guillain-Barre (GBS) como predictor de zika","Epidemiological_Bulletin","cases",NA
+"DO0011","GBS_confirmed","Confirmed GBS cases","Casos confirmados de GBS","Epidemiological_Bulletin","cases",NA
+"DO0012","GBS_zika_confirmed","Confirmed cases for both GBS and zika","Casos confirmados para GBS positivos a zika","Epidemiological_Bulletin","cases",NA
