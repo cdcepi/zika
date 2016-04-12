@@ -7,3 +7,4 @@
 "DO0006","zika_confirmed_pcr_since_week1","Total confirmed cases since week 1","Total de casos confirmados desde primera semana","Epidemiological_Bulletin","cases",NA
 "DO0007","zika_suspected_pregnant_since_week1","Total suspected pregnant cases since week 1","Total de casos sospechosos embarazadas desde primera semana","Epidemiological_Bulletin","cases",NA
 "DO0008","zika_suspected_pregnant","Suspected cases from pregnant women","Casos sospechosos en embarazadas","Epidemiological_Bulletin","cases",NA
+"DO0009","EFE_reported","Reported Febrile Rash Illness (EFE) as zika predictor","Casos reportados de Enfermedad Febril Eruptiva (EFE) como predictor de zika","Epidemiological_Bulletin","cases",NA
