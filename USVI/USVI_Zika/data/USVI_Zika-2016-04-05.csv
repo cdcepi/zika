@@ -22,4 +22,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-04-05,United_States_Virgin_Islands-Saint_Thomas,county,zika_reported,VI0001,NA,NA,54,cases
 2016-04-05,United_States_Virgin_Islands-Saint_Croix,county,zika_reported,VI0001,NA,NA,90,cases
 2016-04-05,United_States_Virgin_Islands-Saint_John,county,zika_reported,VI0001,NA,NA,4,cases
-2016-04-05,United_States_Virgin_Islands-Saint_John,county,zika_no_specimen,VI0021,NA,NA,2,cases
+2016-04-05,United_States_Virgin_Islands,territory,zika_no_specimen,VI0021,NA,NA,2,cases
