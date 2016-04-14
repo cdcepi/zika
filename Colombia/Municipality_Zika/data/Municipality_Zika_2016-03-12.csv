@@ -1,4 +1,4 @@
-"report_date","location","location_type","data_field","data_field_type","time_period","time_period_type","value","unit"
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
 2016-03-12,"Colombia-Antioquia-Unknown","municipality","zika_confirmed_laboratory","CO0001",NA,NA,3,"cases"
 2016-03-12,"Colombia-Antioquia-Medellin","municipality","zika_confirmed_laboratory","CO0001",NA,NA,44,"cases"
 2016-03-12,"Colombia-Antioquia-Abejorral","municipality","zika_confirmed_laboratory","CO0001",NA,NA,0,"cases"
