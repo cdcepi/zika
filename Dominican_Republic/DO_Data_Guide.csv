@@ -14,3 +14,4 @@
 "DO0013","GBS_zika_confirmed_pregnant","Confirmed cases for both GBS and zika in pregnant women","Casos confirmados de GBS positivo a zika en embarazadas","Epidemiological_Bulletin","cases",NA
 "DO0014","GBS_reported_cumulative","Cumulative cases of GBS","Casos acumulados de GBS","Epidemiological_Bulletin","cases",NA
 "DO0015","GBS_zika_reported_cumulative","Cumulative GBS-zika positive cases","Casos acumulados de GBS-zika","Epidemiological_Bulletin","cases",NA
+"DO0016","zika_confirmed_pregnant","Confirmed cases from pregnant women","Casos confirmados en embarazadas","Epidemiological_Bulletin","cases",NA
