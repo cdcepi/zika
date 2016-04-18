@@ -7,3 +7,5 @@
 "GT0006","total_zika_confirmed_M","Confirmed Cases from Males","Casos confirmados en Hombres","SEMEPI","cases",NA
 "GT0007","total_zika_suspected_cumulative","Total suspected cases cummulative","Total de casos sospechosos acumulados","SEMEPI","cases",NA
 "GT0008","total_zika_confirmed_cumulative","Total confirmed cases cummulative","Total de casos confirmados acumulados","SEMEPI","cases",NA
+"GT0009","total_zika_suspected_pregnant_cumulative","Total suspected cases from pregnant women cumulative","Total casos sospechosos acumulados en embarazadas","SEMEPI","cases",NA
+"GT0010","total_zika_confirmed_pregnant_cumulative","Total confirmed cases from pregnant women cumulative","Total casos confirmados acumulados en embarazadas","SEMEPI","cases",NA
