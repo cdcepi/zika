@@ -11,4 +11,4 @@
 [MINSA_ZIKA_Search-2562](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2562-mujeresembarazada)-2016-03-11  
 [MINSA_ZIKA_Search-2566](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2566-nicaragua-reporta-11-embarazadas-con-zika)-2016-03-14  
 [MINSA_ZIKA_Search-2573](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2573-avanza-censo-de-nutricion-en-preescolares-y-escuelas-publicas-de-todo-el-pais)-2016-03-16  
-
+[MINSA_ZIKA_Search-2585](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2585-informe-de-la-lucha-antiepidemica-en-semana-santa)-2016-03-28
