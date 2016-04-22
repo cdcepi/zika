@@ -11,4 +11,4 @@ Source: <http://www.salud.gob.sv/documentos-institucionales/> contains 2016 repo
 Some reports were retrieved from <https://www.salud.gob.sv/temas/politicas-de-salud/dir-vigilancia-sanitaria/u-vigilancia-de-la-salud> (although link appears to have been broken as of 2/29/2016).
 
     first report_date: 2015-11-28
-    last report_date: ongoing
+    last report_date: 2016-04-19
