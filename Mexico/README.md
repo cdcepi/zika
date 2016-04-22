@@ -10,4 +10,4 @@ Mexico Place Names: [MX_Places.csv](MX_Places.csv)
 Source: <http://www.epidemiologia.salud.gob.mx/dgae/boletin/intd_boletin.html>
 
     first report_date: 2015-11-28
-    last report_date: ongoing
+    last report_date: 2016-04-09
