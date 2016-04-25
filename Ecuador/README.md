@@ -8,5 +8,5 @@ Ecuador Place Names: [EC_Places.csv](EC_Places.csv)
 Source: <http://www.salud.gob.ec/zika/>  
 
      first report_date: 2016-03-30  
-     last report_date: 2016-04-13
+     last report_date: ongoing
 
