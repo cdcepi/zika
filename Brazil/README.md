@@ -10,7 +10,7 @@ Brazil Place Names: [BR_Places.csv](BR_Places.csv)
 Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/197-secretaria-svs/20799-microcefalia>
 
     first report_date: 2016-02-13
-    last report_date: 2016-04-16
+    last report_date: ongoing
 
 
 
