@@ -10,4 +10,4 @@ Argentina Place Names: [AR_Places.csv](AR_Place.csv)
 Source: <http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia>
 
     first report_date: 2016-03-19
-    last report_date: 2016-03-26
+    last report_date: ongoing
