@@ -15,3 +15,5 @@
 "DO0014","GBS_reported_cumulative","Cumulative cases of GBS","Casos acumulados de GBS","Epidemiological_Bulletin","cases",NA
 "DO0015","GBS_zika_reported_cumulative","Cumulative GBS-zika positive cases","Casos acumulados de GBS-zika","Epidemiological_Bulletin","cases",NA
 "DO0016","zika_confirmed_pregnant","Confirmed cases from pregnant women","Casos confirmados en embarazadas","Epidemiological_Bulletin","cases",NA
+"DO0017","zika_confirmed_pregnant_since_week_1","Confirmed cases in pregnant women since week 1","Casos confirmados desde semana 1 en embarazadas","Epidemiological_Bulletin","cases",NA
+"DO0018","GBS_reported_zika_suspected","Reported GBS cases that are zika suspected","Casos reportados de GBS que son sospechosos a zika","Epidemiological_Bulletin","cases",NA
