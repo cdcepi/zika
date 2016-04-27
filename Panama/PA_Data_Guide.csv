@@ -18,5 +18,5 @@ PA0016,weekly_Zika_confirmed_asymptomatic,Weekly Confirmed Zika Virus Cases in L
 PA0017,weekly_Zika_confirmed_pending,Weekly Confirmed Zika Virus Cases in Laboratory of Pending,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Pendiente,MDS_Zika,cases,NA
 PA0018,weekly_Zika_confirmed_local,Weekly Laboratory Confirmed Zika Virus Cases - Autochthonous,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Autoctono,MDS_Zika,cases,NA
 PA0019,weekly_Zika_confirmed_imported,Weekly Confirmed Zika Virus Cases in Laboratory of Imported,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Importado,MDS_Zika,cases,NA
-PA0020,Zika_positve_pregnant,Pregnant with positive Zika virus,Embarazadas captadas con resultados positivas por virus Zika,MDS_Zika,cases,NA
+PA0020,Zika_positive_pregnant,Pregnant with positive Zika virus,Embarazadas captadas con resultados positivas por virus Zika,MDS_Zika,cases,NA
 PA0021,Zika_negative_pregnant,Pregnant with negative Zika virus,Embarazadas captadas con resultados negativos por virus Zika,MDS_Zika,cases,NA
