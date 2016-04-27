@@ -20,3 +20,5 @@ Source:
 
     first report_date: 2016-01-16
     last report_date: ongoing
+    
+Note: One travel-related Zika Virus case for Jan 16, 2016 was unattributed to a county.
