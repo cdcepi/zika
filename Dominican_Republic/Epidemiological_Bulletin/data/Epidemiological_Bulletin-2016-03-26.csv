@@ -1,0 +1,8 @@
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
+2016-03-26,"Dominican_Republic","country","total_zika_new_suspected","DO0001",NA,NA,88,"cases"
+2016-03-26,"Dominican_Republic","country","zika_suspected_since_week1","DO0005",NA,NA,1090,"cases"
+2016-03-26,"Dominican_Republic","country","total_zika_new_confirmed_pcr","DO0002",NA,NA,55,"cases"
+2016-03-26,"Dominican_Republic","country","zika_suspected_pregnant","DO0008",NA,NA,76,"cases"
+2016-03-26,"Dominican_Republic","country","GBS_reported","DO0009",NA,NA,2,"cases"
+2016-03-26,"Dominican_Republic","country","GBS_reported_cumulative","DO0014",NA,NA,8,"cases"
+2016-03-26,"Dominican_Republic","country","GBS_zika_suspected_cumulative","DO0015",NA,NA,16,"cases"

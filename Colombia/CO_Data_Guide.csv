@@ -2,3 +2,4 @@ data_field_code,data_field,full_description_en,full_description_original,report_
 CO0001,zika_confirmed_laboratory,Zika confirmed in laboratory,Confirmados por laboratorio,Municipality_Zika,cases,NA
 CO0002,zika_confirmed_clinic,Zika confirmed in clinic,Confirmados por clínica,Municipality_Zika,cases,NA
 CO0003,zika_suspected,Zika Suspected,Sospechoso,Municipality_Zika,cases,NA
+CO0004,zika_suspected_clinic,Zika suspected in clinic,Sospechosos por clínica,Municipality_Zika,cases,NA

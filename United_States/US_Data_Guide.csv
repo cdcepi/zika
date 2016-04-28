@@ -1,3 +1,4 @@
-data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
-US0001,zika_reported_travel,Travel associated lab positive cases,Travel-associated cases,US_Zika,cases,NA
-US0002,zika_reported_local,Locally acquired lab positive cases,Locally acquired cases,US_Zika,cases,NA
+"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
+"US0001","zika_reported_travel","Travel associated lab positive cases","Travel-associated cases","CDC_Report","cases",NA
+"US0002","zika_reported_local","Locally acquired lab positive cases","Locally acquired cases","CDC_Report","cases",NA
+"US0003","yearly_reported_travel_cases","Cumulative International Travel-Associated Zika Fever Cases Reported-FL","Cumulative International Travel-Associated Zika Fever Cases Reported-FL","FDH_Arbovirus","cases",NA

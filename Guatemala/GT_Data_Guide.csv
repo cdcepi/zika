@@ -1,0 +1,11 @@
+"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
+"GT0001","total_zika_suspected","Total number of suspected cases","Casos nuevos sospechosos","SEMEPI","cases",NA
+"GT0002","total_zika_confirmed","Total number of confirmed cases","Casos nuevos confirmados","SEMEPI","cases",NA
+"GT0003","total_zika_suspected_F","Suspected cases from Females","Casos sospechosos en mujeres","SEMEPI","cases",NA
+"GT0004","total_zika_suspected_M","Suspected cases from Males","Casos sospechosos en Hombres","SEMEPI","cases",NA
+"GT0005","total_zika_confirmed_F","Confirmed cases from Females","Casos confirmados en mujeres","SEMEPI","cases",NA
+"GT0006","total_zika_confirmed_M","Confirmed Cases from Males","Casos confirmados en Hombres","SEMEPI","cases",NA
+"GT0007","total_zika_suspected_cumulative","Total suspected cases cummulative","Total de casos sospechosos acumulados","SEMEPI","cases",NA
+"GT0008","total_zika_confirmed_cumulative","Total confirmed cases cummulative","Total de casos confirmados acumulados","SEMEPI","cases",NA
+"GT0009","total_zika_suspected_pregnant_cumulative","Total suspected cases from pregnant women cumulative","Total casos sospechosos acumulados en embarazadas","SEMEPI","cases",NA
+"GT0010","total_zika_confirmed_pregnant_cumulative","Total confirmed cases from pregnant women cumulative","Total casos confirmados acumulados en embarazadas","SEMEPI","cases",NA

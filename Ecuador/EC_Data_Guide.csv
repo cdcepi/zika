@@ -1,0 +1,6 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+EC0001,total_zika_suspected_cumulative,Total suspected cases cumulative,Total de casos sospechosos acumulados,GACETA-ZIKA,cases,NA
+EC0002,total_zika_confirmed_cumulative,Total confirmed cases cumulative,Total de casos confirmados acumulados,GACETA-ZIKA,cases,NA
+EC0003,total_zika_confirmed_autochthonous,Total confirmed cases autochthonous,Total de casos confirmados autoctonos,GACETA-ZIKA,cases,NA
+EC0004,total_zika_confirmed_imported,Total confirmed cases imported,Total de casos confirmados importados,GACETA-ZIKA,cases,NA
+EC0005,total_zika_confirmed_pregnant,Total confirmed cases pregnant,Total de casos confirmados en embarazadas,GACETA-ZIKA,cases,NA

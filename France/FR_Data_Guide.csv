@@ -1,0 +1,5 @@
+"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
+"FR0001","total_clinical_cases","Cumulative Clinically Suggestive Cases","Cas cliniquement evocateurs cumules","INVS_Point_Epidemio","cases",NA
+"FR0002","new_clinical_cases","New Clinically Suggestive Cases","Nouveau cas cliniquement evocateurs de la semaine","INVS_Point_Epidemio","cases",NA
+"FR0003","total_confirmed_cases","Cumulative Biologically Confirmed Cases","Cas confirmes biologiquement","INVS_Point_Epidemio","cases",NA
+"FR0004","new_confirmed_cases","New Biologically Confirmed Cases","Nouveau cas confirmes biologiquement depuis le dernier Point Epidemio","INVS_Point_Epidemio","cases",NA

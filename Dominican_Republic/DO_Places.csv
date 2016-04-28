@@ -3,13 +3,26 @@
 "Dominican_Republic-Azua-Compostela","municipality","Dominican_Republic","Azua","Compostela",NA,NA,NA
 "Dominican_Republic-Barahona","province","Dominican_Republic","Barahona","unknown",NA,NA,NA
 "Dominican_Republic-Distrito_Nacional","municipality","Dominican_Republic","Distrito_Nacional","unknown",NA,NA,NA
+"Dominican_Republic-Duarte","province","Dominican_Republic","Duarte","unknown",NA,NA,NA
 "Dominican_Republic-Ensanche_Ozama","municipality","Dominican_Republic","Ensanche","unknown",NA,NA,NA
+"Dominican_Republic-Espaillat","province","Dominican_Republic","Espaillat","unknown",NA,NA,NA
+"Dominican_Republic-Hermanas_Mirabal","province","Dominican_Republic","Hermanas_Mirabal","unknown",NA,NA,NA
 "Dominican_Republic-Independencia","province","Dominican_Republic","Independencia","unknown",NA,NA,NA
 "Dominican_Republic-Jimani_de_Independencia","municipality","Dominican_Republic","Independencia","Jimani",NA,NA,NA
+"Dominican_Republic-La_Altagracia","province","Dominican_Republic","La_Altagracia","unknown",NA,NA,NA
+"Dominican_Republic-La_Romana","province","Dominican_Republic","La_Romana","unknown",NA,NA,NA
+"Dominican_Republic-La_Vega","province","Dominican_Republic","La_Vega","unknown",NA,NA,NA
 "Dominican_Republic-Las_Canas","municipality","Dominican_Republic","unknown","Las_Canas",NA,NA,NA
 "Dominican_Republic-Las_Minas_Norte","municipality","Dominican_Republic","unknown","Las_Minas_Norte",NA,NA,NA
 "Dominican_Republic-Luperon-Puerto_Plata","municipality","Dominican_Republic","Puerto_Plata","Luperon",NA,NA,NA
-"Dominican_Republic-Puerto Plata","province","Dominican_Republic","Puerto_Plata","unknown",NA,NA,NA
+"Dominican_Republic-Maria_Trinidad_Sanchez","province","Dominican_Republic","Maria_Trinidad_Sanchez","unknown",NA,NA,NA
+"Dominican_Republic-Monte_Cristi","province","Dominican_Republic","Monte_Cristi","unknown",NA,NA,NA
+"Dominican_Republic-Peravia","province","Dominican_Republic","Peravia","unknown",NA,NA,NA
+"Dominican_Republic-Pedernales","province","Dominican_Republic","Pedernales","unknown",NA,NA,NA
+"Dominican_Republic-Puerto_Plata","province","Dominican_Republic","Puerto_Plata","unknown",NA,NA,NA
+"Dominican_Republic-San_Cristobal","province","Dominican_Republic","San_Cristobal","unknown",NA,NA,NA
+"Dominican_Republic-San_Juan","province","Dominican_Republic","San_Juan","unknown",NA,NA,NA
+"Dominican_Republic-San_Pedro_de_Macoris","province","Dominican_Republic","San_Pedro_de_Macoris","unknown",NA,NA,NA
 "Dominican_Republic-Santa_Cruz-Barahona","municipality","Dominican_Republic","Barahona","Santa_Cruz",NA,NA,NA
 "Dominican_Republic-Santiago-Caballeros","municipality","Dominican_Republic","Santiago","Caballeros",NA,NA,NA
 "Dominican_Republic-Santiago-Ensueno","municipality","Dominican_Republic","Santiago","Ensueno",NA,NA,NA
@@ -19,4 +32,5 @@
 "Dominican_Republic-Santo_Domingo_Oeste","municipality","Dominican_Republic","Santo_Domingo","unknown",NA,NA,NA
 "Dominican_Republic-Santo_Domingo_Este-Los_Corales_del_Sur","municipality","Dominican_Republic","Santo_Domingo","Los_Corales_Sur",NA,NA,NA
 "Dominican_Republic-Santo_Domingo_Este-Herrera","municipality","Dominican_Republic","Santo_Domingo","Herrera",NA,NA,NA
-"Dominican_Republic-Other","province","Dominican_Republic",NA,NA,NA,NA,NA
+"Dominican_Republic-Valverde","province","Dominican_Republic","Valverde","unknown",NA,NA,NA
+"Dominican_Republic-Other","province","Dominican_Republic","not-reported","not-reported",NA,NA,NA

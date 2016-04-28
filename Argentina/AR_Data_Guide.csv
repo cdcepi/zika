@@ -1,0 +1,7 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+AR0001,cumulative_confirmed_local_cases,Local transmission cases of Zika virus infection since Week 1 - Confirmed,Casos transmision local de infeccion por virus Zika desde SE 1 - Confirmados,Surveillance_Bulletin,cases,NA
+AR0002,cumulative_probable_local_cases,Local transmission cases of Zika virus infection since Week 1 - Probable,Casos transmision local de infeccion por virus Zika desde SE1 - Probables,Surveillance_Bulletin,cases,NA
+AR0003,cumulative_confirmed_imported_cases,Imported cases of Zika virus infection since Week 1 - Confirmed,Casos importados de infeccion por virus Zika desde SE1 - Confirmados,Surveillance_Bulletin,cases,NA
+AR0004,cumulative_probable_imported_cases,Imported cases of Zika virus infection since Week 1 - Probable,Casos importados de infeccion por virus Zika desde SE1 - Probables,Surveillance_Bulletin,cases,NA
+AR0005,cumulative_cases_under_study,Cases of Zika virus infection since Week 1 - Under studio,Casos de infeccion por virus Zika desde SE1 - En Estudio,Surveillance_Bulletin,cases,NA
+AR0006,cumulative_cases_discarded,Cases of Zika virus infection since Week 1 - Discarded,Casos de infeccion por virus Zika desde SE1 - Descartado,Surveillance_Bulletin,cases,NA

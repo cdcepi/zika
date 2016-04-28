@@ -10,8 +10,12 @@ Original reports and data extracted from those reports are categorized by countr
 ## Contributors
 Please see the [data dictionary](data_dictionary.md) for information on standardization. We are working on getting more countries online. Pull requests will be accepted. 
 
+## How to contribute
+Follow the [how to contribute](how_to_contribute.md) guide to contribute to the CDC zika repo from your fork or local git clone. 
+
 ## Links to other data sources
 [Additional data](additional_data.md)
 
 ## Citeable DOI
-[![DOI](https://zenodo.org/badge/20596/cdcepi/zika.svg)](https://zenodo.org/badge/latestdoi/20596/cdcepi/zika)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.48946.svg)](http://dx.doi.org/10.5281/zenodo.48946)
+

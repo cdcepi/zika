@@ -7,6 +7,6 @@ Dominican Republic Place Names: [DO_Places.csv](DO_Places.csv)
 (Ministerio de Salud Publica - DIGEPI)
 
 Source: <http://digepisalud.gob.do/documentos/?drawer=Boletines%20epidemiol%C3%B3gicos*Boletines%20semanales*2016>  
-  
+
      first report_date: 2016-01-09
      last report_date: ongoing
