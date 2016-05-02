@@ -4,3 +4,19 @@ EC0002,total_zika_confirmed_cumulative,Total confirmed cases cumulative,Total de
 EC0003,total_zika_confirmed_autochthonous,Total confirmed cases autochthonous,Total de casos confirmados autoctonos,GACETA-ZIKA,cases,NA
 EC0004,total_zika_confirmed_imported,Total confirmed cases imported,Total de casos confirmados importados,GACETA-ZIKA,cases,NA
 EC0005,total_zika_confirmed_pregnant,Total confirmed cases pregnant,Total de casos confirmados en embarazadas,GACETA-ZIKA,cases,NA
+EC0006,total_zika_confirmed_ages_0-11mo_F,Total confirmed cases ages 0-11 months - Female,Total de casos confirmados para 0-11 meses de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0007,total_zika_confirmed_ages_0-11mo_M,Total confirmed cases ages 0-11 months - Male,Total de casos confirmados para 0-11 meses de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0008,total_zika_confirmed_ages_1-4yrs_F,Total confirmed cases ages 1-4 years - Female,Total de casos confirmados para 1-4 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0009,total_zika_confirmed_ages_1-4yrs_M,Total confirmed cases ages 1-4 years - Male,Total de casos confirmados para 1-4 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0010,total_zika_confirmed_ages_5-9yrs_F,Total confirmed cases ages 5-9 years - Female,Total de casos confirmados para 5-9 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0011,total_zika_confirmed_ages_5-9yrs_M,Total confirmed cases ages 5-9 years - Male,Total de casos confirmados para 5-9 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0012,total_zika_confirmed_ages_10-14yrs_F,Total confirmed cases ages 10-14 years - Female,Total de casos confirmados para 10-14 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0013,total_zika_confirmed_ages_10-14yrs_M,Total confirmed cases ages 10-14 years - Male,Total de casos confirmados para 10-14 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0014,total_zika_confirmed_ages_15-19yrs_F,Total confirmed cases ages 15-19 years - Female,Total de casos confirmados para 15-19 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0015,total_zika_confirmed_ages_15-19yrs_M,Total confirmed cases ages 15-19 years - Male,Total de casos confirmados para 15-19 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0016,total_zika_confirmed_ages_20-49yrs_F,Total confirmed cases ages 20-49 years - Female,Total de casos confirmados para 20-49 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0017,total_zika_confirmed_ages_20-49yrs_M,Total confirmed cases ages 20-49 years - Male,Total de casos confirmados para 20-49 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0018,total_zika_confirmed_ages_50-64yrs_F,Total confirmed cases ages 50-64 years - Female,Total de casos confirmados para 50-64 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0019,total_zika_confirmed_ages_50-64yrs_M,Total confirmed cases ages 50-64 years - Male,Total de casos confirmados para 50-64 años de edad - Hombres,GACETA-ZIKA,cases,NA
+EC0020,total_zika_confirmed_ages_over65_F,Total confirmed cases ages over 65 - Female,Total de casos confirmados sobre 65 años de edad - Mujeres,GACETA-ZIKA,cases,NA
+EC0021,total_zika_confirmed_ages_over65_M,Total confirmed cases ages over 65 years - Male,Total de casos confirmados sobre 65 años de edad - Hombres,GACETA-ZIKA,cases,NA
