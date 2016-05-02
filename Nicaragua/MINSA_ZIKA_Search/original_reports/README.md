@@ -13,5 +13,5 @@
 [MINSA_ZIKA_Search-2573](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2573-avanza-censo-de-nutricion-en-preescolares-y-escuelas-publicas-de-todo-el-pais)-2016-03-16  
 [MINSA_ZIKA_Search-2585](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2585-informe-de-la-lucha-antiepidemica-en-semana-santa)-2016-03-28  
 [MINSA_ZIKA_Search-2605](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2605-minsa-reporta-3-millones-552-mil-261-viviendas-fumigadas-durante-la-ultima-semana)-2016-04-04  
-[MINSA_ZIKA_Search-2628](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2628-minsa-brinda-informe-de-situacion-epidemiologica-del-pais)-2016-04-18
+[MINSA_ZIKA_Search-2628](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2628-minsa-brinda-informe-de-situacion-epidemiologica-del-pais)-2016-04-18  
 [MINSA_ZIKA_Search-2645](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2645-minsa-detalla-situacion-epidemiologica-del-pais)-2016-04-25
