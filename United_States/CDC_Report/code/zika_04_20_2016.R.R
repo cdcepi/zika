@@ -43,7 +43,7 @@ readData <- function(theurl, tableNum=1){
   theDate <- format(theDate, "%Y-%m-%d")
   
   
-  write(webPage, file=paste0("US_Zika-", theDate, ".html"))
+  write(webPage, file=paste0("../original_reports/US_Zika-", theDate, ".html"))
   
   
   #fix errant lines of /thead
@@ -96,7 +96,7 @@ readData <- function(theurl, tableNum=1){
 
 cdcZika <- readData(theurl)
 
-
+theurl
 # Create Places file ------------------------------------------------------
 location_type <- rep(NA, length(cdcZika$location))
 state.name.und <- gsub(" ", "_", state.name)
