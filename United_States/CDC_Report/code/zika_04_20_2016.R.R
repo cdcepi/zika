@@ -96,7 +96,7 @@ readData <- function(theurl, tableNum=1){
 
 cdcZika <- readData(theurl)
 
-theurl
+
 # Create Places file ------------------------------------------------------
 location_type <- rep(NA, length(cdcZika$location))
 state.name.und <- gsub(" ", "_", state.name)
@@ -113,16 +113,20 @@ city <- rep(NA, length(cdcZika$location))
 
 US_places <- data.frame(location = location, location_type = location_type,
                         country = country, state_province = state_province,
-                        district_county_municipality, city = city)
+                        district_county_municipality, city = city, alt_name1 = NA
+                        , alt_name2 = NA)
 
 
 
+old_places <- read.csv("../../US_Places.csv")
+US_places <- merge(US_places, old_places, all.y=TRUE)
 
 
-
+US_places <- US_places[!US_places$state_province == "Florida" & 
+                         is.na(US_places$alt_name1),]
 # Read codes then merge and melt ------------------------------------------
 
-codeZ <- read.csv("./United_States/US_Data_Guide.csv")
+codeZ <- read.csv("../../US_Data_Guide.csv")
 
 US_Zika <- melt(cdcZika, id.vars = c("report_date", "location"))
 US_Zika <- merge(US_Zika, codeZ, by.x = "variable", by.y = "data_field_code")
@@ -140,8 +144,8 @@ US_Zika <- US_Zika[c("report_date", "location", "location_type", "data_field",
 
 # Write CSV Files ---------------------------------------------------------
 
-write.csv(US_places, file = "./United_States/US_Places.csv", row.names = FALSE)
-write.csv(US_Zika, file=paste0("CDC_Report-", US_Zika$report_date[[1]], ".csv"),
+write.csv(US_places, file = "../../US_Places.csv", row.names = FALSE)
+write.csv(US_Zika, file=paste0("../../CDC_Report/data/CDC_Report-", US_Zika$report_date[[1]], ".csv"),
           row.names = FALSE)
 
 
