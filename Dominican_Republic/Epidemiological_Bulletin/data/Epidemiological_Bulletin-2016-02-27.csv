@@ -4,5 +4,5 @@
 "2016-02-27","Dominican_Republic-Distrito_Nacional","province","total_zika_new_suspected","DO0001",NA,NA,21,"cases"
 "2016-02-27","Dominican_Republic-Azua","province","total_zika_new_suspected","DO0001",NA,NA,3,"cases"
 "2016-02-27","Dominican_Republic-Other","province","total_zika_new_suspected","DO0001",NA,NA,29,"cases"
-"2016-02-27","Dominican_Republic","country","zika_suspected_since_week1","DO0005",NA,NA,573,"cases"
-"2016-02-27","Dominican_Republic","country","zika_suspected_pregnant_since_week1","DO0007",NA,NA,30,"cases"
+"2016-02-27","Dominican_Republic","country","zika_suspected_cumulative","DO0005",NA,NA,573,"cases"
+"2016-02-27","Dominican_Republic","country","zika_suspected_pregnant_cumulative","DO0007",NA,NA,30,"cases"
