@@ -6,7 +6,7 @@
 "2016-02-20","Dominican_Republic-Independencia","province","total_zika_new_suspected","DO0001",NA,NA,4,"cases"
 "2016-02-20","Dominican_Republic-Barahona","province","total_zika_new_suspected","DO0001",NA,NA,1,"cases"
 "2016-02-20","Dominican_Republic-Puerto_Plata","province","total_zika_new_suspected","DO0001",NA,NA,1,"cases"
-"2016-02-20","Dominican_Republic","country","total_zika_new_suspected","DO0001",NA,NA,17,"cases"
+"2016-02-20","Dominican_Republic-Other","province","total_zika_new_suspected","DO0001",NA,NA,17,"cases"
 "2016-02-20","Dominican_Republic","country","zika_suspected_cumulative","DO0005",NA,NA,395,"cases"
 "2016-02-20","Dominican_Republic","country","zika_suspected_pregnant_cumulative","DO0007",NA,NA,27,"cases"
 "2016-02-20","Dominican_Republic","country","zika_confirmed_pcr_cumulative","DO0006",NA,NA,18,"cases"

@@ -1,6 +1,6 @@
 "report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
 "2016-01-30","Dominican_Republic","country","total_zika_new_suspected","DO0001",NA,NA,32,"cases"
 "2016-01-30","Dominican_Republic-Distrito_Nacional","municipality","total_zika_new_suspected","DO0001",NA,NA,8,"cases"
-"2016-01-30","Dominican_Republic-Jimani_Independencia","municipality","total_zika_new_suspected","DO0001",NA,NA,14,"cases"
+"2016-01-30","Dominican_Republic-Jimani_de_Independencia","municipality","total_zika_new_suspected","DO0001",NA,NA,14,"cases"
 "2016-01-30","Dominican_Republic-Santo_Domingo_Norte","municipality","total_zika_new_suspected","DO0001",NA,NA,3,"cases"
-"2016-01-30","Dominican_Republic-Santa_Cruz_Barahona","municipality","total_zika_new_suspected","DO0001",NA,NA,7,"cases"
+"2016-01-30","Dominican_Republic-Santa_Cruz-Barahona","municipality","total_zika_new_suspected","DO0001",NA,NA,7,"cases"

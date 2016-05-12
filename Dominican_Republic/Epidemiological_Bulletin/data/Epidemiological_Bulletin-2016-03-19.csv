@@ -11,7 +11,7 @@
 "2016-03-19","Dominican_Republic-San_Pedro_de_Macoris","province","total_zika_new_confirmed_pcr","DO0002",NA,NA,1,"cases"
 "2016-03-19","Dominican_Republic-La_Romana","province","total_zika_new_confirmed_pcr","DO0002",NA,NA,1,"cases"
 "2016-03-19","Dominican_Republic-La_Altagracia","province","total_zika_new_confirmed_pcr","DO0002",NA,NA,2,"cases"
-"2016-03-19","Dominican_Republic_Other","province","total_zika_new_confirmed_pcr","DO0002",NA,NA,6,"cases"
+"2016-03-19","Dominican_Republic-Other","province","total_zika_new_confirmed_pcr","DO0002",NA,NA,6,"cases"
 "2016-03-19","Dominican_Republic","country","zika_suspected_cumulative","DO0005",NA,NA,991,"cases"
 "2016-03-19","Dominican_Republic","country","zika_suspected_pregnant_cumulative","DO0007",NA,NA,68,"cases"
 "2016-03-19","Dominican_Republic-Distrito_Nacional","province","gbs_zika_confirmed","DO0012",NA,NA,1,"cases"

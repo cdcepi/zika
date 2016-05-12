@@ -1,24 +1,27 @@
-"data_field_code","data_field","full_description_en","full_description_original","report_name","unit","time_period_type"
-"DO0001","total_zika_new_suspected","Total number of new suspected cases","Casos nuevos sospechosos","Epidemiological_Bulletin","cases",NA
-"DO0002","total_zika_new_confirmed_pcr","Total number of new confirmed cases by PCR","Casos nuevos confirmados por PCR","Epidemiological_Bulletin","cases",NA
-"DO0003","zika_new_confirmed_pcr_m","Confirmed new cases from Females","Casos nuevos confirmados en mujeres","Epidemiological_Bulletin","cases",NA
-"DO0004","zika_new_confirmed_pcr_f","Confirmed new cases from Males","Casos nuevos confirmados en varones","Epidemiological_Bulletin","cases",NA
-"DO0005","zika_suspected_cumulative","Total suspected cases since week 1","Total de casos sospechosos desde primera semana","Epidemiological_Bulletin","cases",NA
-"DO0006","zika_confirmed_pcr_cumulative","Total confirmed cases since week 1","Total de casos confirmados desde primera semana","Epidemiological_Bulletin","cases",NA
-"DO0007","zika_suspected_pregnant_cumulative","Total suspected pregnant cases since week 1","Total de casos sospechosos embarazadas desde primera semana","Epidemiological_Bulletin","cases",NA
-"DO0008","zika_suspected_pregnant","Suspected cases from pregnant women","Casos sospechosos en embarazadas","Epidemiological_Bulletin","cases",NA
-"DO0009","efe_reported","Reported Febrile Rash Illness (EFE) as zika predictor","Casos reportados de Enfermedad Febril Eruptiva (EFE) como predictor de zika","Epidemiological_Bulletin","cases",NA
-"DO0010","gbs_reported","Reported Guillain-Barre Syndrome (GBS) as zika predictor","Casos reportados de Sindrome Guillain-Barre (GBS) como predictor de zika","Epidemiological_Bulletin","cases",NA
-"DO0011","gbs_confirmed","Confirmed GBS cases","Casos confirmados de GBS","Epidemiological_Bulletin","cases",NA
-"DO0012","gbs_zika_confirmed","Confirmed cases for both GBS and zika","Casos confirmados para GBS positivos a zika","Epidemiological_Bulletin","cases",NA
-"DO0013","gbs_zika_confirmed_pregnant","Confirmed cases for both GBS and zika in pregnant women","Casos confirmados de GBS positivo a zika en embarazadas","Epidemiological_Bulletin","cases",NA
-"DO0014","gbs_reported_cumulative","Cumulative cases of GBS","Casos acumulados de GBS","Epidemiological_Bulletin","cases",NA
-"DO0015","gbs_zika_reported_cumulative","Cumulative GBS-zika positive cases","Casos acumulados de GBS-zika","Epidemiological_Bulletin","cases",NA
-"DO0016","zika_confirmed_pregnant","Confirmed cases from pregnant women","Casos confirmados en embarazadas","Epidemiological_Bulletin","cases",NA
-"DO0017","zika_confirmed_pregnant_cumulative","Confirmed cases in pregnant women since week 1","Casos confirmados desde semana 1 en embarazadas","Epidemiological_Bulletin","cases",NA
-"DO0018","gbs_reported_zika_suspected","Reported GBS cases with zika symptom history","Casos reportados de GBS con historial de sintomas de zika","Epidemiological_Bulletin","cases",NA
-"DO0019","gbs_reported_zika_suspected_cumulative","Reported GBS cases with zika symptom history - cumulative","Casos reportados de GBS con historial de sintomas de zika - desde semana 1","Epidemiological_Bulletin","cases",NA
-"DO0020","gbs_confirmed_cumulative","Reported GBS cases cumulative","Casos reportados de GBS desde semana 1","Epidemiological_Bulletin","cases",NA
-"DO0021","microcephaly_suspected","Suspected cases of microcephaly","Casos sospechosos de microcefalia","Epidemiological_Bulletin","cases",NA
-"DO0022","microcephaly_suspected_cumulative","Suspected cases of microcephaly - cumulative","Casos sospechosos de microcefalia desde semana 1","Epidemiological_Bulletin","cases",NA
-"DO0023","microcephaly_confirmed_cumulative","Confirmed cases of microcephaly - cumulative","Casos confirmados de microcefalia desde semana 1","Epidemiological_Bulletin","cases",NA
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+DO0001,total_zika_new_suspected,Total number of new suspected cases,Casos nuevos sospechosos,Epidemiological_Bulletin,cases,NA
+DO0002,total_zika_new_confirmed_pcr,Total number of new confirmed cases by PCR,Casos nuevos confirmados por PCR,Epidemiological_Bulletin,cases,NA
+DO0003,zika_new_confirmed_pcr_m,Confirmed new cases from Females,Casos nuevos confirmados en mujeres,Epidemiological_Bulletin,cases,NA
+DO0004,zika_new_confirmed_pcr_f,Confirmed new cases from Males,Casos nuevos confirmados en varones,Epidemiological_Bulletin,cases,NA
+DO0005,zika_suspected_cumulative,Total suspected cases since week 1,Total de casos sospechosos desde primera semana,Epidemiological_Bulletin,cases,NA
+DO0006,zika_confirmed_pcr_cumulative,Total confirmed cases since week 1,Total de casos confirmados desde primera semana,Epidemiological_Bulletin,cases,NA
+DO0007,zika_suspected_pregnant_cumulative,Total suspected pregnant cases since week 1,Total de casos sospechosos embarazadas desde primera semana,Epidemiological_Bulletin,cases,NA
+DO0008,zika_suspected_pregnant,Suspected cases from pregnant women,Casos sospechosos en embarazadas,Epidemiological_Bulletin,cases,NA
+DO0009,efe_reported,Reported Febrile Rash Illness (EFE) as zika predictor,Casos reportados de Enfermedad Febril Eruptiva (EFE) como predictor de zika,Epidemiological_Bulletin,cases,NA
+DO0010,gbs_reported,Reported Guillain-Barre Syndrome (GBS) as zika predictor,Casos reportados de Sindrome Guillain-Barre (GBS) como predictor de zika,Epidemiological_Bulletin,cases,NA
+DO0011,gbs_confirmed,Confirmed GBS cases,Casos confirmados de GBS,Epidemiological_Bulletin,cases,NA
+DO0012,gbs_zika_confirmed,Confirmed cases for both GBS and zika,Casos confirmados para GBS positivos a zika,Epidemiological_Bulletin,cases,NA
+DO0013,gbs_zika_confirmed_pregnant,Confirmed cases for both GBS and zika in pregnant women,Casos confirmados de GBS positivo a zika en embarazadas,Epidemiological_Bulletin,cases,NA
+DO0014,gbs_reported_cumulative,Cumulative cases of GBS,Casos acumulados de GBS,Epidemiological_Bulletin,cases,NA
+DO0015,gbs_zika_reported_cumulative,Cumulative GBS-zika positive cases,Casos acumulados de GBS-zika,Epidemiological_Bulletin,cases,NA
+DO0016,zika_confirmed_pregnant,Confirmed cases from pregnant women,Casos confirmados en embarazadas,Epidemiological_Bulletin,cases,NA
+DO0017,zika_confirmed_pregnant_cumulative,Confirmed cases in pregnant women since week 1,Casos confirmados desde semana 1 en embarazadas,Epidemiological_Bulletin,cases,NA
+DO0018,gbs_reported_zika_suspected,Reported GBS cases with zika symptom history,Casos reportados de GBS con historial de sintomas de zika,Epidemiological_Bulletin,cases,NA
+DO0019,gbs_reported_zika_suspected_cumulative,Reported GBS cases with zika symptom history - cumulative,Casos reportados de GBS con historial de sintomas de zika - desde semana 1,Epidemiological_Bulletin,cases,NA
+DO0020,gbs_confirmed_cumulative,Reported GBS cases cumulative,Casos reportados de GBS desde semana 1,Epidemiological_Bulletin,cases,NA
+DO0021,microcephaly_suspected,Suspected cases of microcephaly,Casos sospechosos de microcefalia,Epidemiological_Bulletin,cases,NA
+DO0022,microcephaly_suspected_cumulative,Suspected cases of microcephaly - cumulative,Casos sospechosos de microcefalia desde semana 1,Epidemiological_Bulletin,cases,NA
+DO0023,microcephaly_confirmed_cumulative,Confirmed cases of microcephaly - cumulative,Casos confirmados de microcefalia desde semana 1,Epidemiological_Bulletin,cases,NA
+DO0024,zika_suspected_4weeks,Suspected zika cases - last 4 weeks,Casos sospechosos de zika desde ultimas 4 semanas,Epidemiological_Bulletin,cases,NA
+DO0025,gbs_reported_4weeks,Reported cases of GBS - last 4 weeks,Casos reportados de gbs en 4 semanas,Epidemiological_Bulletin,cases,NA
+DO0026,microcephaly_suspected_4weeks,Suspected cases of microcephaly - 4 weeks,Casos sospechosos de microcefalia desde ultimas 4 semanas,Epidemiological_Bulletin,cases,NA
