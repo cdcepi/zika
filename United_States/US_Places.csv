@@ -1,12 +1,14 @@
 "location","location_type","country","state_province","district_county_municipality","city","alt_name1","alt_name2"
 "United_States-Alabama","state","United_States","Alabama",NA,NA,NA,NA
 "United_States-American_Samoa","territory","United_States","American_Samoa",NA,NA,NA,NA
+"United_States-Arizona","state","United_States","Arizona",NA,NA,NA,NA
 "United_States-Arkansas","state","United_States","Arkansas",NA,NA,NA,NA
 "United_States-California","state","United_States","California",NA,NA,NA,NA
 "United_States-Colorado","state","United_States","Colorado",NA,NA,NA,NA
 "United_States-Connecticut","state","United_States","Connecticut",NA,NA,NA,NA
 "United_States-Delaware","state","United_States","Delaware",NA,NA,NA,NA
 "United_States-District_of_Columbia","state","United_States","District_of_Columbia",NA,NA,NA,NA
+"United_States-Florida","state","United_States","Florida",NA,NA,NA,NA
 "United_States-Georgia","state","United_States","Georgia",NA,NA,NA,NA
 "United_States-Hawaii","state","United_States","Hawaii",NA,NA,NA,NA
 "United_States-Illinois","state","United_States","Illinois",NA,NA,NA,NA
@@ -15,15 +17,19 @@
 "United_States-Kansas","state","United_States","Kansas",NA,NA,NA,NA
 "United_States-Kentucky","state","United_States","Kentucky",NA,NA,NA,NA
 "United_States-Louisiana","state","United_States","Louisiana",NA,NA,NA,NA
+"United_States-Maine","state","United_States","Maine",NA,NA,NA,NA
 "United_States-Maryland","state","United_States","Maryland",NA,NA,NA,NA
 "United_States-Massachusetts","state","United_States","Massachusetts",NA,NA,NA,NA
 "United_States-Michigan","state","United_States","Michigan",NA,NA,NA,NA
 "United_States-Minnesota","state","United_States","Minnesota",NA,NA,NA,NA
+"United_States-Mississippi","state","United_States","Mississippi",NA,NA,NA,NA
 "United_States-Missouri","state","United_States","Missouri",NA,NA,NA,NA
 "United_States-Montana","state","United_States","Montana",NA,NA,NA,NA
 "United_States-Nebraska","state","United_States","Nebraska",NA,NA,NA,NA
+"United_States-Nevada","state","United_States","Nevada",NA,NA,NA,NA
 "United_States-New_Hampshire","state","United_States","New_Hampshire",NA,NA,NA,NA
 "United_States-New_Jersey","state","United_States","New_Jersey",NA,NA,NA,NA
+"United_States-New_Mexico","state","United_States","New_Mexico",NA,NA,NA,NA
 "United_States-New_York","state","United_States","New_York",NA,NA,NA,NA
 "United_States-North_Carolina","state","United_States","North_Carolina",NA,NA,NA,NA
 "United_States-Ohio","state","United_States","Ohio",NA,NA,NA,NA
@@ -34,16 +40,10 @@
 "United_States-Tennessee","state","United_States","Tennessee",NA,NA,NA,NA
 "United_States-Texas","state","United_States","Texas",NA,NA,NA,NA
 "United_States-US_Virgin_Islands","territory","United_States","US_Virgin_Islands",NA,NA,NA,NA
+"United_States-Utah","state","United_States","Utah",NA,NA,NA,NA
 "United_States-Virginia","state","United_States","Virginia",NA,NA,NA,NA
 "United_States-Washington","state","United_States","Washington",NA,NA,NA,NA
 "United_States-West_Virginia","state","United_States","West_Virginia",NA,NA,NA,NA
-"United_States-Florida","state","United_States","Florida",NA,NA,NA,NA
-"United_States-Utah","state","United_States","Utah",NA,NA,NA,NA
-"United_States-Nevada","state","United_States","Nevada",NA,NA,NA,NA
-"United_States-Maine","state","United_States","Maine",NA,NA,NA,NA
-"United_States-Arizona","state","United_States","Arizona",NA,NA,NA,NA
-"United_States-Mississippi","state","United_States","Mississippi",NA,NA,NA,NA
-"United_States-New_Mexico","state","United_States","New_Mexico",NA,NA,NA,NA
 "United_States-Florida-Alachua_County","county","United States","Florida",NA,NA,"Alachua County","Alachua"
 "United_States-Florida-Baker_County","county","United States","Florida",NA,NA,"Baker County","Baker"
 "United_States-Florida-Bay_County","county","United States","Florida",NA,NA,"Bay County","Bay"
