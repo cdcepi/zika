@@ -4,3 +4,4 @@
 "NI0003","total_zika_confirmed_cumulative","Total confirmed cases to date","Casos confirmados hasta la fecha","MINSA_ZIKA_Search","cases",NA
 "NI0004","total_zika_confirmed_pregnant_cumulative","Total confirmed pregnant cases to date","Casos confirmados en embarazadas hasta la fecha","MINSA_ZIKA_Search","cases",NA
 "NI0005","total_zika_new_suspected","Total number of new suspected cases","Casos nuevos sospechosos","MINSA_ZIKA_Search","cases",NA
+"NI0006","normal_birth_confirmed_zika","Total number of births with no birth defects from pregnant zika positive women","Numero casos de bebes nacidos sin defectos congenitos de madres positivas a zika durante embarazo","MINSA_ZIKA_Search","cases",NA 
