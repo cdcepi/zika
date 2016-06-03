@@ -3,12 +3,19 @@
 # repo.
 ################################################################################
 
-validate <- function(this_csv, data_guide, places) {   
+validate <- function(this_csv, data_guide, places) {    
      require(stringr)
      require(dplyr)
+     require(lubridate)
      error_found <- FALSE
      
-     # Remove whitespace
+     # Check date format
+     if (dates <- sum(sapply(this_csv$report_date, is.Date) == 0)) {
+          print("Dates in 'report_date' column are in the wrong format.")
+          error_found <- TRUE
+          }
+     
+     # Check for whitespace
      if (spaces <- any(sapply(this_csv, str_detect, pattern = "\\s"), na.rm = TRUE)) {
           print("White spaces found in these rows:")
           print(select(this_csv[spaces == TRUE, ], report_date, location, location_type, 
@@ -58,7 +65,5 @@ validate <- function(this_csv, data_guide, places) {
      
      if (error_found) {
           warning("Have another coffee and fix the errors listed above")
-          } else print("No errors found, go outside and enjoy the day")
-     
-     }
-
+          } else print("No errors found! Go outside and enjoy the day")
+}
