@@ -11,7 +11,7 @@
 library(readr)
 library(stringr)
 
-# incase you didn't follow directions...
+# if code is run from a subdirectory:
 wd <- getwd()
 split_dir <- str_split(string = getwd(), pattern = '/')[[1]]
 if (split_dir[length(split_dir)] == 'code') {
