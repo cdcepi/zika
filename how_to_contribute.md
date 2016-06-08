@@ -1,7 +1,7 @@
 # Contributing to the CDC Zika repo  
   
 ## GitHub
-### Create GitHub account  
+### Create GitHub account & fork cdcepi/zika  
 1. Create a GitHub account and log in through: https://github.com
 2. Go to CDC Zika Repo: https://github.com/cdcepi/zika
 3. On the upper right corner, click on **Fork**.  
