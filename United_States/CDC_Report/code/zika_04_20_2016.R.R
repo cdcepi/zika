@@ -80,6 +80,9 @@ readData <- function(theurl, tableNum=1){
   zikaData$US0002 <- gsub("\\(.*?\\)", "", zikaData$US0002)
   zikaData$US0001 <- gsub("Â", "", zikaData$US0001)
   zikaData$US0002 <- gsub("Â", "", zikaData$US0002)
+  zikaData$US0001 <- gsub(",", "", zikaData$US0001)
+  zikaData$US0002 <- gsub(",", "", zikaData$US0002)
+  
   zikaData$US0001 <- as.numeric(stringr::str_trim(zikaData$US0001))
   zikaData$US0002 <- as.numeric(stringr::str_trim(zikaData$US0002))
   zikaData <- zikaData[!is.na(zikaData$US0001) & !is.na(zikaData$US0002),]
@@ -96,7 +99,7 @@ readData <- function(theurl, tableNum=1){
 
 cdcZika <- readData(theurl)
 
-
+View(cdcZika)
 # Create Places file ------------------------------------------------------
 location_type <- rep(NA, length(cdcZika$location))
 state.name.und <- gsub(" ", "_", state.name)
