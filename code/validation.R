@@ -11,7 +11,9 @@ validate <- function(this_csv, data_guide, places) {
      
      # Check date format
      if (dates <- sum(sapply(this_csv$report_date, is.Date) == 0)) {
-          print("Dates in 'report_date' column are in the wrong format.")
+          print("Dates in 'report_date' column are in the wrong format:")
+          print("Please, set colClasses when reading in the .csv.")
+          print("You may need to change Date format to: YYYY-mm-dd.")
           error_found <- TRUE
           }
      
