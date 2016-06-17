@@ -14,12 +14,12 @@ places <- read.csv(paste0(repo_dir, "/Dominican_Republic/DO_Places.csv"),
 
 # validate a csv from the repo (data guide and places files match the data)
 validate(read.csv(paste0(repo_dir,
-    "/Dominican_Republic/Epidemiological_Bulletin/data/Epidemiological_Bulletin-2016-01-23.csv"),
-    header = TRUE), dguide, places)
+    "Dominican_Republic/Epidemiological_Bulletin/data/Epidemiological_Bulletin-2016-01-23.csv"),
+    header = TRUE, colClasses = c("Date", rep("character", 8))), dguide, places)
 
 # validate a csv from the repo (data guide and places files from the wrong country)
 validate(read.csv(paste0(repo_dir, 
-    "/Mexico/DGE_Zika/data/DGE_Zika-2016-01-23.csv"), header = TRUE), dguide, places)
+    "Mexico/DGE_Zika/data/DGE_Zika-2016-01-23.csv"), header = TRUE), dguide, places)
 
 
 
