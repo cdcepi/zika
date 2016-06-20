@@ -1,0 +1,8 @@
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
+2016-06-13,"Nicaragua","country","total_zika_confirmed_pregnant_cumulative","NI0004",NA,NA,50,"cases"
+2016-06-13,"Nicaragua","country","total_zika_confirmed","NI0001",NA,NA,16,"cases"
+2016-06-13,"Nicaragua","country","total_zika_confirmed_cumulative","NI0003",NA,NA,248,"cases"
+2016-06-13,"Nicaragua","country","normal_birth_confirmed_zika","NI0006",NA,NA,14,"cases"
+NA,"","","","",NA,NA,NA,""
+NA,"","","","",NA,NA,NA,""
+NA,"","","","",NA,NA,NA,""

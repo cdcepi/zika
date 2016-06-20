@@ -25,3 +25,9 @@
 [MINSA_ZIKA_Search-2705](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2705-companera-rosario-se-suma-al-llamado-a-evitar-las-bebidas-energizantes)-2016-05-23  
 [MINSA_ZIKA_Search-2716](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2716-ya-son-nueve-ninos-los-que-nacen-sin-microcefalia-en-nicaragua)-2016-05-26  
 [MINSA_ZIKA_Search-2725](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2725-nicaragua-confirma-primera-muerte-por-chikungunya)-2016-05-27  
+[MINSA_ZIKA_Search-2737](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2737-gobierno-continua-dando-seguimiento-a-embarazadas-que-han-sido-diagnosticadas-con-zika)-2016-06-03  
+[MINSA_ZIKA_Search-2741](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2741-dengue-cobra-otra-vida-en-el-pais)-2016-06-06  
+[MINSA_ZIKA_Search-2747](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2747-nace-otro-bebe-sin-microcefalia-en-nicaragua)-2016-06-07  
+[MINSA_ZIKA_Search-2760](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2760-catorce-embarazadas-con-zika-han-dado-a-luz-a-bebes-sin-microcefalia)-2016-06-13  
+[MINSA_ZIKA_Search-2761](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2761-minsa-brinda-informe-del-plan-anti-epidemiologico-para-erradicar-enfermedades)-2016-06-13  
+
