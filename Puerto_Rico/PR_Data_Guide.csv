@@ -1,0 +1,16 @@
+data_field_code,data_field,full_description_en,full_description_original,report_name,unit,time_period_type
+PR0001,zika_confirmed_4weeks,Total zika confirmed cases in past 4 weeks,Casos zika confirmados en pasadas 4 semanas,PRDH_Arbovirus,cases,NA
+PR0002,zika_confirmed_cumulative_2015,Total zika confirmed cases from 2015,Casos zika confirmados del 2015,PRDH_Arbovirus,cases,NA
+PR0003,zika_confirmed_cumulative_2016,Total zika confirmed cases from 2016,Casos zika confirmados del 2016,PRDH_Arbovirus,cases,NA
+PR0004,flavi_confirmed_cumulative_2015,Total Flavivirus cases from 2015,Casos Flavivirus confirmados en 2015,PRDH_Arbovirus,cases,NA
+PR0005,flavi_confirmed_cumulative_2016,Total Flavivirus cases from 2016,Casos Flavivirus confirmados en 2016,PRDH_Arbovirus,cases,NA
+PR0006,zika_confirmed_cumulative_2015-2016,Total zika confirmed cumulative from 2015-2016,Total casos zika confirmados acumulados 2015-2016,PRDH_Arbovirus,cases,NA
+PR0007,zika_confirmed_pregnant_cumulative_2015-2016,Total zika confirmed cumulative from 2015-2016 for pregnant women,Total casos zika confirmados acumulados 2015-2016 en embarazadas,PRDH_Arbovirus,cases,NA
+PR0008,zika_confirmed_pregnant_symptomatic_cumulative_2015-2016,Total zika confirmed cumulative from 2015-2016 for pregnant women - symptomatic,Total casos zika confirmados acumulados 2015-2016 en embarazadas - sintomaticos,PRDH_Arbovirus,cases,NA
+PR0009,zika_confirmed_pregnant_asymptomatic_cumulative_2015-2016,Total zika confirmed cumulative from 2015-2016 for pregnant women - asymptomatic,Total casos zika confirmados acumulados 2015-2016 en embarazadas - asintomaticos,PRDH_Arbovirus,cases,NA
+PR0010,gbs_reported_cumulative_2015-2016,GBS reported including confirmed and suspected cases,Casos reportados de GBS confirmados y sospechosos,PRDH_Arbovirus,cases,NA
+PR0011,arbovirus_suspected_4weeks,Suspected cases of arbovirus in past 4 weeks,Casos presuntos de arbovirus en ultimas 4 semanas,PRDH_Arbovirus,cases,NA
+PR0012,arbovirus_suspected_cumulative_2016,Suspected cases of arbovirus in 2016,Casos presuntos de arbovirus en 2016,PRDH_Arbovirus,cases,NA
+PR0013,gbs_reported_zika_confirmed,GBS reported including confirmed and suspected cases that are zika positive,Casos reportados de GBS confirmados y sospechosos positivos a zika,PRDH_Arbovirus,cases,NA
+PR0014,gbs_reported_flavi_confirmed,GBS reported including confirmed and suspected cases that are flavivirus confirmed,Casos reportados de GBS confirmados y sospechosos confirmados para flavivirus,PRDH_Arbovirus,cases,NA
+PR0015,congenital_developmental_defects_reported_cummulative_2015-2016, Reported congenital developmental defects from 2015-2016,Casos con defectos congenitos,PRDH_Arbovirus,cases,NA
