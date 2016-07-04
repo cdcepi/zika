@@ -1,28 +1,61 @@
-"location","location_type","country","state_province","district_county_municipality","city","alt_name1","alt_name2"
-"Brazil-Alagoas","state","Brazil","Alagoas",NA,NA,"Alagoas",NA
-"Brazil-Bahia","state","Brazil","Bahia",NA,NA,"Bahia",NA
-"Brazil-Ceara","state","Brazil","Ceara",NA,NA,"Cear",NA
-"Brazil-Maranhao","state","Brazil","Maranhao",NA,NA,"Maranho",NA
-"Brazil-Paraiba","state","Brazil","Paraiba",NA,NA,"Paraba",NA
-"Brazil-Pernambuco","state","Brazil","Pernambuco",NA,NA,"Pernambuco",NA
-"Brazil-Piaui","state","Brazil","Piaui",NA,NA,"Piau",NA
-"Brazil-Rio_Grande_do_Norte","state","Brazil","Rio Grande do Norte",NA,NA,"Rio Grande do Norte",NA
-"Brazil-Sergipe","state","Brazil","Sergipe",NA,NA,"Sergipe",NA
-"Brazil-Espirito_Santo","state","Brazil","Espirito Santo",NA,NA,"Esprito Santo",NA
-"Brazil-Minas_Gerais","state","Brazil","Minas Gerais",NA,NA,"Minas Gerais",NA
-"Brazil-Rio_de_Janeiro","state","Brazil","Rio de Janeiro",NA,NA,"Rio de Janeiro",NA
-"Brazil-Sao_Paulo","state","Brazil","Sao Paulo",NA,NA,"So Paulo",NA
-"Brazil-Acre","state","Brazil","Acre",NA,NA,"Acre",NA
-"Brazil-Amapa","state","Brazil","Amapa",NA,NA,"Amap",NA
-"Brazil-Amazonas","state","Brazil","Amazonas",NA,NA,"Amazonas",NA
-"Brazil-Para","state","Brazil","Para",NA,NA,"Par",NA
-"Brazil-Rondonia","state","Brazil","Rondonia",NA,NA,"Rondnia",NA
-"Brazil-Roraima","state","Brazil","Roraima",NA,NA,"Roraima",NA
-"Brazil-Tocantins","state","Brazil","Tocantins",NA,NA,"Tocantins",NA
-"Brazil-Distrito_Federal","state","Brazil","Distrito Federal",NA,NA,"Distrito Federal",NA
-"Brazil-Goias","state","Brazil","Goias",NA,NA,"Gois",NA
-"Brazil-Mato_Grosso","state","Brazil","Mato Grosso",NA,NA,"Mato Grosso",NA
-"Brazil-Mato_Grosso_do_Sul","state","Brazil","Mato Grosso do Sul",NA,NA,"Mato Grosso do Sul",NA
-"Brazil-Parana","state","Brazil","Parana",NA,NA,"Paran",NA
-"Brazil-Santa_Catarina","state","Brazil","Santa Catarina",NA,NA,"Santa Catarina",NA
-"Brazil-Rio_Grande_do_Sul","state","Brazil","Rio Grande do Sul",NA,NA,"Rio Grande do Sul",NA
+location,location_type,country,state_province,district_county_municipality,city,alt_name1,alt_name2
+Brazil-Alagoas,state,Brazil,Alagoas,NA,NA,Alagoas,NA
+Brazil-Bahia,state,Brazil,Bahia,NA,NA,Bahia,NA
+Brazil-Ceara,state,Brazil,Ceara,NA,NA,Cear,NA
+Brazil-Maranhao,state,Brazil,Maranhao,NA,NA,Maranho,NA
+Brazil-Paraiba,state,Brazil,Paraiba,NA,NA,Paraba,NA
+Brazil-Pernambuco,state,Brazil,Pernambuco,NA,NA,Pernambuco,NA
+Brazil-Piaui,state,Brazil,Piaui,NA,NA,Piau,NA
+Brazil-Rio_Grande_do_Norte,state,Brazil,Rio Grande do Norte,NA,NA,Rio Grande do Norte,NA
+Brazil-Sergipe,state,Brazil,Sergipe,NA,NA,Sergipe,NA
+Brazil-Espirito_Santo,state,Brazil,Espirito Santo,NA,NA,Esprito Santo,NA
+Brazil-Minas_Gerais,state,Brazil,Minas Gerais,NA,NA,Minas Gerais,NA
+Brazil-Rio_de_Janeiro,state,Brazil,Rio de Janeiro,NA,NA,Rio de Janeiro,NA
+Brazil-Sao_Paulo,state,Brazil,Sao Paulo,NA,NA,So Paulo,NA
+Brazil-Acre,state,Brazil,Acre,NA,NA,Acre,NA
+Brazil-Amapa,state,Brazil,Amapa,NA,NA,Amap,NA
+Brazil-Amazonas,state,Brazil,Amazonas,NA,NA,Amazonas,NA
+Brazil-Para,state,Brazil,Para,NA,NA,Par,NA
+Brazil-Rondonia,state,Brazil,Rondonia,NA,NA,Rondnia,NA
+Brazil-Roraima,state,Brazil,Roraima,NA,NA,Roraima,NA
+Brazil-Tocantins,state,Brazil,Tocantins,NA,NA,Tocantins,NA
+Brazil-Distrito_Federal,state,Brazil,Distrito Federal,NA,NA,Distrito Federal,NA
+Brazil-Goias,state,Brazil,Goias,NA,NA,Gois,NA
+Brazil-Mato_Grosso,state,Brazil,Mato Grosso,NA,NA,Mato Grosso,NA
+Brazil-Mato_Grosso_do_Sul,state,Brazil,Mato Grosso do Sul,NA,NA,Mato Grosso do Sul,NA
+Brazil-Parana,state,Brazil,Parana,NA,NA,Paran,NA
+Brazil-Santa_Catarina,state,Brazil,Santa Catarina,NA,NA,Santa Catarina,NA
+Brazil-Rio_Grande_do_Sul,state,Brazil,Rio Grande do Sul,NA,NA,Rio Grande do Sul,NA
+Norte,region,Brazil,NA,NA,NA,Norte,NA
+Rondonia,state,Brazil,Rondonia,NA,NA,Rondnia,NA
+Acre,state,Brazil,Acre,NA ,NA,Acre,NA
+Amazonas,state,Brazil,Amazonas,NA ,NA,Amazonas,NA
+Roraima,state,Brazil,Roraima,NA ,NA,Roraima,NA
+Para,state,Brazil,Para,NA ,NA,Para,NA
+Amapa,state,Brazil,Amapa,NA ,NA,Amapa,NA
+Tocantins,state,Brazil,Tocantins,NA ,NA,Tocantins,NA
+Nordeste,region,Brazil,NA,NA ,NA,Nordeste,NA
+Maranhao,state,Brazil,Maranhao,NA ,NA,Maranhao,NA
+Piaui,state,Brazil,Piaui,NA ,NA,Piaui,NA
+Ceara,state,Brazil,Ceara,NA ,NA,Ceara,NA
+Rio Grande do Norte,state,Brazil,Rio Grande do Norte,NA ,NA,Rio Grande do Norte,NA
+Paraiba,state,Brazil,Paraiba,NA ,NA,Paraiba,NA
+Pernambuco,state,Brazil,Pernambuco,NA ,NA,Pernambuco,NA
+Alagoas,state,Brazil,Alagoas,NA ,NA,Alagoas,NA
+Sergipe,state,Brazil,Sergipe,NA ,NA,Sergipe,NA
+Bahia,state,Brazil,Bahia,NA ,NA,Bahia,NA
+Sudeste,region,Brazil,NA,NA ,NA,Sudeste,NA
+Minas Gerais,state,Brazil,Minas Gerais,NA ,NA,Minas Gerais,NA
+Espirito Santo,state,Brazil,Espirito Santo,NA ,NA,Espirito Santo,NA
+Rio de Janeiro,state,Brazil,Rio de Janeiro,NA ,NA,Rio de Janeiro,NA
+Sao Paulo,state,Brazil,Sao Paulo,NA ,NA,Sao Paulo,NA
+Sul,region,Brazil,NA,NA ,NA,Sul,NA
+Parana,state,Brazil,Parana,NA ,NA,Parana,NA
+Santa Catarina,state,Brazil,Santa Catarina,NA ,NA,Santa Catarina,NA
+Rio Grande do Sul,state,Brazil,Rio Grande do Sul,NA ,NA,Rio Grande do Sul,NA
+Centro-Oeste,region,Brazil,NA,NA ,NA,Centro-Oeste,NA
+Mato Grosso do Sul,state,Brazil,Mato Grosso do Sul,NA ,NA,Mato Grosso do Sul,NA
+Mato Grosso,state,Brazil,Mato Grosso,NA ,NA,Mato Grosso,NA
+Goias,state,Brazil,Goias,NA ,NA,Goias,NA
+Distrito Federal,state,Brazil,Distrito Federal,NA ,NA,Distrito Federal,NA
+Brasil,country,Brazil,NA,NA ,NA,Brasil,NA

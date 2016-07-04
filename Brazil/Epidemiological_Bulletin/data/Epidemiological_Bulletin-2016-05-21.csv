@@ -1,0 +1,34 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2016-05-21,Norte,region,zika_reported,BR0011,NA,NA,8432,cases
+2016-05-21,Rondonia,state,zika_reported,BR0011,NA,NA,974,cases
+2016-05-21,Acre,state,zika_reported,BR0011,NA,NA,923,cases
+2016-05-21,Amazonas,state,zika_reported,BR0011,NA,NA,2172,cases
+2016-05-21,Roraima,state,zika_reported,BR0011,NA,NA,83,cases
+2016-05-21,Para,state,zika_reported,BR0011,NA,NA,1583,cases
+2016-05-21,Amapa,state,zika_reported,BR0011,NA,NA,162,cases
+2016-05-21,Tocantins,state,zika_reported,BR0011,NA,NA,2535,cases
+2016-05-21,Nordeste,region,zika_reported,BR0011,NA,NA,54165,cases
+2016-05-21,Maranhao,state,zika_reported,BR0011,NA,NA,2276,cases
+2016-05-21,Piaui,state,zika_reported,BR0011,NA,NA,148,cases
+2016-05-21,Ceara,state,zika_reported,BR0011,NA,NA,1238,cases
+2016-05-21,Rio Grande do Norte,state,zika_reported,BR0011,NA,NA,1788,cases
+2016-05-21,Paraiba,state,zika_reported,BR0011,NA,NA,2648,cases
+2016-05-21,Pernambuco,state,zika_reported,BR0011,NA,NA,496,cases
+2016-05-21,Alagoas,state,zika_reported,BR0011,NA,NA,2812,cases
+2016-05-21,Sergipe,state,zika_reported,BR0011,NA,NA,499,cases
+2016-05-21,Bahia,state,zika_reported,BR0011,NA,NA,42260,cases
+2016-05-21,Sudeste,region,zika_reported,BR0011,NA,NA,61309,cases
+2016-05-21,Minas Gerais,state,zika_reported,BR0011,NA,NA,11670,cases
+2016-05-21,Espirito Santo,state,zika_reported,BR0011,NA,NA,2080,cases
+2016-05-21,Rio de Janeiro,state,zika_reported,BR0011,NA,NA,43516,cases
+2016-05-21,Sao Paulo,state,zika_reported,BR0011,NA,NA,4043,cases
+2016-05-21,Sul,region,zika_reported,BR0011,NA,NA,2491,cases
+2016-05-21,Parana,state,zika_reported,BR0011,NA,NA,2045,cases
+2016-05-21,Santa Catarina,state,zika_reported,BR0011,NA,NA,102,cases
+2016-05-21,Rio Grande do Sul,state,zika_reported,BR0011,NA,NA,344,cases
+2016-05-21,Centro-Oeste,region,zika_reported,BR0011,NA,NA,22508,cases
+2016-05-21,Mato Grosso do Sul,state,zika_reported,BR0011,NA,NA,696,cases
+2016-05-21,Mato Grosso,state,zika_reported,BR0011,NA,NA,18226,cases
+2016-05-21,Goias,state,zika_reported,BR0011,NA,NA,3217,cases
+2016-05-21,Distrito Federal,state,zika_reported,BR0011,NA,NA,369,cases
+2016-05-21,Brasil,country,zika_reported,BR0011,NA,NA,148905,cases

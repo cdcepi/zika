@@ -1,0 +1,34 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2016-04-23,Norte,region,zika_reported,BR0011,NA,NA,8545,cases
+2016-04-23,Acre,state,zika_reported,BR0011,NA,NA,716,cases
+2016-04-23,Amapa,state,zika_reported,BR0011,NA,NA,127,cases
+2016-04-23,Amazonas,state,zika_reported,BR0011,NA,NA,2172,cases
+2016-04-23,Para,state,zika_reported,BR0011,NA,NA,1079,cases
+2016-04-23,Rondonia,state,zika_reported,BR0011,NA,NA,783,cases
+2016-04-23,Roraima,state,zika_reported,BR0011,NA,NA,56,cases
+2016-04-23,Tocantins,state,zika_reported,BR0011,NA,NA,3612,cases
+2016-04-23,Nordeste,region,zika_reported,BR0011,NA,NA,43000,cases
+2016-04-23,Alagoas,state,zika_reported,BR0011,NA,NA,1906,cases
+2016-04-23,Bahia,state,zika_reported,BR0011,NA,NA,34507,cases
+2016-04-23,Ceara,state,zika_reported,BR0011,NA,NA,676,cases
+2016-04-23,Maranhao,state,zika_reported,BR0011,NA,NA,1877,cases
+2016-04-23,Paraiba,state,zika_reported,BR0011,NA,NA,1745,cases
+2016-04-23,Pernambuco,state,zika_reported,BR0011,NA,NA,367,cases
+2016-04-23,Piaui,state,zika_reported,BR0011,NA,NA,75,cases
+2016-04-23,Rio Grande do Norte,state,zika_reported,BR0011,NA,NA,1443,cases
+2016-04-23,Sergipe,state,zika_reported,BR0011,NA,NA,404,cases
+2016-04-23,Sudeste,region,zika_reported,BR0011,NA,NA,46318,cases
+2016-04-23,Espirito Santo,state,zika_reported,BR0011,NA,NA,1790,cases
+2016-04-23,Minas Gerais,state,zika_reported,BR0011,NA,NA,9669,cases
+2016-04-23,Rio de Janeiro,state,zika_reported,BR0011,NA,NA,32312,cases
+2016-04-23,Sao Paulo,state,zika_reported,BR0011,NA,NA,2547,cases
+2016-04-23,Sul,region,zika_reported,BR0011,NA,NA,2197,cases
+2016-04-23,Parana,state,zika_reported,BR0011,NA,NA,1847,cases
+2016-04-23,Rio Grande do Sul,state,zika_reported,BR0011,NA,NA,264,cases
+2016-04-23,Santa Catarina,state,zika_reported,BR0011,NA,NA,86,cases
+2016-04-23,Centro-Oeste,region,zika_reported,BR0011,NA,NA,20101,cases
+2016-04-23,Distrito Federal,state,zika_reported,BR0011,NA,NA,276,cases
+2016-04-23,Goias,state,zika_reported,BR0011,NA,NA,1907,cases
+2016-04-23,Mato Grosso,state,zika_reported,BR0011,NA,NA,17391,cases
+2016-04-23,Mato Grosso do Sul,state,zika_reported,BR0011,NA,NA,527,cases
+2016-04-23,Brasil,country,zika_reported,BR0011,NA,NA,120161,cases

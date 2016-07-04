@@ -12,7 +12,7 @@ Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-m
     first report_date: 2016-02-13
     last report_date: ongoing
 
-## Boletim_Epidemiológico: Ministry of Health, Secretary of Health Surveillance
+## Epidemiological_Bulletin: Ministry of Health, Secretary of Health Surveillance
 \(Secretaria de Vigilância em Saúde − Ministério da Saúde\)
 
 Source: <http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue>
