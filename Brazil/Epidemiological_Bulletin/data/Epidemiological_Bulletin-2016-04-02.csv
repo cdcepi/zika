@@ -1,34 +1,34 @@
 report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
 2016-04-02,Norte,region,zika_reported,BR0011,NA,NA,6295,cases
-2016-04-02,Rondonia,state,zika_reported,BR0011,NA,NA,618,cases
-2016-04-02,Acre,state,zika_reported,BR0011,NA,NA,375,cases
-2016-04-02,Amazonas,state,zika_reported,BR0011,NA,NA,1520,cases
-2016-04-02,Roraima,state,zika_reported,BR0011,NA,NA,44,cases
-2016-04-02,Para,state,zika_reported,BR0011,NA,NA,771,cases
-2016-04-02,Amapa,state,zika_reported,BR0011,NA,NA,74,cases
-2016-04-02,Tocantins,state,zika_reported,BR0011,NA,NA,2893,cases
+2016-04-02,Brazil-Rondonia,state,zika_reported,BR0011,NA,NA,618,cases
+2016-04-02,Brazil-Acre,state,zika_reported,BR0011,NA,NA,375,cases
+2016-04-02,Brazil-Amazonas,state,zika_reported,BR0011,NA,NA,1520,cases
+2016-04-02,Brazil-Roraima,state,zika_reported,BR0011,NA,NA,44,cases
+2016-04-02,Brazil-Para,state,zika_reported,BR0011,NA,NA,771,cases
+2016-04-02,Brazil-Amapa,state,zika_reported,BR0011,NA,NA,74,cases
+2016-04-02,Brazil-Tocantins,state,zika_reported,BR0011,NA,NA,2893,cases
 2016-04-02,Nordeste,region,zika_reported,BR0011,NA,NA,30286,cases
-2016-04-02,Maranhao,state,zika_reported,BR0011,NA,NA,1202,cases
-2016-04-02,Piaui,state,zika_reported,BR0011,NA,NA,7,cases
-2016-04-02,Ceara,state,zika_reported,BR0011,NA,NA,156,cases
-2016-04-02,Rio Grande do Norte,state,zika_reported,BR0011,NA,NA,640,cases
-2016-04-02,Paraiba,state,zika_reported,BR0011,NA,NA,1060,cases
-2016-04-02,Pernambuco,state,zika_reported,BR0011,NA,NA,333,cases
-2016-04-02,Alagoas,state,zika_reported,BR0011,NA,NA,1479,cases
-2016-04-02,Sergipe,state,zika_reported,BR0011,NA,NA,348,cases
-2016-04-02,Bahia,state,zika_reported,BR0011,NA,NA,25061,cases
+2016-04-02,Brazil-Maranhao,state,zika_reported,BR0011,NA,NA,1202,cases
+2016-04-02,Brazil-Piaui,state,zika_reported,BR0011,NA,NA,7,cases
+2016-04-02,Brazil-Ceara,state,zika_reported,BR0011,NA,NA,156,cases
+2016-04-02,Brazil-Rio_Grande_do_Norte,state,zika_reported,BR0011,NA,NA,640,cases
+2016-04-02,Brazil-Paraiba,state,zika_reported,BR0011,NA,NA,1060,cases
+2016-04-02,Brazil-Pernambuco,state,zika_reported,BR0011,NA,NA,333,cases
+2016-04-02,Brazil-Alagoas,state,zika_reported,BR0011,NA,NA,1479,cases
+2016-04-02,Brazil-Sergipe,state,zika_reported,BR0011,NA,NA,348,cases
+2016-04-02,Brazil-Bahia,state,zika_reported,BR0011,NA,NA,25061,cases
 2016-04-02,Sudeste,region,zika_reported,BR0011,NA,NA,35505,cases
-2016-04-02,Minas Gerais,state,zika_reported,BR0011,NA,NA,6693,cases
-2016-04-02,Espirito Santo,state,zika_reported,BR0011,NA,NA,1382,cases
-2016-04-02,Rio de Janeiro,state,zika_reported,BR0011,NA,NA,25930,cases
-2016-04-02,Sao Paulo,state,zika_reported,BR0011,NA,NA,1500,cases
+2016-04-02,Brazil-Minas_Gerais,state,zika_reported,BR0011,NA,NA,6693,cases
+2016-04-02,Brazil-Espirito_Santo,state,zika_reported,BR0011,NA,NA,1382,cases
+2016-04-02,Brazil-Rio_de_Janeiro,state,zika_reported,BR0011,NA,NA,25930,cases
+2016-04-02,Brazil-Sao_Paulo,state,zika_reported,BR0011,NA,NA,1500,cases
 2016-04-02,Sul,region,zika_reported,BR0011,NA,NA,1797,cases
-2016-04-02,Parana,state,zika_reported,BR0011,NA,NA,1540,cases
-2016-04-02,Santa Catarina,state,zika_reported,BR0011,NA,NA,62,cases
-2016-04-02,Rio Grande do Sul,state,zika_reported,BR0011,NA,NA,195,cases
+2016-04-02,Brazil-Parana,state,zika_reported,BR0011,NA,NA,1540,cases
+2016-04-02,Brazil-Santa_Catarina,state,zika_reported,BR0011,NA,NA,62,cases
+2016-04-02,Brazil-Rio_Grande_do_Sul,state,zika_reported,BR0011,NA,NA,195,cases
 2016-04-02,Centro-Oeste,region,zika_reported,BR0011,NA,NA,17504,cases
-2016-04-02,Mato Grosso do Sul,state,zika_reported,BR0011,NA,NA,296,cases
-2016-04-02,Mato Grosso,state,zika_reported,BR0011,NA,NA,16055,cases
-2016-04-02,Goias,state,zika_reported,BR0011,NA,NA,920,cases
-2016-04-02,Distrito Federal,state,zika_reported,BR0011,NA,NA,233,cases
-2016-04-02,Brasil,country,zika_reported,BR0011,NA,NA,91387,cases
+2016-04-02,Brazil-Mato_Grosso_do_Sul,state,zika_reported,BR0011,NA,NA,296,cases
+2016-04-02,Brazil-Mato_Grosso,state,zika_reported,BR0011,NA,NA,16055,cases
+2016-04-02,Brazil-Goias,state,zika_reported,BR0011,NA,NA,920,cases
+2016-04-02,Brazil-Distrito_Federal,state,zika_reported,BR0011,NA,NA,233,cases
+2016-04-02,Brazil,state,zika_reported,BR0011,NA,NA,91387,cases
