@@ -91,6 +91,8 @@ readData <- function(theurl, tableNum=1){
   #remove spaces in location
   zikaData$location <- gsub(" ", "_", zikaData$location)
   
+  #remove non-ascii characters that someone added to the html table
+  cdcZika$location <- iconv(cdcZika$location, to = "ASCII", sub = "")
   zikaData$report_date <- theDate
   
   
@@ -122,11 +124,11 @@ US_places <- data.frame(location = location, location_type = location_type,
 
 
 old_places <- read.csv("../../US_Places.csv")
-US_places <- merge(US_places, old_places, all.y=TRUE)
+US_places <- merge(US_places, old_places, all.x=TRUE)
 
 
-US_places <- US_places[!US_places$state_province == "Florida" & 
-                         is.na(US_places$alt_name1),]
+# US_places <- US_places[!US_places$state_province == "Florida" &
+#                          is.na(US_places$alt_name1),]
 # Read codes then merge and melt ------------------------------------------
 
 codeZ <- read.csv("../../US_Data_Guide.csv")
