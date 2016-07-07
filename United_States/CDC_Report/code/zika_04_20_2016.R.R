@@ -14,8 +14,8 @@ library(reshape2)
 
 # Read html from website --------------------------------------------------
 
-theurl <- "http://www.cdc.gov/zika/geo/united-states.html"
-#theurl <- "V:\\Projects\\zika\\United_States\\original_reports\\www.cdc.gov_zika_geo_united-states_2016-02-24.html"
+#theurl <- "http://www.cdc.gov/zika/geo/united-states.html"
+theurl <- "../original_reports/US_Zika-2016-06-29.html"
 readData <- function(theurl, tableNum=1){
   ## check existence of url
   #con.url <- try(url(theurl, open='rb'))
@@ -92,7 +92,7 @@ readData <- function(theurl, tableNum=1){
   zikaData$location <- gsub(" ", "_", zikaData$location)
   
   #remove non-ascii characters that someone added to the html table
-  cdcZika$location <- iconv(cdcZika$location, to = "ASCII", sub = "")
+  zikaData$location <- iconv(zikaData$location, to = "ASCII", sub = "")
   zikaData$report_date <- theDate
   
   
