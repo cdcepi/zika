@@ -18,9 +18,10 @@ validate <- function(this_csv, data_guide, places) {
           }
      
      # Check for whitespace
-     if (spaces <- any(sapply(this_csv, str_detect, pattern = "\\s"), na.rm = TRUE)) {
+     if (any(whitespace_found <-
+             apply(sapply(this_csv, str_detect, pattern = "\\s"), 1, any, na.rm=T))) {
           print("White spaces found in these rows:")
-          print(select(this_csv[spaces == TRUE, ], report_date, location, location_type, 
+          print(select(this_csv[whitespace_found, ], report_date, location, location_type, 
               data_field, data_field_code)) 
           error_found <- TRUE
           }    
