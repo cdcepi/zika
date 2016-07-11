@@ -10,17 +10,17 @@ validate <- function(this_csv, data_guide, places) {
      error_found <- FALSE
      
      # Check date format
-     if (dates <- sum(sapply(this_csv$report_date, is.Date) == 0)) {
-          print("Dates in 'report_date' column are in the wrong format:")
-          print("Please, set colClasses when reading in the .csv.")
-          print("You may need to change Date format to: YYYY-mm-dd.")
+     if (sum(grepl(this_csv$report_date, pattern = "[0-9]{4}-[0-9]{2}-[0-9]{2}")) < nrow(this_csv)) {
+          print("This file has wrong date formats on `report_date` column.")
+          print("Please, change date formats to 'YYYY-MM-dd'.")
           error_found <- TRUE
-          }
+     } 
      
      # Check for whitespace
-     if (spaces <- any(sapply(this_csv, str_detect, pattern = "\\s"), na.rm = TRUE)) {
+     if (any(whitespace_found <-
+             apply(sapply(this_csv, str_detect, pattern = "\\s"), 1, any, na.rm=T))) {
           print("White spaces found in these rows:")
-          print(select(this_csv[spaces == TRUE, ], report_date, location, location_type, 
+          print(select(this_csv[whitespace_found, ], report_date, location, location_type, 
               data_field, data_field_code)) 
           error_found <- TRUE
           }    
@@ -68,4 +68,4 @@ validate <- function(this_csv, data_guide, places) {
      if (error_found) {
           warning("Have another coffee and fix the errors listed above")
           } else print("No errors found! Go outside and enjoy the day")
-}
+} 
