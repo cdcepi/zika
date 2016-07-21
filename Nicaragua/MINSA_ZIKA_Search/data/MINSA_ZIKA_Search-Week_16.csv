@@ -1,0 +1,5 @@
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
+2016-04-18,"Nicaragua","country","total_zika_new_suspected","NI0005",NA,NA,27,"cases"
+2016-04-18,"Nicaragua","country","total_zika_confirmed","NI0001",NA,NA,2,"cases"
+2016-04-18,"Nicaragua","country","total_zika_confirmed_cumulative","NI0003",NA,NA,139,"cases"
+2016-04-18,"Nicaragua","country","total_zika_confirmed_pregnant_cumulative","NI0004",NA,NA,17,"cases"

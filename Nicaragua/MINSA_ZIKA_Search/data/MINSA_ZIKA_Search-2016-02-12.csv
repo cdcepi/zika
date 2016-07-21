@@ -1,8 +1,0 @@
-"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
-2016-02-12,"Nicaragua","country","total_zika_confirmed","NI0001",NA,NA,6,"cases"
-2016-02-12,"Nicaragua-Masaya-Nindiri","municipality","total_zika_confirmed","NI0001",NA,NA,1,"cases"
-2016-02-12,"Nicaragua-Chinandega-San_Pedro_del_Norte","municipality","total_zika_confirmed","NI0001",NA,NA,1,"cases"
-2016-02-12,"Nicaragua-Managua-Distrito_IV","district","total_zika_confirmed","NI0001",NA,NA,1,"cases"
-2016-02-12,"Nicaragua-Managua-Ciudad_Sandino","municipality","total_zika_confirmed","NI0001",NA,NA,2,"cases"
-2016-02-12,"Nicaragua","country","total_zika_confirmed_cumulative","NI0003",NA,NA,53,"cases"
-2016-02-12,"Nicaragua","country","total_zika_confirmed_pregnant_cumulative","NI0004",NA,NA,4,"cases"
