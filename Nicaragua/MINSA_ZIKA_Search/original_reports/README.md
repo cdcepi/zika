@@ -65,3 +65,4 @@ Week 23:
 Week 24:  
   - [MINSA_ZIKA_Search-2760](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2760-catorce-embarazadas-con-zika-han-dado-a-luz-a-bebes-sin-microcefalia)-2016-06-13  
   - [MINSA_ZIKA_Search-2761](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2761-minsa-brinda-informe-del-plan-anti-epidemiologico-para-erradicar-enfermedades)-2016-06-13  
+  - [MINSA_ZIKA_Search-2772](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2772-17-embarazadas-con-zika-han-dado-a-luz-bebe-sanos-en-nicaragua)-2016-06-17  
