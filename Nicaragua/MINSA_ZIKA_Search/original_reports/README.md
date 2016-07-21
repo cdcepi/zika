@@ -66,3 +66,9 @@ Week 24:
   - [MINSA_ZIKA_Search-2760](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2760-catorce-embarazadas-con-zika-han-dado-a-luz-a-bebes-sin-microcefalia)-2016-06-13  
   - [MINSA_ZIKA_Search-2761](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2761-minsa-brinda-informe-del-plan-anti-epidemiologico-para-erradicar-enfermedades)-2016-06-13  
   - [MINSA_ZIKA_Search-2772](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2772-17-embarazadas-con-zika-han-dado-a-luz-bebe-sanos-en-nicaragua)-2016-06-17  
+  
+Week 25:  
+  - [MINSA_ZIKA_Search-2780](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2780-minsa-llama-a-fortalecer-acciones-contra-las-enfermedades-para-con-la-llegada-de-las-lluvias)-2016-06-20  
+  - [MINSA_ZIKA_Search-2781](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2781-se-sospecha-que-dengue-o-meningitis-provoco-muerte-de-nino-en-jinotega)-2016-06-21  
+  - [MINSA_ZIKA_Search-2784](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2784-companera-lamenta-muerte-materna-en-hospital-solidaridad)-2016-06-22  
+  - [MINSA_ZIKA_Search-2788](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2788-bid-aprueba-45-millones-de-dolares-para-programa-de-salud-en-municipios-rurales)-2016-06-23  
