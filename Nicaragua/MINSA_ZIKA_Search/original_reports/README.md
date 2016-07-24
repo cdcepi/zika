@@ -1,4 +1,4 @@
-### Search according to dates from by calendar week:  
+### Zika search by calendar week:  
 
 Week 06:  
   - [MINSA_ZIKA_Search-2454](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2454-gobierno-sandinista-en-despliegue-de-amor-a-nicaragua-este-fin-de-semana)-2016-02-09  
