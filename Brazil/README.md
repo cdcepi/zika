@@ -20,3 +20,8 @@ Source: <http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados
     first report_date: 2016-04-02
     last report_date: ongoing
 
+
+
+## Another Source of information
+
+Source: <http://combateaedes.saude.gov.br/pt/situacao-epidemiologica>
