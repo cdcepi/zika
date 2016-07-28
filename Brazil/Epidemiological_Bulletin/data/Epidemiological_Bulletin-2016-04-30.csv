@@ -31,4 +31,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-04-30,Brazil-Goias,state,zika_reported,BR0011,NA,NA,2278,cases
 2016-04-30,Brazil-Mato_Grosso,state,zika_reported,BR0011,NA,NA,18227,cases
 2016-04-30,Brazil-Mato_Grosso_do_Sul,state,zika_reported,BR0011,NA,NA,564,cases
-2016-04-30,Brazil,state,zika_reported,BR0011,NA,NA,127822,cases
+2016-04-30,Brazil,country,zika_reported,BR0011,NA,NA,127822,cases
