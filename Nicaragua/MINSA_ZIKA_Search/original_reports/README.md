@@ -72,3 +72,20 @@
   - [MINSA_ZIKA_Search-2781](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2781-se-sospecha-que-dengue-o-meningitis-provoco-muerte-de-nino-en-jinotega)-2016-06-21  
   - [MINSA_ZIKA_Search-2784](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2784-companera-lamenta-muerte-materna-en-hospital-solidaridad)-2016-06-22  
   - [MINSA_ZIKA_Search-2788](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2788-bid-aprueba-45-millones-de-dolares-para-programa-de-salud-en-municipios-rurales)-2016-06-23  
+  
+### Week 26:  
+  - [MINSA_ZIKA_Search-2796](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2796-minsa-reitera-las-medidas-de-prevencion-de-las-enfermedades)-2016-06-27  
+  - [MINSA_ZIKA_Search-2801](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2801-informan-sobre-forma-aparentemente-mas-benigna-del-virus-zika-en-nicaragua)-2016-06-29  
+  - [MINSA_ZIKA_Search-2808](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2808-rosario-lamenta-muerte-de-mujer-que-no-atendio-su-embarazo)-2016-07-01  
+  
+### Week 27:  
+  - [MINSA_ZIKA_Search-2820](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2820-minsa-brinda-informe-de-situacion-epidemiologica)-2016-07-04  
+  - [MINSA_ZIKA_Search-2814](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2814-rosario-informa-sobre-62-nuevos-casos-de-zika-pero-en-una-modalidad-leve)-2016-07-04  
+  - [MINSA_ZIKA_Search-2823](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2823-minsa-realizara-conversatorios-con-profesionales-de-la-salud-para-abordar-el-desarrollo-de-la-cirugia-plastica-y-reconstructiva-en-nicaragua)-2016-07-05  
+  
+### Week 28:  
+  - [MINSA_ZIKA_Search-2841](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2841-minsa-informa-de-la-situacion-epidemiologica-a-nivel-nacional)-2016-07-11  
+  
+### Week 30:  
+  - [MINSA_ZIKA_Search-2865](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2865-6-mujeres-que-han-tenido-zika-han-dado-a-luz-bebes-saludables)-2016-07-25  
+  - [MINSA_ZIKA_Search-2841](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2841-minsa-informa-de-la-situacion-epidemiologica-a-nivel-nacional)-2016-07-11  
