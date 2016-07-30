@@ -1,2 +1,2 @@
 report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
-7/11/2016,Nicaragua,country,total_zika_confirmed,NI0001,NA,NA,28,cases
+2016-07-11,Nicaragua,country,total_zika_confirmed,NI0001,NA,NA,28,cases
