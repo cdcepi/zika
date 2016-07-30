@@ -87,5 +87,4 @@
   - [MINSA_ZIKA_Search-2841](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2841-minsa-informa-de-la-situacion-epidemiologica-a-nivel-nacional)-2016-07-11  
   
 ### Week 30:  
-  - [MINSA_ZIKA_Search-2865](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2865-6-mujeres-que-han-tenido-zika-han-dado-a-luz-bebes-saludables)-2016-07-25  
-  - [MINSA_ZIKA_Search-2841](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2841-minsa-informa-de-la-situacion-epidemiologica-a-nivel-nacional)-2016-07-11  
+  - [MINSA_ZIKA_Search-2865](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2865-6-mujeres-que-han-tenido-zika-han-dado-a-luz-bebes-saludables)-2016-07-25
