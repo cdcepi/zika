@@ -1,6 +1,7 @@
 "location","location_type","country","state_province","district_county_municipality","city","alt_name1","alt_name2"
 "Guatemala","country","Guatemala",NA,NA,NA,NA,NA
 "Guatemala-Chiquimula","municipality","Guatemala",NA,"Chiquimula",NA,NA,NA
+"Guatemala-Chimaltenango","municipality","Guatemala",NA,"Chimaltenango",NA,NA,NA
 "Guatemala-Escuintla","municipality","Guatemala",NA,"Escuintla",NA,NA,NA
 "Guatemala-Suchitepequez","municipality","Guatemala",NA,"Suchitepequez",NA,NA,NA
 "Guatemala-Zacapa","municipality","Guatemala",NA,"Zacapa",NA,NA,NA
