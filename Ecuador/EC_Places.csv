@@ -15,6 +15,7 @@
 "Ecuador-Los_Rios-Quevedo","county","Ecuador","Los_Rios","Quevedo",NA,NA,NA
 "Ecuador-Los_Rios-Ventanas","county","Ecuador","Los_Rios","Ventanas",NA,NA,NA
 "Ecuador-Los_Rios-Vinces","county","Ecuador","Los_Rios","Vinces",NA,NA,NA
+"Ecuador-Los_Rios-Jaramijo","county","Ecuador","Los_Rios","Jaramijo",NA,NA,NA
 "Ecuador-Manabi-Manta","county","Ecuador","Manabi","Manta",NA,NA,NA
 "Ecuador-Manabi-Pedernales","county","Ecuador","Manabi","Pedernales",NA,NA,NA
 "Ecuador-Manabi-Portoviejo","county","Ecuador","Manabi","Portoviejo",NA,NA,NA
@@ -27,6 +28,7 @@
 "Ecuador-Santo_Domingo_de_los_Tsachilas-Santo_Domingo","county","Ecuador","Santo_Domingo_de_los_Tsachilas","Santo_Domingo",NA,NA,NA
 "Ecuador-Sucumbios-Shushufindi","county","Ecuador","Sucumbios","Shushufinfi",NA,NA,NA
 "Ecuador-Esmeraldas","province","Ecuador","Esmeraldas",NA,NA,NA,NA
+"Ecuador-Chimborazo","province","Ecuador","Chimborazo",NA,NA,NA,NA
 "Ecuador-Galapagos","province","Ecuador","Galapagos",NA,NA,NA,NA
 "Ecuador-Orellana","province","Ecuador","Orellana",NA,NA,NA,NA
 "Ecuador-Guayas","province","Ecuador","Guayas",NA,NA,NA,NA
@@ -42,3 +44,4 @@
 "Ecuador-Imbabura","province","Ecuador","Imbabura",NA,NA,NA,NA
 "Ecuador-Carchi","province","Ecuador","Carchi",NA,NA,NA,NA
 "Ecuador-Manabi-Montecristi","county","Ecuador","Manabi","Montecristi",NA,NA,NA
+"Ecuador-Tungurahua","province","Ecuador","Tungurahua",NA,NA,NA,NA
