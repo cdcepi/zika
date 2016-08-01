@@ -132,7 +132,7 @@
 2016-04-11,"Panama","country","confirmed_age_35-49","PA0012",NA,NA,50,"cases"
 2016-04-11,"Panama","country","confirmed_age_50-59","PA0013",NA,NA,20,"cases"
 2016-04-11,"Panama","country","confirmed_age_60-64","PA0014",NA,NA,7,"cases"
-2016-04-11,"Panama","country","confirmed_age_60_plus","PA0015",NA,NA,4,"cases"
+2016-04-11,"Panama","country","confirmed_age_65_plus","PA0015",NA,NA,4,"cases"
 2016-04-11,"Panama","country","weekly_Zika_confirmed_asymptomatic","PA0016",NA,NA,11,"cases"
 2016-04-11,"Panama","country","weekly_Zika_confirmed_pending","PA0017",NA,NA,36,"cases"
 2016-04-11,"Panama","country","weekly_Zika_confirmed_local","PA0018",NA,NA,120,"cases"
