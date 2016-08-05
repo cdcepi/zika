@@ -1,0 +1,12 @@
+# Plot confirmed and suspected ZIKV cases by each country
+
+This folder contains code to plot the number of cumulative and suspected cases of ZIKV by country/territory.
+
+Country Variable Selection\: [country_variable_selection.csv](country_variable_selection.csv)
+
+Plot all\: [Plot_all.R](Plot_all.R)
+
+This script relies on the "country_variable_selection.csv", which contains all of the information necessary to plot suspected and confirmed cases for each country/territory in the repo.
+
+After setting your working directory to your downloaded repo, running the entire file will generate 2 pages of plots, one for new cases and a second for cumulative cases, by country. 
+
