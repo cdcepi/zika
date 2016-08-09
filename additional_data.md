@@ -5,7 +5,7 @@
 
 [Pan American Health Organization](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11585&Itemid=41688&lang=en) - situation reports
 
-[Pan American Health Organization](http://ais.paho.org/phip/viz/ed_zika_epicurve.asp) - epidemic curves dataset AND a machine readable version: [https://github.com/cmrivers/zika/blob/master/paho_epicurves.csv](https://github.com/cmrivers/zika/blob/master/paho_epicurves.csv)
+[Pan American Health Organization](http://ais.paho.org/phip/viz/ed_zika_epicurve.asp) - epidemic curves dataset
 
 [World Health Organization](http://www.who.int/csr/don/archive/disease/zika-virus-infection/en/) - situation reports
 
@@ -27,6 +27,11 @@
 
 ### Experimental data
 [University of Wisconsin-Madison](https://dholk.primate.wisc.edu/project/dho/public/Zika/public/ZIKV-001-public/begin.view) - viral shedding in rhesus macaques
+
+### Compiled by researchers
+[Countering Zika in Latin America](http://science.sciencemag.org/content/early/2016/07/13/science.aag0219.figures-only#fig-data-additional-files) - epidemiological data (DOI: 10.1126/science.aag0219)
+
+[Zika virus in the Americas: Early epidemiological and genetic findings](http://science.sciencemag.org/content/early/2016/03/23/science.aaf5036.figures-only#fig-data-additional-files) - epidemiological data (DOI: 10.1126/science.aaf5036)
 
 ### Aggregate news and data
 [Models of Infectious Disease Agent Study](http://dujour.obc.io/#/?title=Zika%20Information&class-uri=http:%2F%2Fwww.pitt.edu%2Fobc%2FIDE_0000000014&recent-threshold=30) - various Zika-related reports
