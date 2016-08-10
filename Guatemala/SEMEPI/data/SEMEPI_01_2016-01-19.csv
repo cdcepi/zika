@@ -1,0 +1,8 @@
+"report_date","location","location_type","data_field","data_field_code","time_period","time_period_type","value","unit"
+2016-01-19,"Guatemala","country","total_zika_suspected","GT0001",NA,NA,25,"cases"
+2016-01-19,"Guatemala-Zacapa","municipality","total_zika_suspected","GT0001",NA,NA,11,"cases"
+2016-01-19,"Guatemala-Suchitepequez","municipality","total_zika_suspected","GT0001",NA,NA,9,"cases"
+2016-01-19,"Guatemala-Izabal","municipality","total_zika_suspected","GT0001",NA,NA,2,"cases"
+2016-01-19,"Guatemala-Peten_Sur_Oriental","municipality","total_zika_suspected","GT0001",NA,NA,1,"cases"
+2016-01-19,"Guatemala-Nor_Occidente","municipality","total_zika_suspected","GT0001",NA,NA,1,"cases"
+2016-01-19,"Guatemala-Quetzaltenango","municipality","total_zika_suspected","GT0001",NA,NA,1,"cases"
