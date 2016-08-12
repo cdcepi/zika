@@ -14,7 +14,7 @@
 ### Official - Country
 [Centers for Disease Control and Prevention](http://www.cdc.gov/zika/geo/united-states.html) - United States data
 
-### Genetic
+### Genetic / Genomic
 [National Center for Biotechnology Information - GenBank](http://www.ncbi.nlm.nih.gov/nuccore/?term=zika) - sequence data
 
 [Virus Pathogen Resource](http://www.viprbrc.org/brc/home.spg?decorator=flavi_zika) - sequence data
@@ -25,7 +25,6 @@
 
 [nextstrain](http://nextstrain.org/zika/) - virus phylogeny  
   
-### Genomic data  
 [University of Wisconsin-Madison](https://zika.labkey.com/announcements/OConnor/thread.view?rowId=101) - Zika sequence data in rhesus macaques   
   
 ### Experimental data
