@@ -23,8 +23,11 @@
 
 [Uniprot](http://www.uniprot.org/uniprot/?query=Zika+virus+&sort=score) - unreviewed protein data
 
-[nextstrain](http://nextstrain.org/zika/) - virus phylogeny
-
+[nextstrain](http://nextstrain.org/zika/) - virus phylogeny  
+  
+### Genomic data  
+[University of Wisconsin-Madison](https://zika.labkey.com/announcements/OConnor/thread.view?rowId=101) - Zika sequence data in rhesus macaques   
+  
 ### Experimental data
 [University of Wisconsin-Madison](https://dholk.primate.wisc.edu/project/dho/public/Zika/public/ZIKV-001-public/begin.view) - viral shedding in rhesus macaques
 
