@@ -9,3 +9,5 @@
 "GT0008","total_zika_confirmed_cumulative","Total confirmed cases cummulative","Total de casos confirmados acumulados","SEMEPI","cases",NA
 "GT0009","total_zika_suspected_pregnant_cumulative","Total suspected cases from pregnant women cumulative","Total casos sospechosos acumulados en embarazadas","SEMEPI","cases",NA
 "GT0010","total_zika_confirmed_pregnant_cumulative","Total confirmed cases from pregnant women cumulative","Total casos confirmados acumulados en embarazadas","SEMEPI","cases",NA
+"GT0011","normal_birth_M","Normal birth of males from ZIKV+ women","Numero de nacimientos de bebes machos de mujeres ZIKV+","SEMEPI","cases",NA
+"GT0012","normal_birth_F","Normal birth of females from ZIKV+ women","Numero de nacimientos de bebes hembras de mujeres ZIKV+","SEMEPI","cases",NA
