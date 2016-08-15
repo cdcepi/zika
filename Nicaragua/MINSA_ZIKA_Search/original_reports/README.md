@@ -87,4 +87,11 @@
   - [MINSA_ZIKA_Search-2841](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2841-minsa-informa-de-la-situacion-epidemiologica-a-nivel-nacional)-2016-07-11  
   
 ### Week 30:  
-  - [MINSA_ZIKA_Search-2865](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2865-6-mujeres-que-han-tenido-zika-han-dado-a-luz-bebes-saludables)-2016-07-25
+  - [MINSA_ZIKA_Search-2865](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2865-6-mujeres-que-han-tenido-zika-han-dado-a-luz-bebes-saludables)-2016-07-25  
+  
+### Week 31:  
+  - [MINSA_ZIKA_Search-2881](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2881-gobierno-reporta-tres-nuevos-partos-normales-de-madres-que-tuvieron-zika)-2016-08-02  
+  - [MINSA_ZIKA_Search-2882](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2882-minsa-insta-a-las-familias-a-fortalecer-medidas-de-prevencion-ante-las-enfermedades)-2016-08-02  
+  - [MINSA_ZIKA_Search-2886](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2886-trabajamos-para-evitar-riesgos-mayores-por-el-zika-asegura-rosario)-2016-08-03  
+  - [MINSA_ZIKA_Search-2887](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2887-en-nicaragua-siguen-naciendo-bebes-sanos-de-madres-que-tuvieron-zika)-2016-08-04  
+
