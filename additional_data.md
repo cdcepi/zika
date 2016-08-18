@@ -25,11 +25,10 @@
 
 [nextstrain](http://nextstrain.org/zika/) - virus phylogeny  
   
-[University of Wisconsin-Madison](https://zika.labkey.com/announcements/OConnor/thread.view?rowId=101) - Zika sequence data in rhesus macaques   
-  
 ### Experimental data
-[University of Wisconsin-Madison](https://dholk.primate.wisc.edu/project/dho/public/Zika/public/ZIKV-001-public/begin.view) - viral shedding in rhesus macaques
-
+[University of Wisconsin-Madison](https://dholk.primate.wisc.edu/project/dho/public/Zika/public/ZIKV-001-public/begin.view) - viral shedding in rhesus macaques  
+[University of Wisconsin-Madison](https://zika.labkey.com/announcements/OConnor/thread.view?rowId=101) - Serum antibody epitope mapping  
+  
 ### Compiled by researchers
 [Countering Zika in Latin America](http://science.sciencemag.org/content/early/2016/07/13/science.aag0219.figures-only#fig-data-additional-files) - epidemiological data (DOI: 10.1126/science.aag0219)
 
