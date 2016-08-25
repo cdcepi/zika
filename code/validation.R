@@ -6,7 +6,6 @@
 validate <- function(this_csv, data_guide, places) {    
      require(stringr)
      require(dplyr)
-     require(lubridate)
      error_found <- FALSE
      
      # Check date format
