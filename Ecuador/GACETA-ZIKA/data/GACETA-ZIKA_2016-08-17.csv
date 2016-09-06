@@ -6,10 +6,10 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-08-17,Ecuador-El_Oro-Santa_Rosa,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-17,Ecuador-Esmeraldas-Esmeraldas,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,89,cases
 2016-08-17,Ecuador-Esmeraldas-Quininde,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,9,cases
-2016-08-17,Ecuador-Esmeraldas-Rioverde,county,total_zika_confirmed_autochthonous,,NA,NA,1,cases
+2016-08-17,Ecuador-Esmeraldas-Rioverde,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-17,Ecuador-Esmeraldas-San_Lorenzo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,53,cases
 2016-08-17,Ecuador-Galapagos-Santa_Cruz,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
-2016-08-17,Ecuador-Guayas-Balzar,county,total_zika_confirmed_autochthonous,,NA,NA,2,cases
+2016-08-17,Ecuador-Guayas-Balzar,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-17,Ecuador-Guayas-Daule,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-17,Ecuador-Guayas-General_Antonio_Elizalde ,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-17,Ecuador-Guayas-Guayaquil,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,92,cases
@@ -17,8 +17,8 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-08-17,Ecuador-Los_Rios-Buena_Fe,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-17,Ecuador-Los_Rios-Quevedo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-17,Ecuador-Los_Rios-Ventanas,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,10,cases
-2016-08-17,Ecuador-Manabi-24_de_Mayo,county,total_zika_confirmed_autochthonous,,NA,NA,1,cases
-2016-08-17,Ecuador-Manabi-Chone,county,total_zika_confirmed_autochthonous,,NA,NA,1,cases
+2016-08-17,Ecuador-Manabi-24_de_Mayo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
+2016-08-17,Ecuador-Manabi-Chone,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-17,Ecuador-Manabi-Jaramijo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,18,cases
 2016-08-17,Ecuador-Manabi-Jipijapa,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,84,cases
 2016-08-17,Ecuador-Manabi-Manta,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,754,cases
