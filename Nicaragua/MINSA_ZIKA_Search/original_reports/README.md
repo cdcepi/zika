@@ -94,4 +94,5 @@
   - [MINSA_ZIKA_Search-2882](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2882-minsa-insta-a-las-familias-a-fortalecer-medidas-de-prevencion-ante-las-enfermedades)-2016-08-02  
   - [MINSA_ZIKA_Search-2886](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2886-trabajamos-para-evitar-riesgos-mayores-por-el-zika-asegura-rosario)-2016-08-03  
   - [MINSA_ZIKA_Search-2887](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2887-en-nicaragua-siguen-naciendo-bebes-sanos-de-madres-que-tuvieron-zika)-2016-08-04  
+  - [MINSA_ZIKA_Search-2889](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2889-rosario-saluda-a-los-trabajadores-de-la-salud-en-su-dia)-2016-08-05  
 
