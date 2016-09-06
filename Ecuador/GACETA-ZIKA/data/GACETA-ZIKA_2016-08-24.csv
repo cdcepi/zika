@@ -13,7 +13,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-08-24,Ecuador-Galapagos-Santa_Cruz,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-24,Ecuador-Guayas-Balzar,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-08-24,Ecuador-Guayas-Daule,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
-2016-08-24,Ecuador-Guayas-General_Antonio_Elizalde ,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
+2016-08-24,Ecuador-Guayas-General_Antonio_Elizalde,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-24,Ecuador-Guayas-Guayaquil,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,92,cases
 2016-08-24,Ecuador-Guayas-Playas,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-24,Ecuador-Imbabura-Otavalo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
@@ -22,7 +22,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-08-24,Ecuador-Los_Rios-Ventanas,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,10,cases
 2016-08-24,Ecuador-Manabi-24_de_Mayo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-08-24,Ecuador-Manabi-Chone,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
-2016-08-24,Ecuador-Manabi-Jaramijo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,18,cases
+2016-08-24,Ecuador-Los_Rios-Jaramijo,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,18,cases
 2016-08-24,Ecuador-Manabi-Jipijapa,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,84,cases
 2016-08-24,Ecuador-Manabi-Manta,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,771,cases
 2016-08-24,Ecuador-Manabi-Montecristi,county,total_zika_confirmed_autochthonous,EC0003,NA,NA,106,cases
@@ -49,7 +49,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-08-24,Ecuador-Manabi-Portoviejo,county,total_zika_confirmed_imported,EC0004,NA,NA,1,cases
 2016-08-24,Ecuador-Pichincha-Quito,county,total_zika_confirmed_imported,EC0004,NA,NA,13,cases
 2016-08-24,Ecuador-Santo_Domingo_de_los_Tsachilas-Santo_Domingo,county,total_zika_confirmed_imported,EC0004,NA,NA,1,cases
-2016-08-24,Ecuador,county,total_zika_confirmed_pregnant,EC0005,NA,NA,181,cases
+2016-08-24,Ecuador,country,total_zika_confirmed_pregnant,EC0005,NA,NA,181,cases
 2016-08-24,Ecuador-Manabi,province,total_zika_confirmed_pregnant,EC0005,NA,NA,141,cases
 2016-08-24,Ecuador-Esmeraldas,province,total_zika_confirmed_pregnant,EC0005,NA,NA,21,cases
 2016-08-24,Ecuador-Guayas,province,total_zika_confirmed_pregnant,EC0005,NA,NA,9,cases
