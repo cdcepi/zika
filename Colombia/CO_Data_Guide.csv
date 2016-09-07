@@ -7,3 +7,4 @@ CO0005,zika_confirmed_laboratory_pregnant, Zika confirmed cases in lab for pregn
 CO0006,zika_suspected_pregnant,Zika suspected cases in pregnant women,Casos sospechosos en embarazadas,Epidemiological_Bulletin,cases,NA
 CO0007,zika_confirmed_clinic_pregnant,Confirmed cases by clinic for pregnant women,Casos confirmados por clinica en embarazadas,Epidemiological_Bulletin,cases,NA
 CO0008,zika_suspected_clinic_pregnant,Suspected cases by clinic for pregnant women,Casos sospechosos por clinica en embarazadas,Epidemiological_Bulletin,cases,NA
+CO0009,neurological_syndrome_zika_positive,Neurological syndrome associated with zika positives,Casos de zika con sindromes neurologicos,Epidemiological_Bulletin,cases,NA
