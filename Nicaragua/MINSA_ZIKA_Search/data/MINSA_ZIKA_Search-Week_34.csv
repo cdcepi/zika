@@ -1,0 +1,3 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2016-08-29,Nicaragua,country,total_zika_confirmed,NI0001,NA,NA,150,cases
+2016-08-29,Nicaragua,country,total_zika_confirmed_cumulative,NI0003,NA,NA,1652,cases
