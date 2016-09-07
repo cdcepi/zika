@@ -5,4 +5,5 @@ CO0003,zika_suspected,Zika Suspected,Sospechoso,Municipality_Zika,cases,NA
 CO0004,zika_suspected_clinic,Zika suspected in clinic,Sospechosos por clínica,Municipality_Zika,cases,NA
 CO0005,zika_confirmed_laboratory_pregnant, Zika confirmed cases in lab for pregnant women,Casos confirmados por laboratorio en embarazadas,Epidemiological_Bulletin,cases,NA
 CO0006,zika_suspected_pregnant,Zika suspected cases in pregnant women,Casos sospechosos en embarazadas,Epidemiological_Bulletin,cases,NA
-CO0007,zika_confirmed_clinic_pregnant,Confirmed cases by clinic for pregnant women,Casos confirmados pr clinica en embarazadas,Epidemiological_Bulletin,cases,NA
+CO0007,zika_confirmed_clinic_pregnant,Confirmed cases by clinic for pregnant women,Casos confirmados por clinica en embarazadas,Epidemiological_Bulletin,cases,NA
+CO0008,zika_suspected_clinic_pregnant,Suspected cases by clinic for pregnant women,Casos sospechosos por clinica en embarazadas,Epidemiological_Bulletin,cases,NA
