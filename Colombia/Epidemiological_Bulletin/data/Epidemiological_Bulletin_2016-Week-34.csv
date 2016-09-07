@@ -1,6 +1,6 @@
 report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
 2016-09-01,Colombia-Valle,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,701,cases
-2016-09-01,Colombia-NorteSantander,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,86,cases
+2016-09-01,Colombia-Norte_Santander,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,86,cases
 2016-09-01,Colombia-Barranquilla,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,181,cases
 2016-09-01,Colombia-Huila,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,697,cases
 2016-09-01,Colombia-Santander,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,364,cases
@@ -11,7 +11,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Cesar,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,211,cases
 2016-09-01,Colombia-Antioquia,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,202,cases
 2016-09-01,Colombia-Casanare,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,161,cases
-2016-09-01,Colombia-SantaMarta,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,110,cases
+2016-09-01,Colombia-Santa_Marta,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,110,cases
 2016-09-01,Colombia-Sucre,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,60,cases
 2016-09-01,Colombia-Magdalena,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,91,cases
 2016-09-01,Colombia-Bogotá,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,144,cases
@@ -28,7 +28,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Caldas,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,33,cases
 2016-09-01,Colombia-Amazonas,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,4,cases
 2016-09-01,Colombia-Boyacá,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,22,cases
-2016-09-01,Colombia-SanAndrés,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,2,cases
+2016-09-01,Colombia-San_Andrés,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,2,cases
 2016-09-01,Colombia-Buenaventura,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,5,cases
 2016-09-01,Colombia-Nariño,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,5,cases
 2016-09-01,Colombia-Guaviare,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,4,cases
@@ -38,7 +38,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Guainía,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,1,cases
 2016-09-01,Colombia-Exterior,province,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,13,cases
 2016-09-01,Colombia-Valle,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,2116,cases
-2016-09-01,Colombia-NorteSantander,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,1673,cases
+2016-09-01,Colombia-Norte_Santander,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,1673,cases
 2016-09-01,Colombia-Barranquilla,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,1178,cases
 2016-09-01,Colombia-Huila,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,596,cases
 2016-09-01,Colombia-Santander,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,841,cases
@@ -49,7 +49,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Cesar,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,279,cases
 2016-09-01,Colombia-Antioquia,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,288,cases
 2016-09-01,Colombia-Casanare,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,302,cases
-2016-09-01,Colombia-SantaMarta,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,352,cases
+2016-09-01,Colombia-Santa_Marta,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,352,cases
 2016-09-01,Colombia-Sucre,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,323,cases
 2016-09-01,Colombia-Magdalena,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,315,cases
 2016-09-01,Colombia-Bogotá,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,186,cases
@@ -66,7 +66,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Caldas,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,13,cases
 2016-09-01,Colombia-Amazonas,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,38,cases
 2016-09-01,Colombia-Boyacá,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,16,cases
-2016-09-01,Colombia-SanAndrés,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,32,cases
+2016-09-01,Colombia-San_Andrés,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,32,cases
 2016-09-01,Colombia-Buenaventura,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,18,cases
 2016-09-01,Colombia-Nariño,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,3,cases
 2016-09-01,Colombia-Guaviare,province,zika_suspected_clinic_pregnant,CO0008,NA,NA,6,cases
@@ -87,7 +87,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Cesar,province,zika_suspected_pregnant,CO0006,NA,NA,26,cases
 2016-09-01,Colombia-Antioquia,province,zika_suspected_pregnant,CO0006,NA,NA,25,cases
 2016-09-01,Colombia-Casanare,province,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-09-01,Colombia-SantaMarta,province,zika_suspected_pregnant,CO0006,NA,NA,0,cases
+2016-09-01,Colombia-Santa_Marta,province,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-09-01,Colombia-Sucre,province,zika_suspected_pregnant,CO0006,NA,NA,55,cases
 2016-09-01,Colombia-Magdalena,province,zika_suspected_pregnant,CO0006,NA,NA,16,cases
 2016-09-01,Colombia-Bogotá,province,zika_suspected_pregnant,CO0006,NA,NA,43,cases
@@ -104,7 +104,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-01,Colombia-Caldas,province,zika_suspected_pregnant,CO0006,NA,NA,5,cases
 2016-09-01,Colombia-Amazonas,province,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-09-01,Colombia-Boyacá,province,zika_suspected_pregnant,CO0006,NA,NA,2,cases
-2016-09-01,Colombia-SanAndrés,province,zika_suspected_pregnant,CO0006,NA,NA,0,cases
+2016-09-01,Colombia-San_Andrés,province,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-09-01,Colombia-Buenaventura,province,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-09-01,Colombia-Nariño,province,zika_suspected_pregnant,CO0006,NA,NA,3,cases
 2016-09-01,Colombia-Guaviare,province,zika_suspected_pregnant,CO0006,NA,NA,1,cases
