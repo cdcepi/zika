@@ -95,4 +95,25 @@
   - [MINSA_ZIKA_Search-2886](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2886-trabajamos-para-evitar-riesgos-mayores-por-el-zika-asegura-rosario)-2016-08-03  
   - [MINSA_ZIKA_Search-2887](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2887-en-nicaragua-siguen-naciendo-bebes-sanos-de-madres-que-tuvieron-zika)-2016-08-04  
   - [MINSA_ZIKA_Search-2889](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2889-rosario-saluda-a-los-trabajadores-de-la-salud-en-su-dia)-2016-08-05  
+  
+### Week 32:  
+  - [MINSA_ZIKA_Search-2897](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2897-minsa-da-a-conocer-reporte-epidemiologico-de-la-ultima-semana)-2016-08-08  
+  - [MINSA_ZIKA_Search-2896](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2896-nicaragua-registraria-primer-caso-de-microcefalia-por-zika)-2016-08-09  
+  - [MINSA_ZIKA_Search-2899](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2899-nicaragua-llega-a-1-mil-158-casos-de-zika)-2016-08-11  
+  - [MINSA_ZIKA_Search-2887](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2901-companera-rosario-insta-a-hermanas-embarazadas-a-acudir-a-unidades-de-salud-ante-sintomas-del-zika)-2016-08-12  
+  
+### Week 33:  
+  - [MINSA_ZIKA_Search-2906](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2906-minsa-da-a-conocer-la-situacion-epidemiologica-de-nuestro-pais)-2016-08-15  
+  - [MINSA_ZIKA_Search-2907](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2907-gobierno-brinda-atencion-especial-a-embarazada-cuyo-hijo-podria-nacer-con-microcefalia)-2016-08-15  
+  - [MINSA_ZIKA_Search-2914](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2914-instituto-de-ciencias-sostenibles-de-estados-unidos-realizara-estudio-sobre-el-zika-en-nicaragua)-2016-08-17  
+  
+### Week 34:  
+  - [MINSA_ZIKA_Search-2946](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2946-minsa-da-a-conocer-informe-epidemiologico-de-la-ultima-semana)-2016-08-29  
+  
+### Week 36:  
+  - [MINSA_ZIKA_Search-2954](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2954-nuevo-caso-de-microcefalia-no-estaria-asociado-con-el-zika)-2016-09-05  
+  - [MINSA_ZIKA_Search-2955](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2955-minsa-brinda-recomendaciones-para-prevenir-enfermedades)-2016-09-05  
+  - [MINSA_ZIKA_Search-2962](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2962-muertes-por-dengue-ya-suman-16-en-lo-que-va-del-ano)-2016-09-06  
+
+
 
