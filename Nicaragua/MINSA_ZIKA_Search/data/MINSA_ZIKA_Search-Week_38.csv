@@ -1,0 +1,8 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2016-09-19,Nicaragua,country,total_zika_confirmed,NI0001,NA,NA,47,cases
+2016-09-19,Nicaragua,country,total_zika_confirmed_cumulative,NI0003,NA,NA,1892,cases
+2016-09-20,Nicaragua,country,total_zika_confirmed_pregnant,NI0002,NA,NA,6,cases
+2016-09-20,Nicaragua,country,total_zika_confirmed,NI0001,NA,NA,8,cases
+2016-09-20,Nicaragua,country,normal_birth_confirmed_cumulative,NI0007,NA,NA,203,cases
+2016-09-20,Nicaragua,country,total_zika_confirmed_pregnant_cumulative,NI0004,NA,NA,1011,cases
+2016-09-20,Nicaragua,country,total_zika_confirmed_cumulative,NI0003,NA,NA,1900,cases
