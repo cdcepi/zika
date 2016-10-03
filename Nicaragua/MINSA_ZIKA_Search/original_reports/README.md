@@ -114,6 +114,14 @@
   - [MINSA_ZIKA_Search-2954](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2954-nuevo-caso-de-microcefalia-no-estaria-asociado-con-el-zika)-2016-09-05  
   - [MINSA_ZIKA_Search-2955](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2955-minsa-brinda-recomendaciones-para-prevenir-enfermedades)-2016-09-05  
   - [MINSA_ZIKA_Search-2962](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2962-muertes-por-dengue-ya-suman-16-en-lo-que-va-del-ano)-2016-09-06  
+  - [MINSA_ZIKA_Search-2966](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/2966-minsa-prepara-congreso-internacional-sobre-microcefalia)-2016-09-07  
+  
+### Week 38:  
+  - [MINSA_ZIKA_Search-3010](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/3010-minsa-reitera-medidas-de-recomendaciones-para-prevenir-enfermedades)-2016-09-17  
+  - [MINSA_ZIKA_Search-3004](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/3004-gobierno-lamenta-nueva-muerte-materna)-2016-09-20  
+  
+### Week 39:  
+  - [MINSA_ZIKA_Search-3034](http://www.minsa.gob.ni/index.php/component/content/article/105-noticias-2016/3034-rosario-anuncia-inicio-de-construccion-del-hospital-primario-de-san-juan-del-sur)-2016-09-30  
 
 
 
