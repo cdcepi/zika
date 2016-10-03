@@ -5,18 +5,18 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-28,Ecuador-Guayas,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,106,cases
 2016-09-28,Ecuador-Pichincha,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,19,cases
 2016-09-28,Ecuador-Santo_Domingo_de_los_Tsachilas,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,26,cases
-2016-09-28,Ecuador- Los_Rios,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,15,cases
+2016-09-28,Ecuador-Los_Rios,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,15,cases
 2016-09-28,Ecuador-El_Oro,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,8,cases
 2016-09-28,Ecuador-Sucumbios,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,4,cases
 2016-09-28,Ecuador-Azuay,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
 2016-09-28,Ecuador-Galapagos,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,2,cases
-2016-09-28,Ecuador-Chimorazo,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
+2016-09-28,Ecuador-Chimborazo,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-09-28,Ecuador-Imbabura,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-09-28,Ecuador-Orellana,province,total_zika_confirmed_autochthonous,EC0003,NA,NA,1,cases
 2016-09-28,Ecuador-Manabi,province,total_zika_confirmed_imported,EC0004,NA,NA,2,cases
 2016-09-28,Ecuador-Guayas,province,total_zika_confirmed_imported,EC0004,NA,NA,1,cases
 2016-09-28,Ecuador-Pichincha,province,total_zika_confirmed_imported,EC0004,NA,NA,15,cases
-2016-09-28,Ecuador- Los_Rios,province,total_zika_confirmed_imported,EC0004,NA,NA,1,cases
+2016-09-28,Ecuador-Los_Rios,province,total_zika_confirmed_imported,EC0004,NA,NA,1,cases
 2016-09-28,Ecuador,country,total_zika_confirmed_pregnant,EC0005,NA,NA,213,cases
 2016-09-28,Ecuador-Manabi,province,total_zika_confirmed_pregnant,EC0005,NA,NA,167,cases
 2016-09-28,Ecuador-Esmeraldas,province,total_zika_confirmed_pregnant,EC0005,NA,NA,20,cases
