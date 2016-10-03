@@ -7,5 +7,5 @@ France Place Names: [FR_Places.csv](FR_Places.csv)
 \(Le Point Epidemio: Institut de veille sanitaire rapport sur la situation ??pid??miologiquee\)
 Source: <http://www.invs.sante.fr/Regions-et-territoires/Localisation-et-contacts/Martinique>  
   
-     first report_date: 2016-01-22
-     last report_date: ongoing
+     first report_date: NA
+     last report_date: NA
