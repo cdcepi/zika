@@ -46,7 +46,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-07-03,Argentina-Rio_Negro,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2016-07-03,Argentina-Santa_Cruz,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2016-07-03,Argentina-Neuquen,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
-2016-07-03,Argentina-Tierra_del_Fuego,province,cumulative_probable_local_cases,AR0002,NA,NA,9,cases
+2016-07-03,Argentina-Tierra_del_Fuego,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2016-07-03,Argentina-Buenos_Aires,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,2,cases
 2016-07-03,Argentina-CABA,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,11,cases
 2016-07-03,Argentina-Cordoba,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,2,cases
