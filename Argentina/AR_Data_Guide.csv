@@ -6,4 +6,5 @@ AR0004,cumulative_probable_imported_cases,Imported cases of Zika virus infection
 AR0005,cumulative_cases_under_study,Cases of Zika virus infection since Week 1 - Under studio,Casos de infeccion por virus Zika desde SE1 - En Estudio,Surveillance_Bulletin,cases,NA
 AR0006,cumulative_cases_discarded,Cases of Zika virus infection since Week 1 - Discarded,Casos de infeccion por virus Zika desde SE1 - Descartado,Surveillance_Bulletin,cases,NA
 AR0007,cumulative_confirmed_zika_pregnant,Cumulative cases of zika positive in pregnant women,Casos confirmados zika en embarazadas,Surveillance_Bulletin,cases,NA
-AR0008,cumulative_possible_zika_pregnant,Cumulative cases of posible zika cases in pregnant women, Casos posibles de zika en embarazadas,Surveillance_Bulletin,cases,NA
+AR0008,cumulative_possible_zika_pregnant,Cumulative cases of posible zika cases in pregnant women,Casos posibles de zika en embarazadas,Surveillance_Bulletin,cases,NA
+AR0009,cumulative_congenital_syndrome_zika,Cumulative zika associated congenital syndrome,Casos de sindromes congenitos en recien nacidos asociados a zika,Surveillance_Bulletin,cases,NA
