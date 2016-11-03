@@ -157,5 +157,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-20,Guatemala-Santa_Rosa,municipality,microcephaly_birth,GT0014,NA,NA,0,cases
 2016-09-20,Guatemala-Izabal,municipality,microcephaly_birth,GT0014,NA,NA,1,cases
 2016-09-20,Guatemala-Baja_Verapaz,municipality,microcephaly_birth,GT0014,NA,NA,1,cases
-2016-09-20,Guatemala-Santa_Rosa,municipality,microcephaly_birth,GT0014,NA,NA,1,cases
 2016-09-20,Guatemala-Chiquimula,municipality,microcephaly_birth,GT0014,NA,NA,1,cases

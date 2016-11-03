@@ -82,9 +82,9 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-09-27,Guatemala-Chimaltenango,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
 2016-09-27,Guatemala-Peten_Norte,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,5,cases
 2016-09-27,Guatemala-Solola,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
-2016-09-27,Guatemala_Izabal,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
+2016-09-27,Guatemala-Izabal,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
 2016-09-27,Guatemala-Totonicapan,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,0,cases
-2016-09-27,Guatemala_Ixil,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
+2016-09-27,Guatemala-Ixil,municipality,total_zika_confirmed_cumulative,GT0008,NA,NA,1,cases
 2016-09-27,Guatemala,country,total_zika_suspected_pregnant_cumulative,GT0009,NA,NA,788,cases
 2016-09-27,Guatemala-Central,municipality,total_zika_suspected_pregnant_cumulative,GT0009,NA,NA,274,cases
 2016-09-27,Guatemala-Baja_Verapaz,municipality,total_zika_suspected_pregnant_cumulative,GT0009,NA,NA,71,cases
