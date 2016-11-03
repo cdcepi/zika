@@ -22,7 +22,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-10-09,Argentina-Neuquen,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,0,cases
 2016-10-09,Argentina-Rio_Negro,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,0,cases
 2016-10-09,Argentina-Santa_Cruz,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,0,cases
-2016-10-09,Argentina-T_Del_Fuego,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,0,cases
+2016-10-09,Argentina-Tierra_del_Fuego,province,cumulative_confirmed_imported_cases,AR0003,NA,NA,0,cases
 2016-10-09,Argentina-Buenos_Aires,province,cumulative_probable_imported_cases,AR0004,NA,NA,1,cases
 2016-10-09,Argentina-CABA,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-09,Argentina-Cordoba,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
@@ -46,7 +46,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-10-09,Argentina-Neuquen,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-09,Argentina-Rio_Negro,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-09,Argentina-Santa_Cruz,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
-2016-10-09,Argentina-T_Del_Fuego,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
+2016-10-09,Argentina-Tierra_del_Fuego,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-09,Argentina-Buenos_Aires,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-09,Argentina-Cordoba,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,1,cases
 2016-10-09,Argentina-Santa_Fe,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
