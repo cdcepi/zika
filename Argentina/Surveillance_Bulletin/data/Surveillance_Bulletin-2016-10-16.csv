@@ -48,12 +48,12 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-10-16,Argentina-Santa_Cruz,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-16,Argentina-Tierra_del_Fuego,province,cumulative_probable_imported_cases,AR0004,NA,NA,0,cases
 2016-10-16,Argentina-Buenos_Aires,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
-2016-10-16,Argentina-CABA,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,
+2016-10-16,Argentina-CABA,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Cordoba,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Santa_Fe,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Mendoza,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-San_Juan,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
-2016-10-16,Argentina-San_Luis,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,
+2016-10-16,Argentina-San_Luis,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Chaco,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Misiones,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
 2016-10-16,Argentina-Catamarca,province,cumulative_confirmed_zika_pregnant,AR0007,NA,NA,0,cases
