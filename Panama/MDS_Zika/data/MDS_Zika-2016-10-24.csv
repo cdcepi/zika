@@ -7,8 +7,8 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-10-24,Panama-Panama_Norte,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,10,cases
 2016-10-24,Panama-Darien,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,1,cases
 2016-10-24,Panama-Colon,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,4,cases
-2016-10-24,Panama-San_Los_Santos,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,3,cases
-2016-10-24,Panama-P.Este,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,1,cases
+2016-10-24,Panama-Los_Santos,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,3,cases
+2016-10-24,Panama-Panama_Este,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,1,cases
 2016-10-24,Panama-Veraguas,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,2,cases
 2016-10-24,Panama-Bocas_del_Toro,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,23,cases
 2016-10-24,Panama-Ngabe_Bugle,province,Zika_confirmed_laboratory_2016,PA0002,NA,NA,1,cases
