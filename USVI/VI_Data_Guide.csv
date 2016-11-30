@@ -20,3 +20,8 @@ VI0018,confirmed_eyepain,Confirmed by Symptom Eye Pain,Confirmed by Symptom Eye 
 VI0019,confirmed_headache,Confirmed by Symptom Headache,Confirmed by Symptom Headache,USVI_Zika,cases,NA
 VI0020,confirmed_malaise,Confirmed by Symptom Malaise,Confirmed by Symptom Malaise,USVI_Zika,cases,NA
 VI0021,zika_no_specimen,No Specimen,No Specimen,USVI_Zika,cases,NA
+VI0022,zika_tested_pregnant,Tested pregnant women,Tested pregnant women,USVI_Zika,cases,NA
+VI0023,zika_positive_pregnant,Zika positive pregnant women,Zika positive pregnant women,USVI_Zika,cases,NA
+VI0024,zika_negative_pregnant,Zika negative pregnant women,Zika negative pregnant women,USVI_Zika,cases,NA
+VI0025,zika_pending_pregnant,Pending results pregnant women,Pending results pregnant women,USVI_Zika,cases,NA
+VI0026,zika_no_specimen_pregnant,No specimen pregnant women,No specimen pregnant women,USVI_Zika,cases,NA

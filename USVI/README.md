@@ -6,7 +6,7 @@ U.S. Virgin Islands Place Names: [VI_Places.csv](VI_Places.csv)
 
 ## USVI_Zika: Zika Weekly Surveillance Report
 
-Source: <http://www.healthvi.org/>
+Source: <http://doh.vi.gov/topics/az/z/zika.html>
 
     first report_date: 2016-02-16
     last report_date: ongoing
