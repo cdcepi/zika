@@ -17,6 +17,4 @@ Follow the [how to contribute](how_to_contribute.md) guide to contribute to the 
 [Additional data](additional_data.md)
 
 ## Citeable DOI
-[![DOI](https://zenodo.org/badge/23625/cdcepi/zika.svg)](https://zenodo.org/badge/latestdoi/23625/cdcepi/zika)
-
-
+[![DOI](https://zenodo.org/badge/51947303.svg)](https://zenodo.org/badge/latestdoi/51947303)
