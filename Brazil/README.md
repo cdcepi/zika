@@ -18,7 +18,7 @@ Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-m
 Source: <http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue>
 
     first report_date: 2016-04-02
-    last report_date: ongoing
+    last report_date: 2016-06-11
 
 
 
