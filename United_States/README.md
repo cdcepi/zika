@@ -9,7 +9,7 @@ Source:
       <http://www.cdc.gov/zika/geo/united-states.html>  
 
     first report_date: 2016-02-24
-    last report_date: ongoing
+    last report_date: 2016-09-14
 
 Note: Case counts for Texas on March 16 were accidentaly doubled
 
@@ -19,6 +19,6 @@ Source:
       <http://www.floridahealth.gov/diseases-and-conditions/mosquito-borne-diseases/surveillance.html>
 
     first report_date: 2016-01-16
-    last report_date: ongoing
+    last report_date: 2016-04-23
     
 Note: One travel-related Zika Virus case for Jan 16, 2016 was unattributed to a county.
