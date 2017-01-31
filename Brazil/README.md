@@ -10,7 +10,7 @@ Brazil Place Names: [BR_Places.csv](BR_Places.csv)
 Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/1234-secretaria-svs/vigilancia-de-a-a-z/microcefalia-svs/22705&catid=1234&Itemid=250>
 
     first report_date: 2016-02-13
-    last report_date: ongoing
+    last report_date: 2016-12-31
 
 ## Epidemiological_Bulletin: Ministry of Health, Secretary of Health Surveillance
 \(Secretaria de Vigilância em Saúde − Ministério da Saúde\)
