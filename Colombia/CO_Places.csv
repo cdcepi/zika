@@ -1,4 +1,5 @@
 location,location_type,country,state_province,district_county_municipality,city,alt_name1,alt_name2
+Colombia,country,Colombia,NA,NA,NA,NA,NA
 Colombia-Antioquia-Unknown,municipality,Colombia,Antioquia,Unknown,NA,ANTIOQUIA,* ANTIOQUIA. MUNICIPIO DESCONOCIDO
 Colombia-Antioquia-Medellin,municipality,Colombia,Antioquia,Medellin,NA,ANTIOQUIA,MEDELLIN
 Colombia-Antioquia-Abejorral,municipality,Colombia,Antioquia,Abejorral,NA,ANTIOQUIA,ABEJORRAL
