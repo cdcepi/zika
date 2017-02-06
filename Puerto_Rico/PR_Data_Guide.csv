@@ -14,3 +14,17 @@ PR0012,arbovirus_suspected_cumulative_2016,Suspected cases of arbovirus in 2016,
 PR0013,gbs_reported_zika_confirmed,GBS reported including confirmed and suspected cases that are zika positive,Casos reportados de GBS confirmados y sospechosos positivos a zika,PRDH_Arbovirus,cases,NA
 PR0014,gbs_reported_flavi_confirmed,GBS reported including confirmed and suspected cases that are flavivirus confirmed,Casos reportados de GBS confirmados y sospechosos confirmados para flavivirus,PRDH_Arbovirus,cases,NA
 PR0015,congenital_developmental_defects_reported_cummulative_2015-2016, Reported congenital developmental defects from 2015-2016,Casos con defectos congenitos,PRDH_Arbovirus,cases,NA
+PR0016,zika_confirmed_cumulative_2017,Total zika confirmed cases from 2017,Casos zika confirmados del 2017,PRDH_Arbovirus,cases,NA
+PR0017,flavi_confirmed_cumulative_2017,Total Flavivirus cases from 2017,Casos Flavivirus confirmados en 2017,PRDH_Arbovirus,cases,NA
+PR0018,zika_confirmed_cumulative_2015-2017,Total zika confirmed cumulative from 2015-2017,Total casos zika confirmados acumulados 2015-2017,PRDH_Arbovirus,cases,NA
+PR0019,zika_confirmed_pregnant_cumulative_2015-2017,Total zika confirmed cumulative from 2015-2017 for pregnant women,Total casos zika confirmados acumulados 2015-2017 en embarazadas,PRDH_Arbovirus,cases,NA
+PR0020,zika_confirmed_pregnant_symptomatic_cumulative_2015-2017,Total zika confirmed cumulative from 2015-2017 for pregnant women - symptomatic,Total casos zika confirmados acumulados 2015-2017 en embarazadas - sintomaticos,PRDH_Arbovirus,cases,NA
+PR0021,zika_confirmed_pregnant_asymptomatic_cumulative_2015-2017,Total zika confirmed cumulative from 2015-2017 for pregnant women - asymptomatic,Total casos zika confirmados acumulados 2015-2017 en embarazadas - asintomaticos,PRDH_Arbovirus,cases,NA
+PR0022,gbs_reported_cumulative_2015-2017,GBS reported including confirmed and suspected cases,Casos reportados de GBS confirmados y sospechosos,PRDH_Arbovirus,cases,NA
+PR0023,arbovirus_suspected_cumulative_2017,Suspected cases of arbovirus in 2017,Casos presuntos de arbovirus en 2017,PRDH_Arbovirus,cases,NA
+PR0024,zika_confirmed_cumulative_2016-2017,Total zika confirmed cumulative from 2016-2017,Total casos zika confirmados acumulados 2016-2017,PRDH_Arbovirus,cases,NA
+PR0025,zika_confirmed_pregnant_cumulative_2016-2017,Total zika confirmed cumulative from 2016-2017 for pregnant women,Total casos zika confirmados acumulados 2016-2017 en embarazadas,PRDH_Arbovirus,cases,NA
+PR0026,zika_confirmed_pregnant_symptomatic_cumulative_2016-2017,Total zika confirmed cumulative from 2016-2017 for pregnant women - symptomatic,Total casos zika confirmados acumulados 2016-2017 en embarazadas - sintomaticos,PRDH_Arbovirus,cases,NA
+PR0027,zika_confirmed_pregnant_asymptomatic_cumulative_2016-2017,Total zika confirmed cumulative from 2016-2017 for pregnant women - asymptomatic,Total casos zika confirmados acumulados 2016-2017 en embarazadas - asintomaticos,PRDH_Arbovirus,cases,NA
+PR0028,gbs_reported_cumulative_2016-2017,GBS reported including confirmed and suspected cases,Casos reportados de GBS confirmados y sospechosos,PRDH_Arbovirus,cases,NA
+PR0029,congenital_developmental_defects_reported_cummulative_2016-2017, Reported congenital developmental defects from 2016-2017,Casos con defectos congenitos,PRDH_Arbovirus,cases,NA
