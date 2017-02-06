@@ -2,7 +2,7 @@
 
 This data repository will be used to share publicly available data related to the ongoing Zika epidemic. It is being provided as a resource to the scientific community engaged in the public health response. The data provided here are not official and should be considered provisional and non-exhaustive. The data in reports may change over time, reflecting delays in reporting or changes in classifications. And while accurate representation of the reported data is the objective in the machine readable files shared here, that accuracy is not guaranteed. Before using any of these data, it is advisable to review the original reports and sources, which are provided whenever possible.
 
-If you find the data useful, ***support data sharing by referencing both the original source and this repository (use DOI below).***
+***If you find the data useful, support data sharing by referencing both the original source and this repository (use DOI below).***
 
 [![DOI](https://zenodo.org/badge/51947303.svg)](https://zenodo.org/badge/latestdoi/51947303)
 
