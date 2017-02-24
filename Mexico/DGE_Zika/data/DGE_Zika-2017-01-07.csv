@@ -54,7 +54,6 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-01-07,Mexico-Puebla,state,yearly_cumulative_female,MX0002,NA,NA,0,cases
 2017-01-07,Mexico-Queretaro_de_Arteaga,state,yearly_cumulative_female,MX0002,NA,NA,0,cases
 2017-01-07,Mexico-Quintana_Roo,state,yearly_cumulative_female,MX0002,NA,NA,0,cases
->>>>>>> cf576ff55939a4e209b811c31bf40ecd2c17ab15
 2017-01-07,Mexico-San_Luis_Potosi,state,yearly_cumulative_female,MX0002,NA,NA,0,cases
 2017-01-07,Mexico-Sinaloa,state,yearly_cumulative_female,MX0002,NA,NA,1,cases
 2017-01-07,Mexico-Sonora,state,yearly_cumulative_female,MX0002,NA,NA,0,cases
