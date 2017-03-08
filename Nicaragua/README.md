@@ -8,5 +8,5 @@ Nicaragua Place Names: [NI_Places.csv](NI_Places.csv)
 Source: <http://www.minsa.gob.ni/index.php/component/search/?searchword=zika&ordering=newest&searchphrase=all&limit=0>  
 
      first report_date: 2016-02-09  
-     last report_date: ongoing
+     last report_date: 2016-09-20
 
