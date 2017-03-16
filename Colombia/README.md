@@ -10,7 +10,7 @@ Colombia Place Names: [CO_Places.csv](CO_Places.csv)
 Source: <http://www.ins.gov.co/Noticias/ZIKA/Forms/AllItems.aspx>
 
     first report_date: 2016-01-09
-    last report_date: ongoing  
+    last report_date: 2016-12-31  
   
 Note: 
 Case count totals from original reports may not match actual case counts.
