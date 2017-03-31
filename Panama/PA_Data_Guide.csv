@@ -18,8 +18,8 @@ PA0016,weekly_Zika_confirmed_asymptomatic,Weekly Confirmed Zika Virus Cases in L
 PA0017,weekly_Zika_confirmed_pending,Weekly Confirmed Zika Virus Cases in Laboratory of Pending,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Pendiente,MDS_Zika,cases,NA
 PA0018,weekly_Zika_confirmed_local,Weekly Laboratory Confirmed Zika Virus Cases - Autochthonous,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Autoctono,MDS_Zika,cases,NA
 PA0019,weekly_Zika_confirmed_imported,Weekly Confirmed Zika Virus Cases in Laboratory of Imported,Numero de casos confirmados de Zika por laboratorio segun semanas epidemiologicas-Importado,MDS_Zika,cases,NA
-PA0020,Zika_positive_pregnant,Pregnant with positive Zika virus,Embarazadas captadas con resultados positivas por virus Zika,MDS_Zika,cases,NA
-PA0021,Zika_negative_pregnant,Pregnant with negative Zika virus,Embarazadas captadas con resultados negativos por virus Zika,MDS_Zika,cases,NA
+PA0020,Zika_positive_pregnant_2015_2016,Pregnant with positive Zika virus,Embarazadas captadas con resultados positivas por virus Zika,MDS_Zika,cases,NA
+PA0021,Zika_negative_pregnant_2015_2016,Pregnant with negative Zika virus,Embarazadas captadas con resultados negativos por virus Zika,MDS_Zika,cases,NA
 PA0022,confirmed_age_under_5,Confirmed cases of Zika for age group <5,Casos confirmados de Zika por laboratorio segun grupo de edad <5,MDS_Zika,cases,NA
 PA0023,confirmed_age_10-19,Confirmed cases of Zika for age group 10-19,Casos confirmados de Zika por laboratorio segun grupo de edad 10-19,MDS_Zika,cases,NA
 PA0024,confirmed_age_20-29,Confirmed cases of Zika for age group 20-29,Casos confirmados de Zika por laboratorio segun grupo de edad 20-29,MDS_Zika,cases,NA
@@ -27,3 +27,5 @@ PA0025,confirmed_age_30-39,Confirmed cases of Zika for age group 30-39,Casos con
 PA0026,confirmed_age_40-49,Confirmed cases of Zika for age group 40-49,Casos confirmados de Zika por laboratorio segun grupo de edad 40-49,MDS_Zika,cases,NA
 PA0027,confirmed_age_60_plus,Confirmed cases of Zika for age group 60+,Casos confirmados de Zika por laboratorio segun grupo de edad 60+,MDS_Zika,cases,NA
 PA0028,Zika_confirmed_laboratory_2017,Confirmed Zika Virus Cases in laboratory 2017,Numero de casos confirmados de Zika por laboratorio 2017,MDS_Zika,cases,NA
+PA0029,Zika_positive_pregnant_2015_2017,Pregnant with positive Zika virus,Embarazadas captadas con resultados positivas por virus Zika,MDS_Zika,cases,NA
+PA0030,Zika_negative_pregnant_2015_2017,Pregnant with negative Zika virus,Embarazadas captadas con resultados negativos por virus Zika,MDS_Zika,cases,NA
