@@ -37,7 +37,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-03-20,Argentina-Misiones,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2017-03-20,Argentina-Catamarca,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2017-03-20,Argentina-Jujuy,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
-2017-03-20,Argentina-La_Rioja,province,cumulative_confirmed_local_cases,AR0001,NA,NA,0,cases
+2017-03-20,Argentina-La_Rioja,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2017-03-20,Argentina-Salta,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2017-03-20,Argentina-Sgo_Del_Estero,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
 2017-03-20,Argentina-Tucuman,province,cumulative_probable_local_cases,AR0002,NA,NA,0,cases
