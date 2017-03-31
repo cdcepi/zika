@@ -27,3 +27,6 @@ DO0025,gbs_reported_4weeks,Reported cases of GBS - last 4 weeks,Casos reportados
 DO0026,microcephaly_suspected_4weeks,Suspected cases of microcephaly - 4 weeks,Casos sospechosos de microcefalia desde ultimas 4 semanas,Epidemiological_Bulletin,cases,NA
 DO0027,microcephaly_confirmed,Confirmed microcephaly cases from ZKV+ pregnant females,Casos confirmados microcefalia,Epidemiological_Bulletin,cases,NA
 DO0028,microcephaly_confirmed_4weeks,Confirmed microcephaly cases - 4 weeks,Casos confirmados microcefalia - 4 semanas,Epidemiological_Bulletin,cases,NA
+DO0029,zika_suspected_cumulative_2016_reported_2017,Total suspected cases since week 1_2016_reported_2017,Total de casos sospechosos desde primera semana,Epidemiological_Bulletin,cases,NA
+DO0030,gbs_reported_zika_suspected_cumulative_2016_reported_2017,Reported GBS cases with zika symptom history - cumulative_2016_reported_2017,Casos reportados de GBS con historial de sintomas de zika - desde semana 1,Epidemiological_Bulletin,cases,NA
+DO0031,zika_suspected_pregnant_cumulative_2016_reported_2017,Total suspected pregnant cases since week 1_2016_reported_2017,Total de casos sospechosos embarazadas desde primera semana,Epidemiological_Bulletin,cases,NA
