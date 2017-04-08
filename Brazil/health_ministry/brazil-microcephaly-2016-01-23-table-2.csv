@@ -1,0 +1,15 @@
+report_date,location,location_type,time_period,data_field_original,value,data_field_code,data_field,unit,time_period_type
+2016-01-23,Brazil-Bahia,state,NA,microcephaly_indicative_of_infection,35,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Ceara,state,NA,microcephaly_indicative_of_infection,3,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Paraiba,state,NA,microcephaly_indicative_of_infection,29,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Pernambuco,state,NA,microcephaly_indicative_of_infection,138,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Rio_Grande_do_Norte,state,NA,microcephaly_indicative_of_infection,58,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Minas_Gerais,state,NA,microcephaly_indicative_of_infection,0,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Rio_Grande_do_Sul,state,NA,microcephaly_indicative_of_infection,1,BR0009,microcephaly_confirmed_infection_signs,NA,NA
+2016-01-23,Brazil-Bahia,state,NA,microcephaly_zika_positive,0,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Ceara,state,NA,microcephaly_zika_positive,1,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Paraiba,state,NA,microcephaly_zika_positive,2,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Pernambuco,state,NA,microcephaly_zika_positive,0,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Rio_Grande_do_Norte,state,NA,microcephaly_zika_positive,2,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Minas_Gerais,state,NA,microcephaly_zika_positive,1,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
+2016-01-23,Brazil-Rio_Grande_do_Sul,state,NA,microcephaly_zika_positive,0,BR0010,microcephaly_confirmed_zikv_positive,NA,NA
