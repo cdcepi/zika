@@ -1,0 +1,680 @@
+,countyr_code,alpha3code,country,country_name,date,deaths,epiweek_onset,imported_cases,lab_confirmed_cases,nombre_pais,num_country_code,num_country_code2,num_gbs,num_gbs_with_zika,num_records,num_microcephaly_associated,other_neuro_complications,other_source_transmission,pregnant_women,report_epi_week,severe_cases,sovereign,status,sub_region,suspected_cases,suspect_cases_bin,total_cases,total_cases_bin,year
+0,SLV,SLV,El Salvador,El Salvador,"October, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+1,SLV,SLV,El Salvador,El Salvador,"October, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+2,SLV,SLV,El Salvador,El Salvador,"October, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+3,SLV,SLV,El Salvador,El Salvador,"October, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+4,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+5,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+6,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+7,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,El Salvador,Member State,Central America,195,0K,19500%,0%,2015.0
+8,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+9,SLV,SLV,El Salvador,El Salvador,"November, 2015",0.0,0.0,0.0,3,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,El Salvador,Member State,Central America,348,0K,35100%,0%,2015.0
+10,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+11,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,El Salvador,Member State,Central America,846,0K,84600%,0%,2015.0
+12,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+13,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,El Salvador,Member State,Central America,914,0K,91400%,0%,2015.0
+14,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+15,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,El Salvador,Member State,Central America,753,0K,75300%,0%,2015.0
+16,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+17,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,El Salvador,Member State,Central America,464,0K,46400%,0%,2015.0
+18,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2015.0
+19,SLV,SLV,El Salvador,El Salvador,"December, 2015",0.0,0.0,0.0,0,El Salvador,222.0,222.0,15.0,0.0,1.0,0.0,0.0,0.0,63.0,52,0.0,El Salvador,Member State,Central America,316,0K,31600%,0%,2015.0
+20,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2016.0
+21,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,23.0,0.0,1.0,0.0,0.0,0.0,19.0,1,0.0,El Salvador,Member State,Central America,1090,0K,109000%,0%,2016.0
+22,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2016.0
+23,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,27.0,0.0,1.0,0.0,0.0,0.0,31.0,2,0.0,El Salvador,Member State,Central America,1018,0K,101800%,0%,2016.0
+24,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2016.0
+25,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,13.0,0.0,1.0,0.0,0.0,0.0,29.0,3,0.0,El Salvador,Member State,Central America,839,0K,83900%,0%,2016.0
+26,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2016.0
+27,SLV,SLV,El Salvador,El Salvador,"January, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,10.0,0.0,1.0,0.0,0.0,0.0,17.0,4,23.0,El Salvador,Member State,Central America,789,0K,78900%,0%,2016.0
+28,SLV,SLV,El Salvador,El Salvador,"February, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,El Salvador,Member State,Central America,0,0K,0%,0%,2016.0
+29,SLV,SLV,El Salvador,El Salvador,"February, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,El Salvador,Member State,Central America,351,0K,35100%,0%,2016.0
+30,SLV,SLV,El Salvador,El Salvador,"February, 2016",0.0,0.0,0.0,0,El Salvador,222.0,222.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,El Salvador,Member State,Central America,661,0K,66100%,0%,2016.0
+0,GUF,GUF,French Guiana,French Guiana,"October, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+1,GUF,GUF,French Guiana,French Guiana,"October, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+2,GUF,GUF,French Guiana,French Guiana,"October, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+3,GUF,GUF,French Guiana,French Guiana,"October, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+4,GUF,GUF,French Guiana,French Guiana,"November, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+5,GUF,GUF,French Guiana,French Guiana,"November, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+6,GUF,GUF,French Guiana,French Guiana,"November, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+7,GUF,GUF,French Guiana,French Guiana,"November, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+8,GUF,GUF,French Guiana,French Guiana,"December, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+9,GUF,GUF,French Guiana,French Guiana,"December, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+10,GUF,GUF,French Guiana,French Guiana,"December, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+11,GUF,GUF,French Guiana,French Guiana,"December, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+12,GUF,GUF,French Guiana,French Guiana,"December, 2015",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+13,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+14,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,52.0,10.0,7,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,700%,0%,2016.0
+15,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+16,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,39,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,130,0K,16900%,0%,2016.0
+17,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+18,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,29,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,115,0K,14400%,0%,2016.0
+19,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+20,GUF,GUF,French Guiana,French Guiana,"January, 2016",0.0,0.0,0.0,13,Guayana Francesa,254.0,254.0,3.0,0.0,1.0,0.0,0.0,0.0,8.0,4,0.0,France,Participating State \Territory,Latin Caribbean,185,0K,19800%,0%,2016.0
+21,GUF,GUF,French Guiana,French Guiana,"February, 2016",0.0,0.0,0.0,0,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+22,GUF,GUF,French Guiana,French Guiana,"February, 2016",0.0,0.0,0.0,11,Guayana Francesa,254.0,254.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,France,Participating State \Territory,Latin Caribbean,360,0K,37100%,0%,2016.0
+0,GLP,GLP,Guadeloupe,Guadeloupe,"October, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+1,GLP,GLP,Guadeloupe,Guadeloupe,"October, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+2,GLP,GLP,Guadeloupe,Guadeloupe,"October, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+3,GLP,GLP,Guadeloupe,Guadeloupe,"October, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+4,GLP,GLP,Guadeloupe,Guadeloupe,"November, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+5,GLP,GLP,Guadeloupe,Guadeloupe,"November, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+6,GLP,GLP,Guadeloupe,Guadeloupe,"November, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+7,GLP,GLP,Guadeloupe,Guadeloupe,"November, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+8,GLP,GLP,Guadeloupe,Guadeloupe,"December, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+9,GLP,GLP,Guadeloupe,Guadeloupe,"December, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+10,GLP,GLP,Guadeloupe,Guadeloupe,"December, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+11,GLP,GLP,Guadeloupe,Guadeloupe,"December, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+12,GLP,GLP,Guadeloupe,Guadeloupe,"December, 2015",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+13,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+14,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+15,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,1,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,100%,0%,2016.0
+16,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+17,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,9,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,900%,0%,2016.0
+18,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+19,GLP,GLP,Guadeloupe,Guadeloupe,"January, 2016",0.0,0.0,0.0,7,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,4,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,700%,0%,2016.0
+20,GLP,GLP,Guadeloupe,Guadeloupe,"February, 2016",0.0,0.0,0.0,0,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+21,GLP,GLP,Guadeloupe,Guadeloupe,"February, 2016",0.0,0.0,0.0,8,Guadalupe,312.0,312.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,France,Participating State \Territory,Latin Caribbean,221,0K,22900%,0%,2016.0
+0,GTM,GTM,Guatemala,Guatemala,"October, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+1,GTM,GTM,Guatemala,Guatemala,"October, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+2,GTM,GTM,Guatemala,Guatemala,"October, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+3,GTM,GTM,Guatemala,Guatemala,"October, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+4,GTM,GTM,Guatemala,Guatemala,"November, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+5,GTM,GTM,Guatemala,Guatemala,"November, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+6,GTM,GTM,Guatemala,Guatemala,"November, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+7,GTM,GTM,Guatemala,Guatemala,"November, 2015",0.0,0.0,0.0,1,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Guatemala,Member State,Central America,0,0K,100%,0%,2015.0
+8,GTM,GTM,Guatemala,Guatemala,"November, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+9,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+10,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+11,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+12,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+13,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2015.0
+14,GTM,GTM,Guatemala,Guatemala,"December, 2015",0.0,0.0,0.0,67,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,52,0.0,Guatemala,Member State,Central America,200,0K,26700%,0%,2015.0
+15,GTM,GTM,Guatemala,Guatemala,"January, 2016",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2016.0
+16,GTM,GTM,Guatemala,Guatemala,"January, 2016",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2016.0
+17,GTM,GTM,Guatemala,Guatemala,"January, 2016",0.0,0.0,0.0,37,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Guatemala,Member State,Central America,78,0K,11500%,0%,2016.0
+18,GTM,GTM,Guatemala,Guatemala,"January, 2016",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2016.0
+19,GTM,GTM,Guatemala,Guatemala,"January, 2016",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2016.0
+20,GTM,GTM,Guatemala,Guatemala,"February, 2016",0.0,0.0,0.0,0,Guatemala,320.0,320.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Guatemala,Member State,Central America,0,0K,0%,0%,2016.0
+0,GUY,GUY,Guyana,Guyana,"October, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,GUY,GUY,Guyana,Guyana,"October, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,GUY,GUY,Guyana,Guyana,"October, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,GUY,GUY,Guyana,Guyana,"October, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,GUY,GUY,Guyana,Guyana,"November, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,GUY,GUY,Guyana,Guyana,"November, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,GUY,GUY,Guyana,Guyana,"November, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,GUY,GUY,Guyana,Guyana,"November, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,GUY,GUY,Guyana,Guyana,"December, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,GUY,GUY,Guyana,Guyana,"December, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,GUY,GUY,Guyana,Guyana,"December, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,GUY,GUY,Guyana,Guyana,"December, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,GUY,GUY,Guyana,Guyana,"December, 2015",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,GUY,GUY,Guyana,Guyana,"January, 2016",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,GUY,GUY,Guyana,Guyana,"January, 2016",0.0,0.0,0.0,1,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,100%,0%,2016.0
+15,GUY,GUY,Guyana,Guyana,"January, 2016",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,GUY,GUY,Guyana,Guyana,"January, 2016",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,GUY,GUY,Guyana,Guyana,"January, 2016",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,GUY,GUY,Guyana,Guyana,"February, 2016",0.0,0.0,0.0,0,Guyana,328.0,328.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Guyana,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+0,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+1,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+2,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+3,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Haiti,Member State,Latin Caribbean,3,0K,300%,0%,2015.0
+4,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+5,HTI,HTI,Haiti,Haiti,"October, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+6,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+7,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+8,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+9,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+10,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+11,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+12,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+13,HTI,HTI,Haiti,Haiti,"November, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+14,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+15,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+16,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+17,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Haiti,Member State,Latin Caribbean,5,0K,500%,0%,2015.0
+18,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+19,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+20,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+21,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Haiti,Member State,Latin Caribbean,2,0K,200%,0%,2015.0
+22,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+23,HTI,HTI,Haiti,Haiti,"December, 2015",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Haiti,Member State,Latin Caribbean,2,0K,200%,0%,2015.0
+24,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+25,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,5,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Haiti,Member State,Latin Caribbean,13,0K,1800%,0%,2016.0
+26,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+27,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Haiti,Member State,Latin Caribbean,4,0K,400%,0%,2016.0
+28,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+29,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Haiti,Member State,Latin Caribbean,96,0K,9600%,0%,2016.0
+30,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+31,HTI,HTI,Haiti,Haiti,"January, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Haiti,Member State,Latin Caribbean,204,0K,20400%,0%,2016.0
+32,HTI,HTI,Haiti,Haiti,"February, 2016",0.0,0.0,0.0,0,Haití,332.0,332.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Haiti,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+0,,,Honduras,,"October, 2015",,,,0,,,,,,,,,,,40,,,,,0,,,,
+1,,,Honduras,,"October, 2015",,,,0,,,,,,,,,,,41,,,,,0,,,,
+2,,,Honduras,,"October, 2015",,,,0,,,,,,,,,,,42,,,,,0,,,,
+3,,,Honduras,,"October, 2015",,,,0,,,,,,,,,,,43,,,,,0,,,,
+4,,,Honduras,,"November, 2015",,,,0,,,,,,,,,,,44,,,,,0,,,,
+5,,,Honduras,,"November, 2015",,,,0,,,,,,,,,,,45,,,,,0,,,,
+6,,,Honduras,,"November, 2015",,,,0,,,,,,,,,,,46,,,,,0,,,,
+7,,,Honduras,,"November, 2015",,,,0,,,,,,,,,,,47,,,,,0,,,,
+8,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,48,,,,,0,,,,
+9,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,49,,,,,0,,,,
+10,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,50,,,,,0,,,,
+11,,,Honduras,,"December, 2015",,,,2,,,,,,,,,,,50,,,,,0,,,,
+12,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,51,,,,,0,,,,
+13,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,51,,,,,55,,,,
+14,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,52,,,,,0,,,,
+15,,,Honduras,,"December, 2015",,,,0,,,,,,,,,,,52,,,,,62,,,,
+16,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,1,,,,,0,,,,
+17,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,1,,,,,608,,,,
+18,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,2,,,,,0,,,,
+19,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,2,,,,,1119,,,,
+20,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,3,,,,,0,,,,
+21,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,3,,,,,1310,,,,
+22,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,4,,,,,0,,,,
+23,,,Honduras,,"January, 2016",,,,0,,,,,,,,,,,4,,,,,1436,,,,
+24,,,Honduras,,"February, 2016",,,,0,,,,,,,,,,,5,,,,,0,,,,
+0,HND,HND,Honduras,Honduras,"October, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+1,HND,HND,Honduras,Honduras,"October, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+2,HND,HND,Honduras,Honduras,"October, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+3,HND,HND,Honduras,Honduras,"October, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+4,HND,HND,Honduras,Honduras,"November, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+5,HND,HND,Honduras,Honduras,"November, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+6,HND,HND,Honduras,Honduras,"November, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+7,HND,HND,Honduras,Honduras,"November, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+8,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+9,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+10,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+11,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,2,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Honduras,Member State,Central America,0,0K,200%,0%,2015.0
+12,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+13,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Honduras,Member State,Central America,55,0K,5500%,0%,2015.0
+14,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2015.0
+15,HND,HND,Honduras,Honduras,"December, 2015",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Honduras,Member State,Central America,62,0K,6200%,0%,2015.0
+16,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2016.0
+17,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Honduras,Member State,Central America,608,0K,60800%,0%,2016.0
+18,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2016.0
+19,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Honduras,Member State,Central America,1119,0K,111900%,0%,2016.0
+20,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2016.0
+21,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Honduras,Member State,Central America,1310,0K,131000%,0%,2016.0
+22,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2016.0
+23,HND,HND,Honduras,Honduras,"January, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Honduras,Member State,Central America,1436,0K,143600%,0%,2016.0
+24,HND,HND,Honduras,Honduras,"February, 2016",0.0,0.0,0.0,0,Honduras,340.0,340.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Honduras,Member State,Central America,0,0K,0%,0%,2016.0
+0,JAM,JAM,Jamaica,Jamaica,"October, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,JAM,JAM,Jamaica,Jamaica,"October, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,JAM,JAM,Jamaica,Jamaica,"October, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,JAM,JAM,Jamaica,Jamaica,"October, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,JAM,JAM,Jamaica,Jamaica,"November, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,JAM,JAM,Jamaica,Jamaica,"November, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,JAM,JAM,Jamaica,Jamaica,"November, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,JAM,JAM,Jamaica,Jamaica,"November, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,JAM,JAM,Jamaica,Jamaica,"December, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,JAM,JAM,Jamaica,Jamaica,"December, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,JAM,JAM,Jamaica,Jamaica,"December, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,JAM,JAM,Jamaica,Jamaica,"December, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,JAM,JAM,Jamaica,Jamaica,"December, 2015",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,JAM,JAM,Jamaica,Jamaica,"January, 2016",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,JAM,JAM,Jamaica,Jamaica,"January, 2016",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,JAM,JAM,Jamaica,Jamaica,"January, 2016",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,JAM,JAM,Jamaica,Jamaica,"January, 2016",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,JAM,JAM,Jamaica,Jamaica,"January, 2016",0.0,0.0,0.0,1,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,100%,0%,2016.0
+18,JAM,JAM,Jamaica,Jamaica,"February, 2016",0.0,0.0,0.0,0,Jamaica,388.0,388.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Jamaica,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+0,MTQ,MTQ,Martinique,Martinique,"October, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+1,MTQ,MTQ,Martinique,Martinique,"October, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+2,MTQ,MTQ,Martinique,Martinique,"October, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+3,MTQ,MTQ,Martinique,Martinique,"October, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+4,MTQ,MTQ,Martinique,Martinique,"November, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+5,MTQ,MTQ,Martinique,Martinique,"November, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+6,MTQ,MTQ,Martinique,Martinique,"November, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+7,MTQ,MTQ,Martinique,Martinique,"November, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+8,MTQ,MTQ,Martinique,Martinique,"December, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+9,MTQ,MTQ,Martinique,Martinique,"December, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+10,MTQ,MTQ,Martinique,Martinique,"December, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+11,MTQ,MTQ,Martinique,Martinique,"December, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+12,MTQ,MTQ,Martinique,Martinique,"December, 2015",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2015.0
+13,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+14,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,52.0,0.0,12,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,1200%,0%,2016.0
+15,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+16,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,52.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Participating State \Territory,Latin Caribbean,1231,0K,123100%,0%,2016.0
+17,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+18,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,52.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Participating State \Territory,Latin Caribbean,1064,0K,106400%,0%,2016.0
+19,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+20,MTQ,MTQ,Martinique,Martinique,"January, 2016",0.0,52.0,0.0,0,Martinica,474.0,474.0,0.0,2.0,1.0,0.0,0.0,0.0,13.0,4,0.0,France,Participating State \Territory,Latin Caribbean,1645,0K,164500%,0%,2016.0
+21,MTQ,MTQ,Martinique,Martinique,"February, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,France,Participating State \Territory,Latin Caribbean,0,0K,0%,0%,2016.0
+22,MTQ,MTQ,Martinique,Martinique,"February, 2016",0.0,0.0,0.0,0,Martinica,474.0,474.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,France,Participating State \Territory,Latin Caribbean,2110,0K,211000%,0%,2016.0
+0,BOL,BOL,Bolivia,Bolivia,"October, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+1,BOL,BOL,Bolivia,Bolivia,"October, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+2,BOL,BOL,Bolivia,Bolivia,"October, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+3,BOL,BOL,Bolivia,Bolivia,"October, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+4,BOL,BOL,Bolivia,Bolivia,"November, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+5,BOL,BOL,Bolivia,Bolivia,"November, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+6,BOL,BOL,Bolivia,Bolivia,"November, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+7,BOL,BOL,Bolivia,Bolivia,"November, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+8,BOL,BOL,Bolivia,Bolivia,"December, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+9,BOL,BOL,Bolivia,Bolivia,"December, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+10,BOL,BOL,Bolivia,Bolivia,"December, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+11,BOL,BOL,Bolivia,Bolivia,"December, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+12,BOL,BOL,Bolivia,Bolivia,"December, 2015",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2015.0
+13,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+14,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,1.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+15,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+16,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,0.0,1,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Bolivia,Member State,Andean,0,0K,100%,0%,2016.0
+17,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+18,BOL,BOL,Bolivia,Bolivia,"January, 2016",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+19,BOL,BOL,Bolivia,Bolivia,"February, 2016",0.0,0.0,0.0,0,Bolivia,68.0,68.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Bolivia,Member State,Andean,0,0K,0%,0%,2016.0
+0,MEX,MEX,Mexico,Mexico,"October, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+1,MEX,MEX,Mexico,Mexico,"October, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+2,MEX,MEX,Mexico,Mexico,"October, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+3,MEX,MEX,Mexico,Mexico,"October, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+4,MEX,MEX,Mexico,Mexico,"November, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+5,MEX,MEX,Mexico,Mexico,"November, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+6,MEX,MEX,Mexico,Mexico,"November, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+7,MEX,MEX,Mexico,Mexico,"November, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+8,MEX,MEX,Mexico,Mexico,"November, 2015",0.0,0.0,1.0,2,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Mexico,Member State,North America,0,0K,200%,0%,2015.0
+9,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+10,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+11,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+12,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+13,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Mexico,Member State,North America,0,0K,0%,0%,2015.0
+14,MEX,MEX,Mexico,Mexico,"December, 2015",0.0,0.0,0.0,13,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Mexico,Member State,North America,0,0K,1300%,0%,2015.0
+15,MEX,MEX,Mexico,Mexico,"January, 2016",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Mexico,Member State,North America,0,0K,0%,0%,2016.0
+16,MEX,MEX,Mexico,Mexico,"January, 2016",0.0,0.0,0.0,3,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Mexico,Member State,North America,0,0K,300%,0%,2016.0
+17,MEX,MEX,Mexico,Mexico,"January, 2016",0.0,0.0,0.0,16,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Mexico,Member State,North America,0,0K,1600%,0%,2016.0
+18,MEX,MEX,Mexico,Mexico,"January, 2016",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Mexico,Member State,North America,0,0K,0%,0%,2016.0
+19,MEX,MEX,Mexico,Mexico,"January, 2016",0.0,0.0,0.0,31,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Mexico,Member State,North America,0,0K,3100%,0%,2016.0
+20,MEX,MEX,Mexico,Mexico,"February, 2016",0.0,0.0,0.0,0,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Mexico,Member State,North America,0,0K,0%,0%,2016.0
+21,MEX,MEX,Mexico,Mexico,"February, 2016",0.0,0.0,0.0,15,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Mexico,Member State,North America,0,0K,1500%,0%,2016.0
+22,MEX,MEX,Mexico,Mexico,"February, 2016",0.0,0.0,0.0,13,México,484.0,484.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,6,0.0,Mexico,Member State,North America,0,0K,1300%,0%,2016.0
+0,NIC,NIC,Nicaragua,Nicaragua,"October, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+1,NIC,NIC,Nicaragua,Nicaragua,"October, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+2,NIC,NIC,Nicaragua,Nicaragua,"October, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+3,NIC,NIC,Nicaragua,Nicaragua,"October, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+4,NIC,NIC,Nicaragua,Nicaragua,"November, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+5,NIC,NIC,Nicaragua,Nicaragua,"November, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+6,NIC,NIC,Nicaragua,Nicaragua,"November, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+7,NIC,NIC,Nicaragua,Nicaragua,"November, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+8,NIC,NIC,Nicaragua,Nicaragua,"December, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+9,NIC,NIC,Nicaragua,Nicaragua,"December, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+10,NIC,NIC,Nicaragua,Nicaragua,"December, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+11,NIC,NIC,Nicaragua,Nicaragua,"December, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+12,NIC,NIC,Nicaragua,Nicaragua,"December, 2015",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2015.0
+13,NIC,NIC,Nicaragua,Nicaragua,"January, 2016",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2016.0
+14,NIC,NIC,Nicaragua,Nicaragua,"January, 2016",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2016.0
+15,NIC,NIC,Nicaragua,Nicaragua,"January, 2016",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2016.0
+16,NIC,NIC,Nicaragua,Nicaragua,"January, 2016",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2016.0
+17,NIC,NIC,Nicaragua,Nicaragua,"January, 2016",0.0,0.0,0.0,2,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Nicaragua,Member State,Central America,0,0K,200%,0%,2016.0
+18,NIC,NIC,Nicaragua,Nicaragua,"February, 2016",0.0,0.0,0.0,0,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Nicaragua,Member State,Central America,0,0K,0%,0%,2016.0
+19,NIC,NIC,Nicaragua,Nicaragua,"February, 2016",0.0,0.0,0.0,19,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Nicaragua,Member State,Central America,0,0K,1900%,0%,2016.0
+20,NIC,NIC,Nicaragua,Nicaragua,"February, 2016",0.0,0.0,0.0,26,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,6,0.0,Nicaragua,Member State,Central America,0,0K,2600%,0%,2016.0
+21,NIC,NIC,Nicaragua,Nicaragua,"February, 2016",0.0,0.0,0.0,19,Nicaragua,558.0,558.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Nicaragua,Member State,Central America,0,0K,1900%,0%,2016.0
+0,PAN,PAN,Panama,Panama,"October, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+1,PAN,PAN,Panama,Panama,"October, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+2,PAN,PAN,Panama,Panama,"October, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+3,PAN,PAN,Panama,Panama,"October, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+4,PAN,PAN,Panama,Panama,"November, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+5,PAN,PAN,Panama,Panama,"November, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+6,PAN,PAN,Panama,Panama,"November, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+7,PAN,PAN,Panama,Panama,"November, 2015",0.0,45.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+8,PAN,PAN,Panama,Panama,"November, 2015",0.0,0.0,0.0,4,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Panama,Member State,Central America,0,0K,400%,0%,2015.0
+9,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+10,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,5,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Panama,Member State,Central America,0,0K,500%,0%,2015.0
+11,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+12,PAN,PAN,Panama,Panama,"December, 2015",0.0,45.0,0.0,20,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Panama,Member State,Central America,0,0K,2000%,0%,2015.0
+13,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,7,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Panama,Member State,Central America,0,0K,700%,0%,2015.0
+14,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Panama,Member State,Central America,0,0K,0%,0%,2015.0
+15,PAN,PAN,Panama,Panama,"December, 2015",0.0,0.0,0.0,2,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Panama,Member State,Central America,0,0K,200%,0%,2015.0
+16,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Panama,Member State,Central America,0,0K,0%,0%,2016.0
+17,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,4,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Panama,Member State,Central America,0,0K,400%,0%,2016.0
+18,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,3,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Panama,Member State,Central America,0,0K,300%,0%,2016.0
+19,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,4,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Panama,Member State,Central America,0,0K,400%,0%,2016.0
+20,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,0,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Panama,Member State,Central America,0,0K,0%,0%,2016.0
+21,PAN,PAN,Panama,Panama,"January, 2016",0.0,0.0,0.0,4,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Panama,Member State,Central America,0,0K,400%,0%,2016.0
+22,PAN,PAN,Panama,Panama,"February, 2016",0.0,0.0,0.0,10,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Panama,Member State,Central America,0,0K,1000%,0%,2016.0
+23,PAN,PAN,Panama,Panama,"February, 2016",0.0,0.0,0.0,8,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Panama,Member State,Central America,0,0K,800%,0%,2016.0
+24,PAN,PAN,Panama,Panama,"February, 2016",0.0,0.0,2.0,15,Panamá,591.0,591.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Panama,Member State,Central America,0,0K,1500%,0%,2016.0
+0,PRY,PRY,Paraguay,Paraguay,"October, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+1,PRY,PRY,Paraguay,Paraguay,"October, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+2,PRY,PRY,Paraguay,Paraguay,"October, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+3,PRY,PRY,Paraguay,Paraguay,"October, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+4,PRY,PRY,Paraguay,Paraguay,"November, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+5,PRY,PRY,Paraguay,Paraguay,"November, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+6,PRY,PRY,Paraguay,Paraguay,"November, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+7,PRY,PRY,Paraguay,Paraguay,"November, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+8,PRY,PRY,Paraguay,Paraguay,"November, 2015",0.0,45.0,0.0,6,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Paraguay,Member State,South Cone,0,0K,600%,0%,2015.0
+9,PRY,PRY,Paraguay,Paraguay,"December, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+10,PRY,PRY,Paraguay,Paraguay,"December, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+11,PRY,PRY,Paraguay,Paraguay,"December, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+12,PRY,PRY,Paraguay,Paraguay,"December, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+13,PRY,PRY,Paraguay,Paraguay,"December, 2015",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2015.0
+14,PRY,PRY,Paraguay,Paraguay,"January, 2016",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2016.0
+15,PRY,PRY,Paraguay,Paraguay,"January, 2016",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2016.0
+16,PRY,PRY,Paraguay,Paraguay,"January, 2016",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2016.0
+17,PRY,PRY,Paraguay,Paraguay,"January, 2016",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2016.0
+18,PRY,PRY,Paraguay,Paraguay,"February, 2016",0.0,0.0,0.0,0,Paraguay,600.0,600.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Paraguay,Member State,South Cone,0,0K,0%,0%,2016.0
+0,PRI,PRI,Puerto Rico,Puerto Rico,"October, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+1,PRI,PRI,Puerto Rico,Puerto Rico,"October, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+2,PRI,PRI,Puerto Rico,Puerto Rico,"October, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+3,PRI,PRI,Puerto Rico,Puerto Rico,"October, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+4,PRI,PRI,Puerto Rico,Puerto Rico,"November, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+5,PRI,PRI,Puerto Rico,Puerto Rico,"November, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+6,PRI,PRI,Puerto Rico,Puerto Rico,"November, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+7,PRI,PRI,Puerto Rico,Puerto Rico,"November, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+8,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+9,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+10,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+11,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+12,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2015.0
+13,PRI,PRI,Puerto Rico,Puerto Rico,"December, 2015",0.0,0.0,0.0,9,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,United States,Associated Member,Latin Caribbean,0,0K,900%,0%,2015.0
+14,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2016.0
+15,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,4,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,United States,Associated Member,Latin Caribbean,0,0K,400%,0%,2016.0
+16,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2016.0
+17,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,4,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,United States,Associated Member,Latin Caribbean,0,0K,400%,0%,2016.0
+18,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2016.0
+19,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,4,Puerto Rico,630.0,630.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,3,3.0,United States,Associated Member,Latin Caribbean,0,0K,400%,0%,2016.0
+20,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",,0.0,0.0,9,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,United States,Associated Member,Latin Caribbean,0,0K,900%,0%,2016.0
+21,PRI,PRI,Puerto Rico,Puerto Rico,"January, 2016",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2016.0
+22,PRI,PRI,Puerto Rico,Puerto Rico,"February, 2016",0.0,0.0,0.0,0,Puerto Rico,630.0,630.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,United States,Associated Member,Latin Caribbean,0,0K,0%,0%,2016.0
+0,MAF,MAF,Saint Martin,Saint Martin,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+1,MAF,MAF,Saint Martin,Saint Martin,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+2,MAF,MAF,Saint Martin,Saint Martin,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+3,MAF,MAF,Saint Martin,Saint Martin,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+4,MAF,MAF,Saint Martin,Saint Martin,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+5,MAF,MAF,Saint Martin,Saint Martin,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+6,MAF,MAF,Saint Martin,Saint Martin,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+7,MAF,MAF,Saint Martin,Saint Martin,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+8,MAF,MAF,Saint Martin,Saint Martin,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+9,MAF,MAF,Saint Martin,Saint Martin,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+10,MAF,MAF,Saint Martin,Saint Martin,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+11,MAF,MAF,Saint Martin,Saint Martin,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+12,MAF,MAF,Saint Martin,Saint Martin,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2015.0
+13,MAF,MAF,Saint Martin,Saint Martin,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2016.0
+14,MAF,MAF,Saint Martin,Saint Martin,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2016.0
+15,MAF,MAF,Saint Martin,Saint Martin,"January, 2016",0.0,0.0,0.0,1,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,100%,0%,2016.0
+16,MAF,MAF,Saint Martin,Saint Martin,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2016.0
+17,MAF,MAF,Saint Martin,Saint Martin,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2016.0
+18,MAF,MAF,Saint Martin,Saint Martin,"February, 2016",0.0,0.0,0.0,0,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,0%,0%,2016.0
+19,MAF,MAF,Saint Martin,Saint Martin,"February, 2016",0.0,0.0,0.0,6,Isla de San Martín (Francia),663.0,663.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,France,Overseas collectivities,Latin Caribbean,0,0K,600%,0%,2016.0
+0,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"October, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"November, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"December, 2015",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"January, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0.0,0.0,0.0,0,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+20,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,"February, 2016",0.0,0.0,0.0,1,San Vicente y las Granadinas,670.0,670.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8,0.0,St. Vincent and the Grenadines,Member State,Non Latin Caribbean,0,0K,100%,0%,2016.0
+0,SXM,SXM,Sint Maarten,Sint Maarten,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,SXM,SXM,Sint Maarten,Sint Maarten,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,SXM,SXM,Sint Maarten,Sint Maarten,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,SXM,SXM,Sint Maarten,Sint Maarten,"October, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,SXM,SXM,Sint Maarten,Sint Maarten,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,SXM,SXM,Sint Maarten,Sint Maarten,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,SXM,SXM,Sint Maarten,Sint Maarten,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,SXM,SXM,Sint Maarten,Sint Maarten,"November, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,SXM,SXM,Sint Maarten,Sint Maarten,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,SXM,SXM,Sint Maarten,Sint Maarten,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,SXM,SXM,Sint Maarten,Sint Maarten,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,SXM,SXM,Sint Maarten,Sint Maarten,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,SXM,SXM,Sint Maarten,Sint Maarten,"December, 2015",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,SXM,SXM,Sint Maarten,Sint Maarten,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,SXM,SXM,Sint Maarten,Sint Maarten,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,SXM,SXM,Sint Maarten,Sint Maarten,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,SXM,SXM,Sint Maarten,Sint Maarten,"January, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,SXM,SXM,Sint Maarten,Sint Maarten,"February, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,SXM,SXM,Sint Maarten,Sint Maarten,"February, 2016",0.0,0.0,0.0,0,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,SXM,SXM,Sint Maarten,Sint Maarten,"February, 2016",0.0,0.0,0.0,1,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,100%,0%,2016.0
+20,SXM,SXM,Sint Maarten,Sint Maarten,"February, 2016",0.0,0.0,0.0,1,Isla de San Martín (Holanda),534.0,534.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,100%,0%,2016.0
+0,SUR,SUR,Suriname,Suriname,"October, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,SUR,SUR,Suriname,Suriname,"October, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,SUR,SUR,Suriname,Suriname,"October, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,SUR,SUR,Suriname,Suriname,"October, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,4,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,400%,0%,2015.0
+5,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,2,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,200%,0%,2015.0
+7,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,SUR,SUR,Suriname,Suriname,"November, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,SUR,SUR,Suriname,Suriname,"December, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,SUR,SUR,Suriname,Suriname,"December, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,SUR,SUR,Suriname,Suriname,"December, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,SUR,SUR,Suriname,Suriname,"December, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+14,SUR,SUR,Suriname,Suriname,"December, 2015",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+15,SUR,SUR,Suriname,Suriname,"January, 2016",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,SUR,SUR,Suriname,Suriname,"January, 2016",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,SUR,SUR,Suriname,Suriname,"January, 2016",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,SUR,SUR,Suriname,Suriname,"January, 2016",4.0,0.0,0.0,0,Suriname,740.0,740.0,13.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Suriname,Member State,Non Latin Caribbean,1097,0K,109700%,0%,2015.0
+19,SUR,SUR,Suriname,Suriname,"January, 2016",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+20,SUR,SUR,Suriname,Suriname,"February, 2016",0.0,0.0,0.0,0,Suriname,740.0,740.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Suriname,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+0,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"October, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"November, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"December, 2015",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"January, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0.0,0.0,0.0,0,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,"February, 2016",0.0,0.0,0.0,1,Trinidad y Tobago,780.0,780.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Trinidad and Tobago,Member State,Non Latin Caribbean,0,0K,100%,0%,2016.0
+0,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","October, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","November, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","December, 2015",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","January, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0.0,0.0,0.0,0,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,BES,BES,Bonaire,"Bonaire, Saint Eustatius and Saba","February, 2016",0.0,0.0,0.0,1,"Bonaire, San Eustaquio y Saba",535.0,535.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Netherlands,Participating State \Territory,Non Latin Caribbean,0,0K,100%,0%,2016.0
+0,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"October, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"October, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"October, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"October, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"November, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"November, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"November, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"November, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"December, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"December, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"December, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"December, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"December, 2015",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"January, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"January, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"January, 2016",0.0,0.0,0.0,1,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,United States of America,Other,Non Latin Caribbean,0,0K,100%,0%,2016.0
+16,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"January, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"January, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"February, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"February, 2016",0.0,0.0,0.0,0,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,United States of America,Other,Non Latin Caribbean,0,0K,0%,0%,2016.0
+20,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"February, 2016",0.0,0.0,0.0,1,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,United States of America,Other,Non Latin Caribbean,59,0K,6000%,0%,2016.0
+21,VIR,VIR,United States Virgin Islands,United States Virgin Islands,"February, 2016",0.0,0.0,0.0,2,Islas Vírgenes (EUA),850.0,850.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8,0.0,United States of America,Other,Non Latin Caribbean,0,0K,200%,0%,2016.0
+0,VEN,VEN,Venezuela,Venezuela,"October, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+1,VEN,VEN,Venezuela,Venezuela,"October, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+2,VEN,VEN,Venezuela,Venezuela,"October, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+3,VEN,VEN,Venezuela,Venezuela,"October, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+4,VEN,VEN,Venezuela,Venezuela,"November, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+5,VEN,VEN,Venezuela,Venezuela,"November, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+6,VEN,VEN,Venezuela,Venezuela,"November, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+7,VEN,VEN,Venezuela,Venezuela,"November, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+8,VEN,VEN,Venezuela,Venezuela,"November, 2015",0.0,0.0,0.0,4,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Venezuela,Member State,Andean,3,0K,700%,0%,2015.0
+9,VEN,VEN,Venezuela,Venezuela,"December, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+10,VEN,VEN,Venezuela,Venezuela,"December, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+11,VEN,VEN,Venezuela,Venezuela,"December, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+12,VEN,VEN,Venezuela,Venezuela,"December, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+13,VEN,VEN,Venezuela,Venezuela,"December, 2015",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2015.0
+14,VEN,VEN,Venezuela,Venezuela,"January, 2016",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2016.0
+15,VEN,VEN,Venezuela,Venezuela,"January, 2016",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2016.0
+16,VEN,VEN,Venezuela,Venezuela,"January, 2016",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2016.0
+17,VEN,VEN,Venezuela,Venezuela,"January, 2016",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2016.0
+18,VEN,VEN,Venezuela,Venezuela,"January, 2016",1.0,0.0,0.0,0,Venezuela,862.0,862.0,252.0,3.0,1.0,0.0,3.0,0.0,0.0,4,0.0,Venezuela,Member State,Andean,4693,4K,469300%,321300%,2016.0
+19,VEN,VEN,Venezuela,Venezuela,"February, 2016",0.0,0.0,0.0,0,Venezuela,862.0,862.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Venezuela,Member State,Andean,0,0K,0%,0%,2016.0
+0,BRA,BRA,Brazil,Brazil,"May, 2015",0.0,0.0,0.0,8,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,19,0.0,Brazil,Member State,South Cone,0,0K,800%,0%,2015.0
+1,BRA,BRA,Brazil,Brazil,"May, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,20,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+2,BRA,BRA,Brazil,Brazil,"October, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+3,BRA,BRA,Brazil,Brazil,"October, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+4,BRA,BRA,Brazil,Brazil,"October, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+5,BRA,BRA,Brazil,Brazil,"October, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+6,BRA,BRA,Brazil,Brazil,"November, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+7,BRA,BRA,Brazil,Brazil,"December, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+8,BRA,BRA,Brazil,Brazil,"December, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+9,BRA,BRA,Brazil,Brazil,"December, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+10,BRA,BRA,Brazil,Brazil,"December, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+11,BRA,BRA,Brazil,Brazil,"December, 2015",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2015.0
+12,BRA,BRA,Brazil,Brazil,"January, 2016",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+13,BRA,BRA,Brazil,Brazil,"January, 2016",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+14,BRA,BRA,Brazil,Brazil,"January, 2016",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+15,BRA,BRA,Brazil,Brazil,"January, 2016",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+16,BRA,BRA,Brazil,Brazil,"February, 2016",0.0,0.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+17,BRA,BRA,Brazil,Brazil,"February, 2016",1.0,5.0,0.0,0,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Brazil,Member State,South Cone,0,0K,0%,0%,2016.0
+18,BRA,BRA,Brazil,Brazil,"February, 2016",0.0,0.0,0.0,526,Brasil,76.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Brazil,Member State,South Cone,1451,0K,197700%,0%,2016.0
+0,COL,COL,Colombia,Colombia,"October, 2015",0.0,39.0,0.0,9,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Colombia,Member State,Andean,89,0K,9800%,0%,2015.0
+1,COL,COL,Colombia,Colombia,"October, 2015",0.0,0.0,0.0,46,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Colombia,Member State,Andean,0,0K,4600%,0%,2015.0
+2,COL,COL,Colombia,Colombia,"October, 2015",0.0,0.0,0.0,193,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Colombia,Member State,Andean,150,0K,34300%,0%,2015.0
+3,COL,COL,Colombia,Colombia,"October, 2015",0.0,0.0,0.0,93,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Colombia,Member State,Andean,247,0K,34000%,0%,2015.0
+4,COL,COL,Colombia,Colombia,"November, 2015",0.0,0.0,0.0,52,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Colombia,Member State,Andean,362,0K,41400%,0%,2015.0
+5,COL,COL,Colombia,Colombia,"November, 2015",0.0,0.0,0.0,95,Colombia,170.0,170.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Colombia,Member State,Andean,741,0K,83600%,0%,2015.0
+6,COL,COL,Colombia,Colombia,"November, 2015",0.0,0.0,0.0,90,Colombia,170.0,170.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Colombia,Member State,Andean,1046,0K,113600%,0%,2015.0
+7,COL,COL,Colombia,Colombia,"November, 2015",0.0,0.0,0.0,0,Colombia,170.0,170.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Colombia,Member State,Andean,1065,0K,106500%,0%,2015.0
+8,COL,COL,Colombia,Colombia,"December, 2015",0.0,0.0,0.0,37,Colombia,170.0,170.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Colombia,Member State,Andean,1363,0K,140000%,0%,2015.0
+9,COL,COL,Colombia,Colombia,"December, 2015",0.0,0.0,0.0,61,Colombia,170.0,170.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Colombia,Member State,Andean,1777,0K,183800%,0%,2015.0
+10,COL,COL,Colombia,Colombia,"December, 2015",0.0,0.0,0.0,24,Colombia,170.0,170.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Colombia,Member State,Andean,1452,0K,147600%,0%,2015.0
+11,COL,COL,Colombia,Colombia,"December, 2015",0.0,0.0,0.0,36,Colombia,170.0,170.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Colombia,Member State,Andean,988,0K,102400%,0%,2015.0
+12,COL,COL,Colombia,Colombia,"December, 2015",0.0,0.0,0.0,10,Colombia,170.0,170.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Colombia,Member State,Andean,1686,0K,169600%,0%,2015.0
+13,COL,COL,Colombia,Colombia,"January, 2016",0.0,0.0,0.0,30,Colombia,170.0,170.0,14.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Colombia,Member State,Andean,1789,0K,181900%,0%,2016.0
+14,COL,COL,Colombia,Colombia,"January, 2016",0.0,0.0,0.0,22,Colombia,170.0,170.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Colombia,Member State,Andean,2866,0K,288800%,0%,2016.0
+15,COL,COL,Colombia,Colombia,"January, 2016",0.0,0.0,0.0,252,Colombia,170.0,170.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Colombia,Member State,Andean,3626,0K,387800%,321300%,2016.0
+16,COL,COL,Colombia,Colombia,"January, 2016",0.0,0.0,0.0,281,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,3177.0,4,0.0,Colombia,Member State,Andean,5067,4K,534800%,321300%,2016.0
+17,COL,COL,Colombia,Colombia,"February, 2016",3.0,0.0,0.0,173,Colombia,170.0,170.0,0.0,3.0,1.0,0.0,0.0,0.0,1836.0,5,0.0,Colombia,Member State,Andean,5737,4K,591000%,321300%,2016.0
+18,COL,COL,Colombia,Colombia,"February, 2016",0.0,0.0,0.0,108,Colombia,170.0,170.0,0.0,0.0,1.0,0.0,0.0,0.0,1343.0,6,0.0,Colombia,Member State,Andean,5348,4K,545600%,321300%,2016.0
+0,COR,CRI,Costa Rica,Costa Rica,"October, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+1,COR,CRI,Costa Rica,Costa Rica,"October, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+2,COR,CRI,Costa Rica,Costa Rica,"October, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+3,COR,CRI,Costa Rica,Costa Rica,"October, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+4,COR,CRI,Costa Rica,Costa Rica,"November, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+5,COR,CRI,Costa Rica,Costa Rica,"November, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+6,COR,CRI,Costa Rica,Costa Rica,"November, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+7,COR,CRI,Costa Rica,Costa Rica,"November, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+8,COR,CRI,Costa Rica,Costa Rica,"December, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+9,COR,CRI,Costa Rica,Costa Rica,"December, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+10,COR,CRI,Costa Rica,Costa Rica,"December, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+11,COR,CRI,Costa Rica,Costa Rica,"December, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+12,COR,CRI,Costa Rica,Costa Rica,"December, 2015",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2015.0
+13,COR,CRI,Costa Rica,Costa Rica,"January, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+14,COR,CRI,Costa Rica,Costa Rica,"January, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+15,COR,CRI,Costa Rica,Costa Rica,"January, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+16,COR,CRI,Costa Rica,Costa Rica,"January, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+17,COR,CRI,Costa Rica,Costa Rica,"January, 2016",0.0,0.0,0.0,1,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Costa Rica,Member State,Central America,0,0K,100%,0%,2016.0
+18,COR,CRI,Costa Rica,Costa Rica,"February, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+19,COR,CRI,Costa Rica,Costa Rica,"February, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+20,COR,CRI,Costa Rica,Costa Rica,"February, 2016",0.0,0.0,0.0,0,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7,0.0,Costa Rica,Member State,Central America,0,0K,0%,0%,2016.0
+21,COR,CRI,Costa Rica,Costa Rica,"February, 2016",0.0,0.0,0.0,2,Costa Rica,188.0,188.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,8,0.0,Costa Rica,Member State,Central America,0,0K,200%,0%,2016.0
+0,CUW,CUW,Curacao,Curacao,"October, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,CUW,CUW,Curacao,Curacao,"October, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,CUW,CUW,Curacao,Curacao,"October, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,CUW,CUW,Curacao,Curacao,"October, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,CUW,CUW,Curacao,Curacao,"November, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,CUW,CUW,Curacao,Curacao,"November, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,CUW,CUW,Curacao,Curacao,"November, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,CUW,CUW,Curacao,Curacao,"November, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,CUW,CUW,Curacao,Curacao,"December, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,CUW,CUW,Curacao,Curacao,"December, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,CUW,CUW,Curacao,Curacao,"December, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,CUW,CUW,Curacao,Curacao,"December, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,CUW,CUW,Curacao,Curacao,"December, 2015",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,CUW,CUW,Curacao,Curacao,"January, 2016",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,CUW,CUW,Curacao,Curacao,"January, 2016",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+15,CUW,CUW,Curacao,Curacao,"January, 2016",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,CUW,CUW,Curacao,Curacao,"January, 2016",0.0,0.0,0.0,1,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,100%,0%,2016.0
+17,CUW,CUW,Curacao,Curacao,"January, 2016",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,CUW,CUW,Curacao,Curacao,"February, 2016",0.0,0.0,0.0,0,Curazao,531.0,531.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Netherlands,Associated Member,Non Latin Caribbean,0,0K,0%,0%,2016.0
+0,DOM,DOM,Dominican Republic,Dominican Republic,"October, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+1,DOM,DOM,Dominican Republic,Dominican Republic,"October, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+2,DOM,DOM,Dominican Republic,Dominican Republic,"October, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+3,DOM,DOM,Dominican Republic,Dominican Republic,"October, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+4,DOM,DOM,Dominican Republic,Dominican Republic,"November, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+5,DOM,DOM,Dominican Republic,Dominican Republic,"November, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+6,DOM,DOM,Dominican Republic,Dominican Republic,"November, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+7,DOM,DOM,Dominican Republic,Dominican Republic,"November, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+8,DOM,DOM,Dominican Republic,Dominican Republic,"December, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+9,DOM,DOM,Dominican Republic,Dominican Republic,"December, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+10,DOM,DOM,Dominican Republic,Dominican Republic,"December, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+11,DOM,DOM,Dominican Republic,Dominican Republic,"December, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+12,DOM,DOM,Dominican Republic,Dominican Republic,"December, 2015",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2015.0
+13,DOM,DOM,Dominican Republic,Dominican Republic,"January, 2016",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+14,DOM,DOM,Dominican Republic,Dominican Republic,"January, 2016",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,0%,0%,2016.0
+15,DOM,DOM,Dominican Republic,Dominican Republic,"January, 2016",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Dominican Republic,Member State,Latin Caribbean,27,0K,2700%,0%,2016.0
+16,DOM,DOM,Dominican Republic,Dominican Republic,"January, 2016",0.0,0.0,0.0,10,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Dominican Republic,Member State,Latin Caribbean,0,0K,1000%,0%,2016.0
+17,DOM,DOM,Dominican Republic,Dominican Republic,"January, 2016",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Dominican Republic,Member State,Latin Caribbean,77,0K,7700%,0%,2016.0
+18,DOM,DOM,Dominican Republic,Dominican Republic,"February, 2016",0.0,0.0,0.0,8,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Dominican Republic,Member State,Latin Caribbean,119,0K,12700%,0%,2016.0
+19,DOM,DOM,Dominican Republic,Dominican Republic,"February, 2016",0.0,0.0,0.0,0,República Dominicana,214.0,214.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6,0.0,Dominican Republic,Member State,Latin Caribbean,82,0K,8200%,0%,2016.0
+0,ECU,ECU,Ecuador,Ecuador,"October, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+1,ECU,ECU,Ecuador,Ecuador,"October, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+2,ECU,ECU,Ecuador,Ecuador,"October, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+3,ECU,ECU,Ecuador,Ecuador,"October, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+4,ECU,ECU,Ecuador,Ecuador,"November, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+5,ECU,ECU,Ecuador,Ecuador,"November, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+6,ECU,ECU,Ecuador,Ecuador,"November, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+7,ECU,ECU,Ecuador,Ecuador,"November, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+8,ECU,ECU,Ecuador,Ecuador,"December, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+9,ECU,ECU,Ecuador,Ecuador,"December, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+10,ECU,ECU,Ecuador,Ecuador,"December, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+11,ECU,ECU,Ecuador,Ecuador,"December, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+12,ECU,ECU,Ecuador,Ecuador,"December, 2015",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2015.0
+13,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2016.0
+14,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,4.0,2,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Ecuador,Member State,Andean,0,0K,200%,0%,2016.0
+15,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2016.0
+16,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,1.0,5,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Ecuador,Member State,Andean,0,0K,500%,0%,2016.0
+17,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2016.0
+18,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,5.0,6,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Ecuador,Member State,Andean,0,0K,600%,0%,2016.0
+19,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2016.0
+20,ECU,ECU,Ecuador,Ecuador,"January, 2016",0.0,0.0,4.0,12,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Ecuador,Member State,Andean,0,0K,1200%,0%,2016.0
+21,ECU,ECU,Ecuador,Ecuador,"February, 2016",0.0,0.0,0.0,0,Ecuador,218.0,218.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Ecuador,Member State,Andean,0,0K,0%,0%,2016.0
+0,BRB,BRB,Barbados,Barbados,"October, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,40,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+1,BRB,BRB,Barbados,Barbados,"October, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,41,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+2,BRB,BRB,Barbados,Barbados,"October, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,42,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+3,BRB,BRB,Barbados,Barbados,"October, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,43,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+4,BRB,BRB,Barbados,Barbados,"November, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,44,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+5,BRB,BRB,Barbados,Barbados,"November, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,45,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+6,BRB,BRB,Barbados,Barbados,"November, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,46,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+7,BRB,BRB,Barbados,Barbados,"November, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,47,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+8,BRB,BRB,Barbados,Barbados,"December, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,48,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+9,BRB,BRB,Barbados,Barbados,"December, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,49,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+10,BRB,BRB,Barbados,Barbados,"December, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,50,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+11,BRB,BRB,Barbados,Barbados,"December, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,51,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+12,BRB,BRB,Barbados,Barbados,"December, 2015",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,52,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2015.0
+13,BRB,BRB,Barbados,Barbados,"January, 2016",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+14,BRB,BRB,Barbados,Barbados,"January, 2016",0.0,0.0,0.0,3,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,300%,0%,2016.0
+15,BRB,BRB,Barbados,Barbados,"January, 2016",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+16,BRB,BRB,Barbados,Barbados,"January, 2016",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+17,BRB,BRB,Barbados,Barbados,"January, 2016",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+18,BRB,BRB,Barbados,Barbados,"February, 2016",0.0,0.0,0.0,0,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,0%,0%,2016.0
+19,BRB,BRB,Barbados,Barbados,"February, 2016",0.0,0.0,0.0,4,Barbados,52.0,52.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,6,0.0,Barbados,Member State,Non Latin Caribbean,0,0K,400%,0%,2016.0
