@@ -1,4 +1,4 @@
-location,location_type,country,state_province,district_country_muncipality,city,alt_name1,alt_name2
+location,location_type,country,state_province,district_county_municipality,city,alt_name1,alt_name2
 El_Salvador-Ahuachapan,department,El_Salvador,Ahuachapan,NA,NA,NA,NA
 El_Salvador-Cabanas,department,El_Salvador,Cabanas,NA,NA,NA,NA
 El_Salvador-Chalatenango,department,El_Salvador,Chalatenango,NA,NA,NA,NA
