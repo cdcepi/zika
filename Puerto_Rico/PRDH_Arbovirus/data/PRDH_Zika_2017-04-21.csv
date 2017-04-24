@@ -1,0 +1,14 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_4weeks,PR0001,NA,NA,119,cases
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_cumulative_2016,PR0003,NA,NA,39065,cases
+2017-04-21,United_States-Puerto_Rico,territory,flavi_confirmed_cumulative_2016,PR0005,NA,NA,607,cases
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_cumulative_2016-2017,PR0024,NA,NA,40067,cases
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_pregnant_cumulative_2016-2017,PR0025,NA,NA,3508,cases
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_pregnant_symptomatic_cumulative_2016-2017,PR0026,NA,NA,1915,cases
+2017-04-21,United_States-Puerto_Rico,territory,zika_confirmed_pregnant_asymptomatic_cumulative_2016-2017,PR0027,NA,NA,1593,cases
+2017-04-21,United_States-Puerto_Rico,territory,gbs_reported_cumulative_2016-2017,PR0028,NA,NA,71,cases
+2017-04-21,United_States-Puerto_Rico,territory,gbs_reported_zika_confirmed,PR0013,NA,NA,54,cases
+2017-04-21,United_States-Puerto_Rico,territory,gbs_reported_flavi_confirmed,PR0014,NA,NA,17,cases
+2017-04-21,United_States-Puerto_Rico,territory,congenital_developmental_defects_reported_cummulative_2016-2017,PR0029,NA,NA,29,cases
+2017-04-21,United_States-Puerto_Rico,territory,arbovirus_suspected_4weeks,PR0011,NA,NA,1047,cases
+2017-04-21,United_States-Puerto_Rico,territory,arbovirus_suspected_cumulative_2016,PR0012,NA,NA,73111,cases
