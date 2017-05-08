@@ -9,7 +9,7 @@ Source:
       <http://www.cdc.gov/zika/geo/united-states.html>  
 
     first report_date: 2016-02-24
-    last report_date: 2016-09-14
+    last report_date: ongoing
 
 Note: Case counts for Texas on March 16 were accidentaly doubled
 
