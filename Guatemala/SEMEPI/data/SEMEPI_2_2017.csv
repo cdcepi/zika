@@ -1,0 +1,15 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2017-01-15,Guatemala-Central,municipality,total_zika_suspected,GT0001,NA,NA,13,cases
+2017-01-15,Guatemala-Chiquimula,municipality,total_zika_suspected,GT0001,NA,NA,1,cases
+2017-01-15,Guatemala-Sur,municipality,total_zika_suspected,GT0001,NA,NA,2,cases
+2017-01-15,Guatemala-Quetzaltenango,municipality,total_zika_suspected,GT0001,NA,NA,1,cases
+2017-01-15,Guatemala-Nor_Occidente,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-El_Progreso,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Escuintla,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Santa_Rosa,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Suchitepequez,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Izabal,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Zacapa,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Alta_Verapaz,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala-Peten_Sur_Oriental,municipality,total_zika_suspected,GT0001,NA,NA,0,cases
+2017-01-15,Guatemala,country,total_zika_suspected,GT0001,NA,NA,17,cases
