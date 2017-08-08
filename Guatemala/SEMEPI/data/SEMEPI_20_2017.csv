@@ -25,4 +25,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-05-21,Guatemala-San_Marcos,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
 2017-05-21,Guatemala-Jalapa,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
 2017-05-21,Guatemala-Ixcan,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
-2017-05-21,Total,municipality,total_zika_suspected,GT0001,NA,NA,222.0,cases
+2017-05-21,Guatemala,country,total_zika_suspected,GT0001,NA,NA,222.0,cases

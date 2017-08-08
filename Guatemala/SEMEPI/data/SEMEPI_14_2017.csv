@@ -1,6 +1,6 @@
 report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
 2017-04-09,Guatemala-Escuintla,municipality,total_zika_suspected,GT0001,NA,NA,1215.0,cases
-2017-04-09,Total,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-04-09,Guatemala,country,total_zika_suspected,GT0001,NA,NA,,cases
 2017-04-09,Guatemala-Escuintla,municipality,total_zika_suspected,GT0001,NA,NA,1215.0,cases
 2017-04-09,Guatemala-Izabal,municipality,total_zika_suspected,GT0001,NA,NA,61.0,cases
 2017-04-09,Guatemala-Suchitepequez,municipality,total_zika_suspected,GT0001,NA,NA,59.0,cases

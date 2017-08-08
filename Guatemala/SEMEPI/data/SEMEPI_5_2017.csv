@@ -20,4 +20,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-02-05,Guatemala-San_Marcos,municipality,total_zika_suspected,GT0001,NA,NA,,cases
 2017-02-05,Guatemala-Suchitepequez,municipality,total_zika_suspected,GT0001,NA,NA,,cases
 2017-02-05,Guatemala-Zacapa,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-02-05,Total,municipality,total_zika_suspected,GT0001,NA,NA,69.0,cases
+2017-02-05,Guatemala,country,total_zika_suspected,GT0001,NA,NA,69.0,cases
