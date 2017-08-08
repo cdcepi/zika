@@ -1,0 +1,10 @@
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+2017-06-25,Guatemala-Central,municipality,total_zika_suspected,GT0001,NA,NA,2.9,cases
+2017-06-25,Guatemala-Retalhuleu,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-06-25,Guatemala-Quetzaltenango,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-06-25,Guatemala-Sur,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-06-25,Guatemala-San_Marcos,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-06-25,Guatemala-Sacatepequez,municipality,total_zika_suspected,GT0001,NA,NA,0.3,cases
+2017-06-25,Guatemala-Santa_Rosa,municipality,total_zika_suspected,GT0001,NA,NA,0.8,cases
+2017-06-25,Guatemala-Alta_Verapaz,municipality,total_zika_suspected,GT0001,NA,NA,0.1,cases
+2017-06-25,Total,municipality,total_zika_suspected,GT0001,NA,NA,0.21,cases

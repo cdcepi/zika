@@ -1,0 +1,13 @@
+health_area,value,location_type,data_field_code,time_period,time_period_type,unit,location
+Guatemala Central,5.0,municipality,GT0001,NA,NA,cases,Guatemala-Central
+Quetzaltenango,1.0,municipality,GT0001,NA,NA,cases,Guatemala-Quetzaltenango
+Guatemala Nor Occidente,,municipality,GT0001,NA,NA,cases,Guatemala-Nor_Occidente
+El Progreso,,municipality,GT0001,NA,NA,cases,Guatemala-El_Progreso
+Escuintla,,municipality,GT0001,NA,NA,cases,Guatemala-Escuintla
+Suchitepéquez,,municipality,GT0001,NA,NA,cases,Guatemala-Suchitepequez
+Izabal,,municipality,GT0001,NA,NA,cases,Guatemala-Izabal
+Zacapa,,municipality,GT0001,NA,NA,cases,Guatemala-Zacapa
+Chiquimula,,municipality,GT0001,NA,NA,cases,Guatemala-Chiquimula
+Alta Verapaz,,municipality,GT0001,NA,NA,cases,Guatemala-Alta_Verapaz
+Petén Sur Oriental,,municipality,GT0001,NA,NA,cases,Guatemala-Peten_Sur_Oriental
+Guatemala,6.0,municipality,GT0001,NA,NA,cases,Guatemala
