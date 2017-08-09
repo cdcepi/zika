@@ -8,6 +8,6 @@ Guatemala Place Names: [GT_Places.csv](GT_Places.csv)
 Source: <http://epidemiologia.mspas.gob.gt/index.php/dos/salas-situacionales>  
 
      first report_date: 2015-12-09  
-     last report_date: 2017-6-24
+     last report_date: ongoing
 
 Source for 2017 data can be found [here](http://epidemiologia.mspas.gob.gt/files/Publicaciones%202017/SEMEPI%202017/)
