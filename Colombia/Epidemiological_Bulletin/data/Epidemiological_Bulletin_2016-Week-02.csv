@@ -24,7 +24,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,1,cases
 2016-01-21,Colombia-Casanare_Yopal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,1,cases
@@ -163,7 +163,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Casanare_Yopal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -302,7 +302,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,5,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,12,cases
 2016-01-21,Colombia-Casanare_Yopal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
