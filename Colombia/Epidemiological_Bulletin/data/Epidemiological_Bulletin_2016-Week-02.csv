@@ -137,7 +137,6 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Medellin,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Barbosa,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Antioquia-Unknown,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -276,7 +275,6 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Antioquia-Medellin,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,5,cases
 2016-01-21,Colombia-Antioquia-Barbosa,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Unknown,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
@@ -415,4 +413,3 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
