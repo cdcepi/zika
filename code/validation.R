@@ -67,4 +67,5 @@ validate <- function(this_csv, data_guide, places) {
      if (error_found) {
           warning("Have another coffee and fix the errors listed above")
           } else print("No errors found! Go outside and enjoy the day")
+      return(!error_found)
 } 
