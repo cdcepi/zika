@@ -13,7 +13,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -152,7 +152,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_suspected_pregnant,CO0006,NA,NA,5,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
@@ -291,7 +291,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,8,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,3,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,140,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
