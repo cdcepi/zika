@@ -15,4 +15,4 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-01-29,Guatemala-Izabal,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
 2017-01-29,Guatemala-Zacapa,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
 2017-01-29,Guatemala-Peten_Sur_Oriental,municipality,total_zika_suspected,GT0001,NA,NA,0.0,cases
-2017-01-29,Guatemala,municipality,total_zika_suspected,GT0001,NA,NA,48.0,cases
+2017-01-29,Guatemala,country,total_zika_suspected,GT0001,NA,NA,48.0,cases
