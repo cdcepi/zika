@@ -42,7 +42,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,8,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -181,7 +181,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_suspected_pregnant,CO0006,NA,NA,2,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -320,7 +320,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,19,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,8,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
