@@ -116,7 +116,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,3,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,2,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -255,7 +255,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -394,7 +394,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,12,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,3,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,11,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,6,cases
