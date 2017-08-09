@@ -55,7 +55,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -194,7 +194,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
@@ -333,7 +333,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
