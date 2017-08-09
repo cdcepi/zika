@@ -81,7 +81,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,7,cases
@@ -220,7 +220,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_suspected_pregnant,CO0006,NA,NA,3,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -359,7 +359,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,378,cases
