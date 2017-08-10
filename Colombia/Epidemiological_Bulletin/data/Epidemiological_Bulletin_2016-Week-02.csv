@@ -13,7 +13,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -24,9 +24,9 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,1,cases
-2016-01-21,Colombia-Casanare_Yopal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Casanare-Yopal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,1,cases
 2016-01-21,Colombia-Cesar-Aguachica,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cesar-El_Copey,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -42,7 +42,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,8,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -55,7 +55,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -81,7 +81,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,7,cases
@@ -116,7 +116,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,3,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,2,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
@@ -133,11 +133,10 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Tolima-Saldana,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Armero_(Guayabal),municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Natagaima,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Palmira,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Vijes,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Buga,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Cali,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Palmira,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_confirmed_laboratory_pregnant,CO0005,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Medellin,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Barbosa,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Antioquia-Unknown,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -152,7 +151,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_suspected_pregnant,CO0006,NA,NA,5,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
@@ -163,9 +162,9 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Casanare_Yopal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
+2016-01-21,Colombia-Casanare-Yopal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cesar-Aguachica,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cesar-El_Copey,municipality,zika_suspected_pregnant,CO0006,NA,NA,2,cases
@@ -181,7 +180,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_suspected_pregnant,CO0006,NA,NA,2,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -194,7 +193,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
@@ -220,7 +219,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_suspected_pregnant,CO0006,NA,NA,3,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -255,7 +254,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
@@ -272,11 +271,10 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Tolima-Saldana,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Tolima-Armero_(Guayabal),municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
 2016-01-21,Colombia-Tolima-Natagaima,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Valle-Palmira,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Valle-Vijes,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Valle-Buga,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
-2016-01-21,Colombia-Valle-Cali,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Palmira,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_suspected_pregnant,CO0006,NA,NA,1,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_suspected_pregnant,CO0006,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Medellin,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,5,cases
 2016-01-21,Colombia-Antioquia-Barbosa,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Antioquia-Unknown,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
@@ -291,7 +289,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Atlantico-Puerto_Colombia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,8,cases
 2016-01-21,Colombia-Atlantico-Palmar_De_Varela,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Atlantico-Malambo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,3,cases
-2016-01-21,Colombia-Atlantico-Polo_nuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Atlantico-Polonuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Barranquilla-Barranquilla,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,140,cases
 2016-01-21,Colombia-Bogota-Bogota,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Bolivar-Cicuco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
@@ -302,9 +300,9 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Bolivar-El_Penon,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Caldas-Victoria,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Caqueta-Florencia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,5,cases
-2016-01-21,Colombia-Caqueta-La_montanita,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Caqueta-La_Montanita,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cartagena-Cartagena,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,12,cases
-2016-01-21,Colombia-Casanare_Yopal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
+2016-01-21,Colombia-Casanare-Yopal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Cauca-Mercaderes,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cesar-Aguachica,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,8,cases
 2016-01-21,Colombia-Cesar-El_Copey,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
@@ -320,7 +318,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cordoba-Monteria,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,19,cases
 2016-01-21,Colombia-Cordoba-San_Pelayo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cordoba-Planeta_Rica,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Cordoba-La_apartada,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Cordoba-La_Apartada,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Agua_De_Dios,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
 2016-01-21,Colombia-Cundinamarca-Girardot,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,8,cases
 2016-01-21,Colombia-Cundinamarca-La_Mesa,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
@@ -333,7 +331,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Cundinamarca-Ricaurte,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Cundinamarca-Viota,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Cundinamarca-Fusagasuga,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Cundinamarca-El_colegio,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Cundinamarca-El_Colegio,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Unknown,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Villanueva,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Guajira-Fonseca,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
@@ -359,7 +357,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Magdalena-Sitio_Nuevo,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Magdalena-Zona_Bananera,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Meta-Acacias,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Narino-Tumaco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
+2016-01-21,Colombia-Narino-San_Andres_De_Tumaco,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,1,cases
 2016-01-21,Colombia-Narino-Ipiales,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Abrego,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Norte_Santander-Cucuta,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,378,cases
@@ -394,7 +392,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Sucre-Corozal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,12,cases
 2016-01-21,Colombia-Sucre-Majagual,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Sucre-San_Juan_De_Betulia,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Sucre-Coloso_(Ricaurte),municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Sucre-Coloso,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Espinal,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,3,cases
 2016-01-21,Colombia-Tolima-Ibague,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,11,cases
 2016-01-21,Colombia-Tolima-Melgar,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,6,cases
@@ -411,8 +409,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2016-01-21,Colombia-Tolima-Saldana,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Armero_(Guayabal),municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
 2016-01-21,Colombia-Tolima-Natagaima,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Palmira,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Vijes,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Buga,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
-2016-01-21,Colombia-Valle-Cali,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
-2016-01-21,Colombia-Exterior-Venezuela,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Palmira,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Vijes,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Bugalagrande,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,0,cases
+2016-01-21,Colombia-Valle_Del_Cauca-Cali,municipality,zika_confirmed_clinic_pregnant,CO0007,NA,NA,2,cases
