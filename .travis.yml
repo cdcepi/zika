@@ -1,0 +1,4 @@
+language: r
+cache: packages
+sudo: false
+script: cd code/ && Rscript validate_all.R
