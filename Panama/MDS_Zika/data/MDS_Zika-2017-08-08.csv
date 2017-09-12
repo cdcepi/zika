@@ -31,7 +31,6 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-08-08,Panama-Ngabe_Bugle,province,Zika_confirmed_laboratory_2017,PA0028,NA,NA,0,cases,
 2017-08-08,Panama-Chiriqui,province,Zika_confirmed_laboratory_2017,PA0028,NA,NA,1,cases,
 2017-08-08,Panama-Importados,province,Zika_confirmed_laboratory_2017,PA0028,NA,NA,0,cases,
-2017-08-08,Panama-SD,province,Zika_confirmed_laboratory_2017,PA0028,NA,NA,1,cases,
 2017-08-08,Panama,country,weekly_Zika_confirmed_imported,PA0019,NA,NA,41,cases,
 2017-08-08,Panama-Bocas_del_Toro,province,Zika_positive_pregnant_2015_2017,PA0029,NA,NA,1,cases,
 2017-08-08,Panama-Cocle,province,Zika_positive_pregnant_2015_2017,PA0029,NA,NA,0,cases,
