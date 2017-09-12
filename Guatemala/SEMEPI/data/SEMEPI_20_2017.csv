@@ -1,5 +1,4 @@
 report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
-2017-05-21,Guatemala-Retalhuleu,municipality,total_zika_suspected,GT0001,NA,NA,,cases
 2017-05-21,Guatemala-Central,municipality,total_zika_suspected,GT0001,NA,NA,101.0,cases
 2017-05-21,Guatemala-Santa_Rosa,municipality,total_zika_suspected,GT0001,NA,NA,20.0,cases
 2017-05-21,Guatemala-Escuintla,municipality,total_zika_suspected,GT0001,NA,NA,23.0,cases
