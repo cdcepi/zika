@@ -25,3 +25,9 @@ vignettes/*.pdf
 
 .DS_Store
 
+# Package DESCRIPTION files for third party packages
+DESCRIPTION*
+
+# yml
+*.yml
+
