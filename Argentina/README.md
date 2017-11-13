@@ -10,6 +10,6 @@ Argentina Place Names: [AR_Places.csv](AR_Place.csv)
 Source: <http://www.msal.gob.ar/index.php/home/boletin-integrado-de-vigilancia>
 
     first report_date: 2016-03-19
-    last report_date: ongoing  
+    last report_date: 2017-06-19  
     
     Note: no reports/no new cases for 2017, weeks 3, 4, and 5.
