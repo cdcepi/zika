@@ -19,10 +19,10 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-07-16,Guatemala-Nor_Occidente,municipality,total_zika_suspected,GT0001,NA,NA,5,cases
 2017-07-16,Guatemala-Alta_Verapaz,municipality,total_zika_suspected,GT0001,NA,NA,2,cases
 2017-07-16,Guatemala-Huehuetenango,municipality,total_zika_suspected,GT0001,NA,NA,1,cases
-2017-07-16,Guatemala-Nor_Oriente,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-07-16,Guatemala-El_Progreso,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-07-16,Guatemala-Sacatepequez,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-07-16,Guatemala-Solola,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-07-16,Guatemala-San_Marcos,municipality,total_zika_suspected,GT0001,NA,NA,,cases
-2017-07-16,Guatemala-Ixcan,municipality,total_zika_suspected,GT0001,NA,NA,,cases
+2017-07-16,Guatemala-Nor_Oriente,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
+2017-07-16,Guatemala-El_Progreso,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
+2017-07-16,Guatemala-Sacatepequez,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
+2017-07-16,Guatemala-Solola,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
+2017-07-16,Guatemala-San_Marcos,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
+2017-07-16,Guatemala-Ixcan,municipality,total_zika_suspected,GT0001,NA,NA,NA,cases
 2017-07-16,Guatemala,country,total_zika_suspected,GT0001,NA,NA,294,cases

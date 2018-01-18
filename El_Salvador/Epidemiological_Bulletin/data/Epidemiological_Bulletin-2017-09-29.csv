@@ -9,7 +9,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-09-29,El_Salvador-La_Libertad,department,cumulative_suspected_total,SV0010,NA,NA,30,cases
 2017-09-29,El_Salvador-La_Union,department,cumulative_suspected_total,SV0010,NA,NA,7,cases
 2017-09-29,El_Salvador-Morazan,department,cumulative_suspected_total,SV0010,NA,NA,3,cases
-2017-09-29,El_Salvador-Cabañas,department,cumulative_suspected_total,SV0010,NA,NA,7,cases
+2017-09-29,El_Salvador-Cabanas,department,cumulative_suspected_total,SV0010,NA,NA,7,cases
 2017-09-29,El_Salvador-Sonsonate,department,cumulative_suspected_total,SV0010,NA,NA,18,cases
 2017-09-29,El_Salvador-La_Paz,department,cumulative_suspected_total,SV0010,NA,NA,9,cases
 2017-09-29,El_Salvador-Ahuachapan,department,cumulative_suspected_total,SV0010,NA,NA,3,cases
@@ -26,7 +26,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-09-29,El_Salvador,country,cumulative_suspected_age_50-59,SV0008,NA,NA,12,cases
 2017-09-29,El_Salvador,country,cumulative_suspected_age_60_plus,SV0009,NA,NA,6,cases
 2017-09-29,El_Salvador-Chalatenango,department,cumulative_suspected_pregnant,SV0011,NA,NA,5,cases
-2017-09-29,El_Salvador-Cabañas,department,cumulative_suspected_pregnant,SV0011,NA,NA,5,cases
+2017-09-29,El_Salvador-Cabanas,department,cumulative_suspected_pregnant,SV0011,NA,NA,5,cases
 2017-09-29,El_Salvador-Cuscatlan,department,cumulative_suspected_pregnant,SV0011,NA,NA,3,cases
 2017-09-29,El_Salvador-Usulutan,department,cumulative_suspected_pregnant,SV0011,NA,NA,3,cases
 2017-09-29,El_Salvador-San_Salvador,department,cumulative_suspected_pregnant,SV0011,NA,NA,13,cases

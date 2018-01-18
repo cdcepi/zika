@@ -42,7 +42,7 @@ Unless otherwise noted each of the following fields is required:
 
     data_field: microcephaly_under_investigation
 
-**data_field_code**: This code is defined in the country data guide. It includes a two letter country code (ISO-3166 alpha-2, [list](http://www.iso.org/iso/home/standards/country_codes/country_names_and_code_elements_txt-temp.htm)), followed by a 4-digit number corresponding to a specific report type and data type. If the exact 'data_field' and 'data_field_code' do not exist in the country-specific data dictionary, open an Issue to create a new 'data_field' and corresponding 'data_field_code'.
+**data_field_code**: This code is defined in the country data guide. It includes a two letter country code (ISO-3166 alpha-2, [list](https://www.iso.org/obp/ui/#search/code)), followed by a 4-digit number corresponding to a specific report type and data type. If the exact 'data_field' and 'data_field_code' do not exist in the country-specific data dictionary, open an Issue to create a new 'data_field' and corresponding 'data_field_code'.
 
     data_field_code: BR0001
 

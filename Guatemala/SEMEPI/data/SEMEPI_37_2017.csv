@@ -1,4 +1,4 @@
-﻿report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
+report_date,location,location_type,data_field,data_field_code,time_period,time_period_type,value,unit
 2017-09-17,Guatemala-Central,municipality,total_zika_suspected,GT0001,NA,NA,182,cases
 2017-09-17,Guatemala-Chiquimula,municipality,total_zika_suspected,GT0001,NA,NA,37,cases
 2017-09-17,Guatemala-Santa_Rosa,municipality,total_zika_suspected,GT0001,NA,NA,26,cases

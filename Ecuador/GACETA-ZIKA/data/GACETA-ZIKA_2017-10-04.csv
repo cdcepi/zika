@@ -12,7 +12,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-10-04,Ecuador-Galapagos,province,total_zika_confirmed_cumulative,EC0002,NA,NA,3,cases
 2017-10-04,Ecuador-Azuay,province,total_zika_confirmed_cumulative,EC0002,NA,NA,2,cases
 2017-10-04,Ecuador-Bolivar,province,total_zika_confirmed_cumulative,EC0002,NA,NA,2,cases
-2017-10-04,Ecuador-Cañar,province,total_zika_confirmed_cumulative,EC0002,NA,NA,2,cases
+2017-10-04,Ecuador-Canar,province,total_zika_confirmed_cumulative,EC0002,NA,NA,2,cases
 2017-10-04,Ecuador-Chimborazo,province,total_zika_confirmed_cumulative,EC0002,NA,NA,1,cases
 2017-10-04,Ecuador-Imbabura,province,total_zika_confirmed_cumulative,EC0002,NA,NA,1,cases
 2017-10-04,Ecuador-Orellana,province,total_zika_confirmed_cumulative,EC0002,NA,NA,1,cases
@@ -28,7 +28,7 @@ report_date,location,location_type,data_field,data_field_code,time_period,time_p
 2017-10-04,Ecuador-Santa_Elena,province,total_zika_confirmed_pregnant,EC0005,NA,NA,17,cases
 2017-10-04,Ecuador-Sucumbios,province,total_zika_confirmed_pregnant,EC0005,NA,NA,7,cases
 2017-10-04,Ecuador-Bolivar,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
-2017-10-04,Ecuador-Cañar,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
+2017-10-04,Ecuador-Canar,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
 2017-10-04,Ecuador-Cotopaxi,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
 2017-10-04,Ecuador-Galapagos,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
 2017-10-04,Ecuador-Orellana,province,total_zika_confirmed_pregnant,EC0005,NA,NA,1,cases
