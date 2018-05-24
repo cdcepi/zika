@@ -16,7 +16,7 @@ The information from any given report will be captured in three csv files:
 2.	A country place names database
 3.	A country data guide
 
-The first, a report data file fill be created for each report assimilated. The latter two, the places names database and country data guide will be created for each country and will be modified to reflect new types of reports as reports are modified or new reports are added. Each is described below.
+The first, a report data file will be created for each report assimilated. The latter two, the place names database and country data guide will be created for each country and will be modified to reflect new types of reports as reports are modified or new reports are added. Each is described below.
 
 ## Report data files
 
