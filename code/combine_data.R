@@ -21,13 +21,21 @@ if (split_dir[length(split_dir)] == 'code') {
     print(sprintf('changed to: %s', wd))
 }
 
-
 files <- list.files(path = '.',
                     pattern = '[0-9]{4}-[0-9]{2}-[0-9]{2}.csv$',
                     recursive = TRUE,
                     full.names = TRUE)
 
 tables <- lapply(files, readr::read_csv)
-combined_df <- do.call(rbind , tables)
+
+# find the files that are throwing errors
+# file.check <- data.frame(files = files, col.nums = do.call(rbind,lapply(files, function(x) ncol(read.csv(x)))))
+
+#get columns of interest
+variables <- c("report_date", "location", "location_type", "data_field", "data_field_code", 
+               "time_period", "time_period_type", "value", "unit")
+
+#combine all of the files, selecting only the relevant columns
+combined_df <- do.call(rbind , lapply(tables, subset, select = variables))
 
 print("YAY everything stacked!")
